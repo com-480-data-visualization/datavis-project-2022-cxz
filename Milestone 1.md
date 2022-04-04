@@ -12,7 +12,7 @@ Energy statistics are in the spotlight due to their strategic importance to the 
 - Energy prices
 
 The data is well structured and clean but separated into multiple files. We have written scripts to fetch data by website directory. Our pre-processing is primarily concerned with the connecting of various tables. The main work of data-cleaning is concentrated on the treatment of missing values.
- 
+
 
 ## Problematic
 
@@ -41,9 +41,12 @@ The visualization above considers simply the aggregate of all sectors. Consequen
 
 **Energy consumption by sector**
 
-![Imgur](https://i.imgur.com/VLbTJXd.png?3)
+<p align="center">
+    <a href="https://imgur.com/UnLVyiU"><img src="https://i.imgur.com/UnLVyiU.png?2" title="source: imgur.com" /></a>
+    <a href="https://imgur.com/VLbTJXd"><img src="https://i.imgur.com/VLbTJXd.png?3" title="source: imgur.com" /></a>
+</p>
 
-![Imgur](https://i.imgur.com/UnLVyiU.png?2)
+
 
 Eurostat data provides information on energy consumption by type in EU member states, which assists us in meeting energy-related targets. When we visualize the statistics for the EU as a whole and for different member states, we notice that the industrial sector and households consume the majority of energy, whereas total energy consumption varies substantially between countries.
 
