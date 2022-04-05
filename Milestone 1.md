@@ -12,7 +12,7 @@ Energy statistics are in the spotlight due to their strategic importance to the 
 - Energy prices
 
 The data is well structured and clean but separated into multiple files. We have written scripts to fetch data by website directory. Our pre-processing is primarily concerned with the connecting of various tables. The main work of data-cleaning is concentrated on the treatment of missing values.
-
+ 
 
 ## Problematic
 
@@ -26,13 +26,12 @@ In the overview section, we want to show the most important energy related stati
 
 ## Exploratory Data Analysis
 
-<p align="center">
-    <a href="https://imgur.com/4dsXotk"><img src="https://i.imgur.com/4dsXotk.png?3" title="source: imgur.com" /></a>
-</p>
+![Imgur](https://i.imgur.com/4dsXotk.png?3)
 
 **Final energy consumption**
 
 We briefly analyse the final energy consumption for 40 countries from 2009 to 2020, and then use [flourish](https://flourish.studio) to get an initial visualization of top 10 of them on the animation below:
+
 ![](https://i.imgur.com/X5GbgQl.gif)
 
 We can find several information in this visualization. For instance, German's final energy consumption is the largest among 40 countries and also much higher than the second country, i.e. France. And we also notice a rapid increase of final energy consumption in Turkey.
@@ -41,12 +40,9 @@ The visualization above considers simply the aggregate of all sectors. Consequen
 
 **Energy consumption by sector**
 
-<p align="center">
-    <a href="https://imgur.com/UnLVyiU"><img src="https://i.imgur.com/UnLVyiU.png?2" title="source: imgur.com" /></a>
-    <a href="https://imgur.com/VLbTJXd"><img src="https://i.imgur.com/VLbTJXd.png?3" title="source: imgur.com" /></a>
-</p>
+![Imgur](https://i.imgur.com/VLbTJXd.png?3)
 
-
+![Imgur](https://i.imgur.com/UnLVyiU.png?2)
 
 Eurostat data provides information on energy consumption by type in EU member states, which assists us in meeting energy-related targets. When we visualize the statistics for the EU as a whole and for different member states, we notice that the industrial sector and households consume the majority of energy, whereas total energy consumption varies substantially between countries.
 
@@ -76,3 +72,4 @@ Our visualizations not only correlate some of the features from the dataset, but
 **What source of inspiration do you take?**
 
 Our initial inspiration comes from the shortage of energy in Europe during the conflict between Russia and Ukraine. We are also aware of the carbon neutrality goal for our planet. Therfore, we think that it is of great importance to understand the energy-related statistics, including the current usage of renewable energy, energy consumption, energy security, etc.
+
