@@ -21,7 +21,7 @@ Energy has always been a crucial part in our day to day life. In fact, it is so 
 - how quickly are renewable energy replacing traditional energy? What countries are the ahead of others in this process?
 - is there a overall trend regarding the final energy consumption of European countries?
 
-Our final website will consist of 4 major sections.
+Our final website will consist of 3 major sections.
 In the overview section, we want to show the most important energy related statistics of European countries, as well as the overall trend of them as a whole. The sustainability section shows different countries' progress of reaching a cleaner energy structure. In the energy safety section, we want to explore how dependent certain countries are in energy import and export.
 
 ## Exploratory Data Analysis
@@ -57,6 +57,14 @@ It can be seen that overall Iceland (code: IC) and Norway (code: NO) replace app
 Comparing different fields of energy consumption, we notice a significant low percentage in transport for all countries. More efforts should be made to improve the usage of renewable energy in transport.
 
 In our project, we will explore more intuitive and interactive ways to show these data and also combine them with our other visualizations.
+
+**Energy Safety**
+
+European countries has always been considerably dependent on imported energy. We plotted all European countries' Net Imported Energy against their Total Energy Supply in the year 2020. The former is the result of Imported Energy minus Exported Energy, while the latter represents the quantity of energy necessary to satisfy inland consumption. By comparing these statistics, we can see how reliant on import a country is.
+
+![](https://i.imgur.com/k0yBATz.png)
+
+The red line is a referene where Net Import exactly equals to Total Energy Supply. A lot of markers are very close to the red line. That means many countries' energy supply mainly comes from importing. An exception to this pattern is Norway, whose net import is negative.
 
 ## Related work
 **What others have already done with the data?**
