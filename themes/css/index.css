@@ -1376,9 +1376,9 @@ For devices with smaller width like mobile phone
         display: none;
     }
     .header-image{
-        float: right;
-        height: auto;
-        width: 0%;   
+        width: 100%;
+        float: center;
+        filter: brightness(50%);
     }
     .social-media-links{
         width: 100%;
@@ -1831,9 +1831,9 @@ for tabs and large phones
         font-size: 40px;
     }
     .header-image{
-        float: right;
-        height: auto;
-        width: 0%;   
+        width: 100%;
+        float: center;
+        filter: brightness(50%);
     }
     .social-media-links{
         width: 100%;
