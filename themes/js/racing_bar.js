@@ -1,15 +1,15 @@
 // Feel free to change or delete any of the code you see in this editor!
-var svg = d3.select(".racing-chart-div").append("svg")
+let racing_svg = d3.select(".racing-chart-div").append("svg")
 .attr("width", 960)
 .attr("height", 600);
 
 
 
-var tickDuration = 500;
+let tickDuration = 500;
 
-var top_n = 12;
-var height = 600;
-var width = 960;
+let top_n = 12;
+let height = 600;
+let width = 960;
 
 const margin = {
 top: 80,
@@ -20,17 +20,17 @@ left: 0
 
 let barPadding = (height-(margin.bottom+margin.top))/(top_n*5);
 
-let title = svg.append('text')
+let title = racing_svg.append('text')
 .attr('class', 'title')
 .attr('y', 24)
 .html('18 years of Interbrand’s Top Global Brands');
 
-let subTitle = svg.append("text")
+let subTitle = racing_svg.append("text")
 .attr("class", "subTitle")
 .attr("y", 55)
 .html("Brand value, $m");
 
-let caption = svg.append('text')
+let caption = racing_svg.append('text')
 .attr('class', 'caption')
 .attr('x', width)
 .attr('y', height-5)
@@ -76,14 +76,14 @@ let xAxis = d3.axisTop()
   .tickSize(-(height-margin.top-margin.bottom))
   .tickFormat(d => d3.format(',')(d));
 
-svg.append('g')
+racing_svg.append('g')
  .attr('class', 'axis xAxis')
  .attr('transform', `translate(0, ${margin.top})`)
  .call(xAxis)
  .selectAll('.tick line')
  .classed('origin', d => d == 0);
 
-svg.selectAll('rect.bar')
+racing_svg.selectAll('rect.bar')
   .data(yearSlice, d => d.name)
   .enter()
   .append('rect')
@@ -94,7 +94,7 @@ svg.selectAll('rect.bar')
   .attr('height', y(1)-y(0)-barPadding)
   .style('fill', d => d.colour);
 
-svg.selectAll('text.label')
+racing_svg.selectAll('text.label')
   .data(yearSlice, d => d.name)
   .enter()
   .append('text')
@@ -104,7 +104,7 @@ svg.selectAll('text.label')
   .style('text-anchor', 'end')
   .html(d => d.name);
 
-svg.selectAll('text.valueLabel')
+racing_svg.selectAll('text.valueLabel')
 .data(yearSlice, d => d.name)
 .enter()
 .append('text')
@@ -113,7 +113,7 @@ svg.selectAll('text.valueLabel')
 .attr('y', d => y(d.rank)+5+((y(1)-y(0))/2)+1)
 .text(d => d3.format(',.0f')(d.lastValue));
 
-let yearText = svg.append('text')
+let yearText = racing_svg.append('text')
 .attr('class', 'yearText')
 .attr('x', width-margin.right)
 .attr('y', height-25)
@@ -133,13 +133,13 @@ yearSlice.forEach((d,i) => d.rank = i);
 
 x.domain([0, d3.max(yearSlice, d => d.value)]); 
 
-svg.select('.xAxis')
+racing_svg.select('.xAxis')
   .transition()
   .duration(tickDuration)
   .ease(d3.easeLinear)
   .call(xAxis);
 
- let bars = svg.selectAll('.bar').data(yearSlice, d => d.name);
+ let bars = racing_svg.selectAll('.bar').data(yearSlice, d => d.name);
 
  bars
   .enter()
@@ -171,7 +171,7 @@ svg.select('.xAxis')
     .attr('y', d => y(top_n+1)+5)
     .remove();
 
- let labels = svg.selectAll('.label')
+ let labels = racing_svg.selectAll('.label')
     .data(yearSlice, d => d.name);
 
  labels
@@ -206,7 +206,7 @@ svg.select('.xAxis')
    
 
 
- let valueLabels = svg.selectAll('.valueLabel').data(yearSlice, d => d.name);
+ let valueLabels = racing_svg.selectAll('.valueLabel').data(yearSlice, d => d.name);
 
  valueLabels
     .enter()
