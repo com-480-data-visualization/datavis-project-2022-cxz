@@ -31,7 +31,7 @@ function getKeyByValue(object, value) {
 	return Object.keys(object).find(key => object[key] === value);}
 
 // Read the data and compute summary statistics for each specie
-d3.csv("data/renewable_energy_transpose.csv", convert).then(function(data) {
+d3.csv("assets/data/renewable_energy_transpose.csv", convert).then(function(data) {
 
 
 	// set the dimensions and margins of the graph
@@ -40,7 +40,7 @@ d3.csv("data/renewable_energy_transpose.csv", convert).then(function(data) {
 	height = 400 - margin.top - margin.bottom;
 
 	// append the svg object to the body of the page
-	var svg = d3.select(".blog-content")
+	var svg = d3.select(".box-plot")
 
 	.append("svg")
 	.attr("width", width + margin.left + margin.right)
@@ -50,7 +50,7 @@ d3.csv("data/renewable_energy_transpose.csv", convert).then(function(data) {
 		"translate(" + margin.left + "," + margin.top + ")");
 
 	//the tag for showing countries
-	var div = d3.select('.blog-content').append("div")
+	var div = d3.select('.box-plot').append("div")
 	.attr("class", "tooltip-donut")
 	.style("opacity", 0)
 	.style('background','#69b3a2')

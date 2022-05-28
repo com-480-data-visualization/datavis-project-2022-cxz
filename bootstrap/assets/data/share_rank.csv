@@ -1,0 +1,571 @@
+name,value,year,lastValue,rank
+Albania,29.621,2004,NA,5
+Austria,22.553,2004,NA,8
+Bosnia and Herzegovina,20.274,2004,NA,10
+Belgium,1.916,2004,NA,34
+Bulgaria,9.231,2004,NA,21
+Cyprus,3.071,2004,NA,31
+Czechia,6.773,2004,NA,26
+Germany (until 1990 former territory of the FRG),6.207,2004,NA,29
+Denmark,14.839,2004,NA,17
+Euro area - 19 countries  (from 2015),8.369,2004,NA,22
+Estonia,18.42,2004,NA,12
+Greece,7.161,2004,NA,24
+Spain,8.345,2004,NA,23
+European Union - 27 countries (from 2020),9.605,2004,NA,19
+Finland,29.232,2004,NA,6
+France,9.319,2004,NA,20
+Croatia,23.404,2004,NA,7
+Hungary,4.364,2004,NA,30
+Ireland,2.378,2004,NA,32
+Iceland,58.899,2004,NA,1
+Italy,6.316,2004,NA,28
+Lithuania,17.221,2004,NA,14
+Luxembourg,0.899,2004,NA,36
+Latvia,32.794,2004,NA,4
+Montenegro,0,2004,NA,38
+North Macedonia,15.702,2004,NA,16
+Malta,0.102,2004,NA,37
+Netherlands,2.03,2004,NA,33
+Norway,58.417,2004,NA,2
+Poland,6.882,2004,NA,25
+Portugal,19.205,2004,NA,11
+Romania,16.811,2004,NA,15
+Serbia,12.724,2004,NA,18
+Sweden,38.427,2004,NA,3
+Slovenia,18.397,2004,NA,13
+Slovakia,6.391,2004,NA,27
+United Kingdom,1.096,2004,NA,35
+Kosovo (under United Nations Security Council Resolution 1244/99),20.541,2004,NA,9
+Albania,31.367,2005,29.621,6
+Austria,24.353,2005,22.553,8
+Bosnia and Herzegovina,19.752,2005,20.274,12
+Belgium,2.325,2005,1.916,35
+Bulgaria,9.173,2005,9.231,22
+Cyprus,3.131,2005,3.071,32
+Czechia,7.113,2005,6.773,28
+Germany (until 1990 former territory of the FRG),7.167,2005,6.207,27
+Denmark,15.955,2005,14.839,18
+Euro area - 19 countries  (from 2015),8.934,2005,8.369,23
+Estonia,17.478,2005,18.42,15
+Greece,7.277,2005,7.161,26
+Spain,8.444,2005,8.345,24
+European Union - 27 countries (from 2020),10.182,2005,9.605,20
+Finland,28.814,2005,29.232,7
+France,9.272,2005,9.319,21
+Croatia,23.691,2005,23.404,9
+Hungary,6.931,2005,4.364,29
+Ireland,2.822,2005,2.378,33
+Iceland,60.27,2005,58.899,1
+Italy,7.549,2005,6.316,25
+Lithuania,16.768,2005,17.221,16
+Luxembourg,1.402,2005,0.899,36
+Latvia,32.264,2005,32.794,5
+Montenegro,35.694,2005,0,4
+North Macedonia,16.466,2005,15.702,17
+Malta,0.123,2005,0.102,38
+Netherlands,2.478,2005,2.03,34
+Norway,60.069,2005,58.417,2
+Poland,6.867,2005,6.882,30
+Portugal,19.523,2005,19.205,13
+Romania,17.571,2005,16.811,14
+Serbia,14.257,2005,12.724,19
+Sweden,39.982,2005,38.427,3
+Slovenia,19.809,2005,18.397,10
+Slovakia,6.36,2005,6.391,31
+United Kingdom,1.281,2005,1.096,37
+Kosovo (under United Nations Security Council Resolution 1244/99),19.773,2005,20.541,11
+Albania,32.07,2006,31.367,5
+Austria,26.276,2006,24.353,8
+Bosnia and Herzegovina,19.213,2006,19.752,12
+Belgium,2.658,2006,2.325,35
+Bulgaria,9.415,2006,9.173,22
+Cyprus,3.263,2006,3.131,32
+Czechia,7.362,2006,7.113,29
+Germany (until 1990 former territory of the FRG),8.466,2006,7.167,25
+Denmark,16.332,2006,15.955,17
+Euro area - 19 countries  (from 2015),9.609,2006,8.934,21
+Estonia,16.011,2006,17.478,18
+Greece,7.458,2006,7.277,27
+Spain,9.156,2006,8.444,23
+European Union - 27 countries (from 2020),10.778,2006,10.182,20
+Finland,30.043,2006,28.814,7
+France,8.936,2006,9.272,24
+Croatia,22.668,2006,23.691,9
+Hungary,7.433,2006,6.931,28
+Ireland,3.074,2006,2.822,33
+Iceland,60.921,2006,60.27,1
+Italy,8.328,2006,7.549,26
+Lithuania,16.887,2006,16.768,15
+Luxembourg,1.469,2006,1.402,37
+Latvia,31.141,2006,32.264,6
+Montenegro,34.842,2006,35.694,4
+North Macedonia,16.527,2006,16.466,16
+Malta,0.149,2006,0.123,38
+Netherlands,2.778,2006,2.478,34
+Norway,60.521,2006,60.069,2
+Poland,6.859,2006,6.867,30
+Portugal,20.792,2006,19.523,10
+Romania,17.096,2006,17.571,14
+Serbia,14.542,2006,14.257,19
+Sweden,41.734,2006,39.982,3
+Slovenia,18.416,2006,19.809,13
+Slovakia,6.584,2006,6.36,31
+United Kingdom,1.488,2006,1.281,36
+Kosovo (under United Nations Security Council Resolution 1244/99),19.512,2006,19.773,11
+Albania,32.657,2007,32.07,5
+Austria,28.144,2007,26.276,8
+Bosnia and Herzegovina,18.701,2007,19.213,13
+Belgium,3.14,2007,2.658,35
+Bulgaria,9.098,2007,9.415,26
+Cyprus,4.001,2007,3.263,32
+Czechia,7.895,2007,7.362,29
+Germany (until 1990 former territory of the FRG),10.039,2007,8.466,22
+Denmark,17.747,2007,16.332,15
+Euro area - 19 countries  (from 2015),10.623,2007,9.609,21
+Estonia,17.139,2007,16.011,16
+Greece,8.249,2007,7.458,28
+Spain,9.667,2007,9.156,24
+European Union - 27 countries (from 2020),11.749,2007,10.778,20
+Finland,29.561,2007,30.043,7
+France,9.426,2007,8.936,25
+Croatia,22.161,2007,22.668,9
+Hungary,8.575,2007,7.433,27
+Ireland,3.497,2007,3.074,33
+Iceland,71.925,2007,60.921,1
+Italy,9.807,2007,8.328,23
+Lithuania,16.482,2007,16.887,17
+Luxembourg,2.725,2007,1.469,36
+Latvia,29.615,2007,31.141,6
+Montenegro,32.925,2007,34.842,4
+North Macedonia,14.976,2007,16.527,18
+Malta,0.177,2007,0.149,38
+Netherlands,3.298,2007,2.778,34
+Norway,60.398,2007,60.521,2
+Poland,6.903,2007,6.859,31
+Portugal,21.907,2007,20.792,10
+Romania,18.195,2007,17.096,14
+Serbia,14.327,2007,14.542,19
+Sweden,43.224,2007,41.734,3
+Slovenia,19.676,2007,18.416,11
+Slovakia,7.766,2007,6.584,30
+United Kingdom,1.735,2007,1.488,37
+Kosovo (under United Nations Security Council Resolution 1244/99),18.812,2007,19.512,12
+Albania,32.448,2008,32.657,4
+Austria,28.788,2008,28.144,8
+Bosnia and Herzegovina,16.708,2008,18.701,17
+Belgium,3.611,2008,3.14,34
+Bulgaria,10.345,2008,9.098,25
+Cyprus,5.131,2008,4.001,32
+Czechia,8.674,2008,7.895,27
+Germany (until 1990 former territory of the FRG),10.072,2008,10.039,26
+Denmark,18.543,2008,17.747,14
+Euro area - 19 countries  (from 2015),11.447,2008,10.623,22
+Estonia,18.811,2008,17.139,12
+Greece,8.183,2008,8.249,29
+Spain,10.744,2008,9.667,24
+European Union - 27 countries (from 2020),12.552,2008,11.749,20
+Finland,31.071,2008,29.561,6
+France,11.188,2008,9.426,23
+Croatia,21.986,2008,22.161,10
+Hungary,8.564,2008,8.575,28
+Ireland,3.979,2008,3.497,33
+Iceland,67.981,2008,71.925,1
+Italy,11.492,2008,9.807,21
+Lithuania,17.825,2008,16.482,16
+Luxembourg,2.809,2008,2.725,37
+Latvia,29.811,2008,29.615,7
+Montenegro,32.29,2008,32.925,5
+North Macedonia,15.555,2008,14.976,19
+Malta,0.195,2008,0.177,38
+Netherlands,3.596,2008,3.298,35
+Norway,62.003,2008,60.398,2
+Poland,7.686,2008,6.903,31
+Portugal,22.929,2008,21.907,9
+Romania,20.204,2008,18.195,11
+Serbia,15.888,2008,14.327,18
+Sweden,43.922,2008,43.224,3
+Slovenia,18.646,2008,19.676,13
+Slovakia,7.723,2008,7.766,30
+United Kingdom,2.814,2008,1.735,36
+Kosovo (under United Nations Security Council Resolution 1244/99),18.429,2008,18.812,15
+Albania,31.437,2009,32.448,6
+Austria,31.04,2009,28.788,8
+Bosnia and Herzegovina,18.471,2009,16.708,17
+Belgium,4.747,2009,3.611,34
+Bulgaria,12.005,2009,10.345,25
+Cyprus,5.92,2009,5.131,32
+Czechia,9.977,2009,8.674,28
+Germany (until 1990 former territory of the FRG),10.851,2009,10.072,27
+Denmark,19.948,2009,18.543,15
+Euro area - 19 countries  (from 2015),12.626,2009,11.447,23
+Estonia,23.009,2009,18.811,11
+Greece,8.731,2009,8.183,30
+Spain,12.958,2009,10.744,21
+European Union - 27 countries (from 2020),13.85,2009,12.552,20
+Finland,31.045,2009,31.071,7
+France,12.215,2009,11.188,24
+Croatia,23.596,2009,21.986,10
+Hungary,11.674,2009,8.564,26
+Ireland,5.243,2009,3.979,33
+Iceland,70.238,2009,67.981,1
+Italy,12.775,2009,11.492,22
+Lithuania,19.798,2009,17.825,16
+Luxembourg,2.929,2009,2.809,37
+Latvia,34.318,2009,29.811,5
+Montenegro,39.371,2009,32.29,4
+North Macedonia,17.238,2009,15.555,19
+Malta,0.221,2009,0.195,38
+Netherlands,4.266,2009,3.596,35
+Norway,65.071,2009,62.003,2
+Poland,8.676,2009,7.686,31
+Portugal,24.405,2009,22.929,9
+Romania,22.157,2009,20.204,12
+Serbia,21.024,2009,15.888,13
+Sweden,47.024,2009,43.922,3
+Slovenia,20.765,2009,18.646,14
+Slovakia,9.368,2009,7.723,29
+United Kingdom,3.448,2009,2.814,36
+Kosovo (under United Nations Security Council Resolution 1244/99),18.23,2009,18.429,18
+Albania,31.867,2010,31.437,6
+Austria,31.205,2010,31.04,7
+Bosnia and Herzegovina,18.71,2010,18.471,17
+Belgium,6.004,2010,4.747,33
+Bulgaria,13.928,2010,12.005,21
+Cyprus,6.161,2010,5.92,32
+Czechia,10.513,2010,9.977,28
+Germany (until 1990 former territory of the FRG),11.667,2010,10.851,27
+Denmark,21.888,2010,19.948,13
+Euro area - 19 countries  (from 2015),13.145,2010,12.626,23
+Estonia,24.575,2010,23.009,10
+Greece,10.077,2010,8.731,29
+Spain,13.782,2010,12.958,22
+European Union - 27 countries (from 2020),14.405,2010,13.85,20
+Finland,32.166,2010,31.045,5
+France,12.671,2010,12.215,26
+Croatia,25.103,2010,23.596,9
+Hungary,12.742,2010,11.674,25
+Ireland,5.755,2010,5.243,34
+Iceland,70.909,2010,70.238,1
+Italy,13.023,2010,12.775,24
+Lithuania,19.64,2010,19.798,16
+Luxembourg,2.852,2010,2.929,37
+Latvia,30.375,2010,34.318,8
+Montenegro,40.64,2010,39.371,4
+North Macedonia,16.451,2010,17.238,19
+Malta,0.979,2010,0.221,38
+Netherlands,3.917,2010,4.266,35
+Norway,61.889,2010,65.071,2
+Poland,9.281,2010,8.676,30
+Portugal,24.15,2010,24.405,11
+Romania,22.834,2010,22.157,12
+Serbia,19.764,2010,21.024,15
+Sweden,46.099,2010,47.024,3
+Slovenia,21.081,2010,20.765,14
+Slovakia,9.099,2010,9.368,31
+United Kingdom,3.862,2010,3.448,36
+Kosovo (under United Nations Security Council Resolution 1244/99),18.23,2010,18.23,18
+Albania,31.187,2011,31.867,8
+Austria,31.552,2011,31.205,7
+Bosnia and Herzegovina,17.995,2011,18.71,17
+Belgium,6.302,2011,6.004,33
+Bulgaria,14.152,2011,13.928,21
+Cyprus,6.245,2011,6.161,34
+Czechia,10.945,2011,10.513,28
+Germany (until 1990 former territory of the FRG),12.47,2011,11.667,26
+Denmark,23.389,2011,21.888,12
+Euro area - 19 countries  (from 2015),13.114,2011,13.145,24
+Estonia,25.515,2011,24.575,9
+Greece,11.153,2011,10.077,27
+Spain,13.176,2011,13.782,23
+European Union - 27 countries (from 2020),14.547,2011,14.405,20
+Finland,32.532,2011,32.166,6
+France,10.813,2011,12.671,29
+Croatia,25.389,2011,25.103,10
+Hungary,13.972,2011,12.742,22
+Ireland,6.605,2011,5.755,32
+Iceland,72.298,2011,70.909,1
+Italy,12.881,2011,13.023,25
+Lithuania,19.943,2011,19.64,15
+Luxembourg,2.855,2011,2.852,37
+Latvia,33.478,2011,30.375,5
+Montenegro,40.648,2011,40.64,4
+North Macedonia,16.407,2011,16.451,19
+Malta,1.85,2011,0.979,38
+Netherlands,4.524,2011,3.917,35
+Norway,64.638,2011,61.889,2
+Poland,10.337,2011,9.281,31
+Portugal,24.603,2011,24.15,11
+Romania,21.743,2011,22.834,13
+Serbia,19.118,2011,19.764,16
+Sweden,47.632,2011,46.099,3
+Slovenia,20.937,2011,21.081,14
+Slovakia,10.348,2011,9.099,30
+United Kingdom,4.392,2011,3.862,36
+Kosovo (under United Nations Security Council Resolution 1244/99),17.598,2011,18.23,18
+Albania,35.152,2012,31.187,6
+Austria,32.734,2012,31.552,8
+Bosnia and Herzegovina,18.014,2012,17.995,19
+Belgium,7.086,2012,6.302,33
+Bulgaria,15.837,2012,14.152,21
+Cyprus,7.111,2012,6.245,32
+Czechia,12.814,2012,10.945,29
+Germany (until 1990 former territory of the FRG),13.549,2012,12.47,27
+Denmark,25.465,2012,23.389,11
+Euro area - 19 countries  (from 2015),14.604,2012,13.114,24
+Estonia,25.586,2012,25.515,10
+Greece,13.741,2012,11.153,26
+Spain,14.239,2012,13.176,25
+European Union - 27 countries (from 2020),16.002,2012,14.547,20
+Finland,34.222,2012,32.532,7
+France,13.239,2012,10.813,28
+Croatia,26.757,2012,25.389,9
+Hungary,15.53,2012,13.972,22
+Ireland,7.029,2012,6.605,34
+Iceland,73.727,2012,72.298,1
+Italy,15.441,2012,12.881,23
+Lithuania,21.437,2012,19.943,15
+Luxembourg,3.112,2012,2.855,37
+Latvia,35.709,2012,33.478,5
+Montenegro,41.513,2012,40.648,4
+North Macedonia,18.128,2012,16.407,18
+Malta,2.862,2012,1.85,38
+Netherlands,4.659,2012,4.524,35
+Norway,64.932,2012,64.638,2
+Poland,10.955,2012,10.337,30
+Portugal,24.574,2012,24.603,12
+Romania,22.825,2012,21.743,13
+Serbia,20.79,2012,19.118,16
+Sweden,49.403,2012,47.632,3
+Slovenia,21.551,2012,20.937,14
+Slovakia,10.453,2012,10.348,31
+United Kingdom,4.461,2012,4.392,36
+Kosovo (under United Nations Security Council Resolution 1244/99),18.625,2012,17.598,17
+Albania,33.167,2013,35.152,7
+Austria,32.665,2013,32.734,8
+Bosnia and Herzegovina,19.307,2013,18.014,17
+Belgium,7.671,2013,7.086,33
+Bulgaria,18.898,2013,15.837,18
+Cyprus,8.428,2013,7.111,32
+Czechia,13.927,2013,12.814,27
+Germany (until 1990 former territory of the FRG),13.76,2013,13.549,29
+Denmark,27.173,2013,25.465,10
+Euro area - 19 countries  (from 2015),15.228,2013,14.604,25
+Estonia,25.356,2013,25.586,12
+Greece,15.326,2013,13.741,24
+Spain,15.081,2013,14.239,26
+European Union - 27 countries (from 2020),16.66,2013,16.002,22
+Finland,36.63,2013,34.222,6
+France,13.88,2013,13.239,28
+Croatia,28.04,2013,26.757,9
+Hungary,16.205,2013,15.53,23
+Ireland,7.521,2013,7.029,34
+Iceland,73.788,2013,73.727,1
+Italy,16.741,2013,15.441,21
+Lithuania,22.689,2013,21.437,15
+Luxembourg,3.494,2013,3.112,38
+Latvia,37.037,2013,35.709,5
+Montenegro,43.696,2013,41.513,4
+North Macedonia,18.509,2013,18.128,20
+Malta,3.76,2013,2.862,37
+Netherlands,4.691,2013,4.659,36
+Norway,66.48,2013,64.932,2
+Poland,11.452,2013,10.955,30
+Portugal,25.7,2013,24.574,11
+Romania,23.886,2013,22.825,13
+Serbia,21.095,2013,20.79,16
+Sweden,50.153,2013,49.403,3
+Slovenia,23.161,2013,21.551,14
+Slovakia,10.133,2013,10.453,31
+United Kingdom,5.524,2013,4.461,35
+Kosovo (under United Nations Security Council Resolution 1244/99),18.823,2013,18.625,19
+Albania,31.856,2014,33.167,8
+Austria,33.55,2014,32.665,7
+Bosnia and Herzegovina,24.873,2014,19.307,13
+Belgium,8.038,2014,7.671,34
+Bulgaria,18.05,2014,18.898,20
+Cyprus,9.144,2014,8.428,32
+Czechia,15.074,2014,13.927,26
+Germany (until 1990 former territory of the FRG),14.385,2014,13.76,28
+Denmark,29.31,2014,27.173,10
+Euro area - 19 countries  (from 2015),16.032,2014,15.228,23
+Estonia,26.13,2014,25.356,12
+Greece,15.683,2014,15.326,25
+Spain,15.88,2014,15.081,24
+European Union - 27 countries (from 2020),17.417,2014,16.66,21
+Finland,38.632,2014,36.63,5
+France,14.362,2014,13.88,29
+Croatia,27.817,2014,28.04,11
+Hungary,14.618,2014,16.205,27
+Ireland,8.516,2014,7.521,33
+Iceland,73.043,2014,73.788,1
+Italy,17.082,2014,16.741,22
+Lithuania,23.592,2014,22.689,15
+Luxembourg,4.471,2014,3.494,38
+Latvia,38.629,2014,37.037,6
+Montenegro,44.098,2014,43.696,4
+North Macedonia,19.559,2014,18.509,18
+Malta,4.744,2014,3.76,37
+Netherlands,5.415,2014,4.691,36
+Norway,68.406,2014,66.48,2
+Poland,11.605,2014,11.452,31
+Portugal,29.508,2014,25.7,9
+Romania,24.845,2014,23.886,14
+Serbia,22.864,2014,21.095,16
+Sweden,51.151,2014,50.153,3
+Slovenia,22.459,2014,23.161,17
+Slovakia,11.713,2014,10.133,30
+United Kingdom,6.737,2014,5.524,35
+Kosovo (under United Nations Security Council Resolution 1244/99),19.544,2014,18.823,19
+Albania,34.913,2015,31.856,7
+Austria,33.498,2015,33.55,8
+Bosnia and Herzegovina,26.607,2015,24.873,13
+Belgium,8.06,2015,8.038,35
+Bulgaria,18.261,2015,18.05,20
+Cyprus,9.903,2015,9.144,32
+Czechia,15.07,2015,15.074,26
+Germany (until 1990 former territory of the FRG),14.906,2015,14.385,27
+Denmark,30.469,2015,29.31,10
+Euro area - 19 countries  (from 2015),16.439,2015,16.032,23
+Estonia,28.987,2015,26.13,11
+Greece,15.69,2015,15.683,25
+Spain,16.221,2015,15.88,24
+European Union - 27 countries (from 2020),17.821,2015,17.417,21
+Finland,39.228,2015,38.632,5
+France,14.803,2015,14.362,28
+Croatia,28.969,2015,27.817,12
+Hungary,14.495,2015,14.618,29
+Ireland,9.083,2015,8.516,33
+Iceland,71.949,2015,73.043,1
+Italy,17.526,2015,17.082,22
+Lithuania,25.748,2015,23.592,14
+Luxembourg,4.987,2015,4.471,38
+Latvia,37.538,2015,38.629,6
+Montenegro,43.073,2015,44.098,4
+North Macedonia,19.526,2015,19.559,18
+Malta,5.119,2015,4.744,37
+Netherlands,5.714,2015,5.415,36
+Norway,68.545,2015,68.406,2
+Poland,11.881,2015,11.605,31
+Portugal,30.514,2015,29.508,9
+Romania,24.785,2015,24.845,15
+Serbia,21.989,2015,22.864,17
+Sweden,52.22,2015,51.151,3
+Slovenia,22.879,2015,22.459,16
+Slovakia,12.883,2015,11.713,30
+United Kingdom,8.385,2015,6.737,34
+Kosovo (under United Nations Security Council Resolution 1244/99),18.484,2015,19.544,19
+Albania,36.953,2016,34.913,7
+Austria,33.37,2016,33.498,8
+Bosnia and Herzegovina,25.358,2016,26.607,14
+Belgium,8.744,2016,8.06,35
+Bulgaria,18.76,2016,18.261,19
+Cyprus,9.833,2016,9.903,32
+Czechia,14.926,2016,15.07,27
+Germany (until 1990 former territory of the FRG),14.889,2016,14.906,28
+Denmark,31.715,2016,30.469,9
+Euro area - 19 countries  (from 2015),16.651,2016,16.439,24
+Estonia,29.232,2016,28.987,11
+Greece,15.391,2016,15.69,26
+Spain,17.015,2016,16.221,23
+European Union - 27 countries (from 2020),17.98,2016,17.821,21
+Finland,38.942,2016,39.228,5
+France,15.451,2016,14.803,25
+Croatia,28.266,2016,28.969,12
+Hungary,14.377,2016,14.495,29
+Ireland,9.189,2016,9.083,33
+Iceland,75.329,2016,71.949,1
+Italy,17.415,2016,17.526,22
+Lithuania,25.613,2016,25.748,13
+Luxembourg,5.364,2016,4.987,38
+Latvia,37.138,2016,37.538,6
+Montenegro,41.529,2016,43.073,4
+North Macedonia,18.044,2016,19.526,20
+Malta,6.208,2016,5.119,36
+Netherlands,5.846,2016,5.714,37
+Norway,69.235,2016,68.545,2
+Poland,11.396,2016,11.881,31
+Portugal,30.864,2016,30.514,10
+Romania,25.032,2016,24.785,15
+Serbia,21.147,2016,21.989,18
+Sweden,52.597,2016,52.22,3
+Slovenia,21.975,2016,22.879,17
+Slovakia,12.029,2016,12.883,30
+United Kingdom,9.032,2016,8.385,34
+Kosovo (under United Nations Security Council Resolution 1244/99),24.472,2016,18.484,16
+Albania,35.777,2017,36.953,7
+Austria,33.137,2017,33.37,9
+Bosnia and Herzegovina,23.241,2017,25.358,15
+Belgium,9.136,2017,8.744,35
+Bulgaria,18.695,2017,18.76,20
+Cyprus,10.478,2017,9.833,33
+Czechia,14.799,2017,14.926,28
+Germany (until 1990 former territory of the FRG),15.476,2017,14.889,27
+Denmark,34.387,2017,31.715,8
+Euro area - 19 countries  (from 2015),17.222,2017,16.651,24
+Estonia,29.538,2017,29.232,11
+Greece,17.3,2017,15.391,23
+Spain,17.118,2017,17.015,25
+European Union - 27 countries (from 2020),18.412,2017,17.98,21
+Finland,40.855,2017,38.942,4
+France,15.847,2017,15.451,26
+Croatia,27.28,2017,28.266,12
+Hungary,13.556,2017,14.377,29
+Ireland,10.52,2017,9.189,32
+Iceland,74.104,2017,75.329,1
+Italy,18.267,2017,17.415,22
+Lithuania,26.038,2017,25.613,13
+Luxembourg,6.194,2017,5.364,38
+Latvia,39.008,2017,37.138,6
+Montenegro,39.693,2017,41.529,5
+North Macedonia,19.636,2017,18.044,19
+Malta,7.219,2017,6.208,36
+Netherlands,6.507,2017,5.846,37
+Norway,70.036,2017,69.235,2
+Poland,11.059,2017,11.396,31
+Portugal,30.611,2017,30.864,10
+Romania,24.454,2017,25.032,14
+Serbia,20.287,2017,21.147,18
+Sweden,53.39,2017,52.597,3
+Slovenia,21.658,2017,21.975,17
+Slovakia,11.465,2017,12.029,30
+United Kingdom,9.858,2017,9.032,34
+Kosovo (under United Nations Security Council Resolution 1244/99),23.082,2017,24.472,16
+Albania,36.572,2018,35.777,7
+Austria,33.784,2018,33.137,10
+Bosnia and Herzegovina,35.972,2018,23.241,8
+Belgium,9.472,2018,9.136,35
+Bulgaria,20.581,2018,18.695,18
+Cyprus,13.873,2018,10.478,30
+Czechia,15.14,2018,14.799,28
+Germany (until 1990 former territory of the FRG),16.66,2018,15.476,26
+Denmark,35.16,2018,34.387,9
+Euro area - 19 countries  (from 2015),17.719,2018,17.222,24
+Estonia,29.97,2018,29.538,12
+Greece,18.001,2018,17.3,22
+Spain,17.023,2018,17.118,25
+European Union - 27 countries (from 2020),19.096,2018,18.412,20
+Finland,41.182,2018,40.855,4
+France,16.384,2018,15.847,27
+Croatia,28.047,2018,27.28,13
+Hungary,12.549,2018,13.556,31
+Ireland,10.942,2018,10.52,34
+Iceland,77.173,2018,74.104,1
+Italy,17.796,2018,18.267,23
+Lithuania,24.695,2018,26.038,14
+Luxembourg,8.942,2018,6.194,36
+Latvia,40.019,2018,39.008,5
+Montenegro,38.801,2018,39.693,6
+North Macedonia,18.179,2018,19.636,21
+Malta,7.914,2018,7.219,37
+Netherlands,7.394,2018,6.507,38
+Norway,71.566,2018,70.036,2
+Poland,14.936,2018,11.059,29
+Portugal,30.203,2018,30.611,11
+Romania,23.875,2018,24.454,16
+Serbia,20.32,2018,20.287,19
+Sweden,53.916,2018,53.39,3
+Slovenia,21.378,2018,21.658,17
+Slovakia,11.896,2018,11.465,32
+United Kingdom,11.138,2018,9.858,33
+Kosovo (under United Nations Security Council Resolution 1244/99),24.616,2018,23.082,15
