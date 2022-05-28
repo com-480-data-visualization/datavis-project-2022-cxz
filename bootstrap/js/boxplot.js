@@ -51,9 +51,9 @@ d3.csv("assets/data/renewable_energy_transpose.csv", convert).then(function(data
 
 	//the tag for showing countries
 	var div = d3.select('.box-plot').append("div")
-	.attr("class", "tooltip-donut")
-	.style("opacity", 0)
+	.style("opacity", 0.9)
 	.style('background','#69b3a2')
+	.style('display','none')
 	.style("position", "absolute");
 
 
@@ -85,7 +85,7 @@ d3.csv("assets/data/renewable_energy_transpose.csv", convert).then(function(data
       .attr("x2", function(d){return(x(d.date))})
       .attr("y1", function(d){return(y(d.min))})
       .attr("y2", function(d){return(y(d.max))})
-      .attr("stroke", "white")
+      .attr("stroke", "black")
       .style("width", 40)
 
   // rectangle for the main box
@@ -99,7 +99,7 @@ d3.csv("assets/data/renewable_energy_transpose.csv", convert).then(function(data
         .attr("y", function(d){return(y(d.q3))})
         .attr("height", function(d){return(y(d.q1)-y(d.q3))})
         .attr("width", boxWidth )
-        .attr("stroke", "white")
+        .attr("stroke", "black")
         .style("fill", "#69b3a2")
 
   // Show the median
@@ -137,25 +137,21 @@ svg
     .style("fill", "white")
     .attr("stroke", "black")
 	.on('mouseover', function (event, g) {
-		const[x, y] = d3.pointer(event);
+		const[x, y] = d3.pointer(event,svg);
 		console.log(y)
 		d3.select(this).transition()
 			 .duration('50')
 			 .attr('r', '4')
-		div.transition()
-			 .duration(50)
-			 .style("opacity", 1);
-		div.html(g.country)
-			 .style("left", (x+margin.left+200) + "px")
-			 .style("top", (y+margin.top+800) + "px");
+    div.style("display",'block')
+       .html(g.country)
+       .style("left", (x-10) + "px")
+       .style("top", (y-30) + "px");
 	})
    .on('mouseout', function (event, g) {
 		d3.select(this).transition()
 			 .duration('50')
 			 .attr('r', '2');
-		div.transition()
-			 .duration('50')
-			 .style("opacity", 0);
+    div.style("display",'none')
 	})
 
 
