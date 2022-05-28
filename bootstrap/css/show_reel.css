@@ -1,0 +1,12 @@
+@charset "UTF-8";
+.line {
+    fill: none;
+    stroke: #000;
+    stroke-width: 2px;
+  }
+
+svg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

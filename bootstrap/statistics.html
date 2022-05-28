@@ -18,6 +18,7 @@
         <link href="https://cdnjs.cloudflare.com/ajax/libs/SimpleLightbox/2.1.0/simpleLightbox.min.css" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
+        <link href="css/show_reel.css" rel="stylesheet" />
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -48,19 +49,14 @@
                     </div>
                     <div class="col-lg-8 align-self-baseline">
                         <p class="text-white-75 mb-5">EPFL COM480 Course Project 2022 - By Boran Xu, Yixin Cheng, Ziqi Zhao</p>
-                        <a class="btn btn-primary btn-xl" href="introduction.html">Go to Introduction</a>
-                    </div>
-                    <div class="col-lg-8 align-self-baseline">
-                        <a href="https://github.com/com-480-data-visualization/datavis-project-2022-cxz"><img src="assets/img/github.png" class="navbar-toggler-icon" alt="github-pic"></a>
-                        <a href="https://ec.europa.eu/eurostat/web/energy/overview"><img src="assets/img/dataset.png" class="navbar-toggler-icon" alt="dataset-pic"></a>
-                        <a href="https://github.com/com-480-data-visualization/datavis-project-2022-cxz/blob/main/Milestone%201.md"><img src="assets/img/milestone1.png" class="navbar-toggler-icon" alt="milestone1-logo"></a>
-                        <a href="https://github.com/com-480-data-visualization/datavis-project-2022-cxz/blob/main/Milestone%202.md"><img src="assets/img/milestone2.png" class="navbar-toggler-icon" alt="milestone2-logo"></a>
-                        <a href="#"><img src="assets/img/milestone3.png" class="navbar-toggler-icon" alt="milestone3-logo"></a>
-                        <a href="https://d3js.org"><img src="assets/img/d3-white.png" class="navbar-toggler-icon" alt="d3-logo"></a>
+                        <a class="btn btn-primary btn-xl" href="#show-reel">See the visualization</a>
                     </div>
                 </div>
             </div>
         </header>
+        <div class="show-reel" id="show-reel">
+
+        </div>
         <!-- Footer-->
         <!-- <footer class="bg-light py-5">
             <div class="container px-4 px-lg-5"><div class="small text-center text-muted">Copyright &copy; 2022 - Boran Xu, Yixin Cheng, Ziqi Zhao</div></div>
@@ -75,14 +71,15 @@
         <!-- * *                               SB Forms JS                               * *-->
         <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
         <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
-        <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+        <!-- <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script> -->
         <!-- Custom 3nd party JS -->
-        <script src="https://d3js.org/d3.v7.min.js"></script>
+        <script src="https://d3js.org/d3.v3.min.js"></script>
         <script src="https://code.highcharts.com/highcharts.js"></script>
         <script src="https://code.highcharts.com/modules/sankey.js"></script>
         <script src="https://code.highcharts.com/modules/exporting.js"></script>
         <script src="https://code.highcharts.com/modules/export-data.js"></script>
         <script src="https://code.highcharts.com/modules/accessibility.js"></script>
         <!-- Custom written JS -->
+        <script src="js/show_reel.js"></script>
     </body>
 </html>

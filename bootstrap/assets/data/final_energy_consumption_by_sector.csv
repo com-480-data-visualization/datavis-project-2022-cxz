@@ -1,0 +1,2346 @@
+sector,country,date,value
+transport,Albania,2009,754.562
+transport,Albania,2010,732.789
+transport,Albania,2011,768.01
+transport,Albania,2012,737.022
+transport,Albania,2013,804.074
+transport,Albania,2014,833.978
+transport,Albania,2015,829.298
+transport,Albania,2016,832.543
+transport,Albania,2017,831.899
+transport,Albania,2018,832.167
+transport,Albania,2019,834.858
+transport,Albania,2020,603.439
+transport,Austria,2009,7911.725
+transport,Austria,2010,8163.403
+transport,Austria,2011,7874.596
+transport,Austria,2012,7792.366
+transport,Austria,2013,8294.925
+transport,Austria,2014,8228.068
+transport,Austria,2015,8464.597
+transport,Austria,2016,8598.512
+transport,Austria,2017,8724.365
+transport,Austria,2018,8836.593
+transport,Austria,2019,8835.886
+transport,Austria,2020,7728.024
+transport,Bosnia and Herzegovina,2014,988.905
+transport,Bosnia and Herzegovina,2015,1030.976
+transport,Bosnia and Herzegovina,2016,1196.912
+transport,Bosnia and Herzegovina,2017,1248.92
+transport,Bosnia and Herzegovina,2018,1238.269
+transport,Bosnia and Herzegovina,2019,1322.151
+transport,Bosnia and Herzegovina,2020,1195.818
+transport,Belgium,2009,8983.816
+transport,Belgium,2010,8942.501
+transport,Belgium,2011,8799.874
+transport,Belgium,2012,8542.173
+transport,Belgium,2013,8387.048
+transport,Belgium,2014,8520.783
+transport,Belgium,2015,8910.586
+transport,Belgium,2016,9010.348
+transport,Belgium,2017,8858.129
+transport,Belgium,2018,8897.132
+transport,Belgium,2019,8835.707
+transport,Belgium,2020,7764.756
+transport,Bulgaria,2009,2761.501
+transport,Bulgaria,2010,2694.753
+transport,Bulgaria,2011,2759.922
+transport,Bulgaria,2012,2914.39
+transport,Bulgaria,2013,2620.341
+transport,Bulgaria,2014,2916.487
+transport,Bulgaria,2015,3211.585
+transport,Bulgaria,2016,3268.077
+transport,Bulgaria,2017,3324.915
+transport,Bulgaria,2018,3372.188
+transport,Bulgaria,2019,3409.544
+transport,Bulgaria,2020,3215.317
+transport,Cyprus,2009,749.52
+transport,Cyprus,2010,765.447
+transport,Cyprus,2011,744.315
+transport,Cyprus,2012,687.941
+transport,Cyprus,2013,619.936
+transport,Cyprus,2014,599.542
+transport,Cyprus,2015,621.949
+transport,Cyprus,2016,658.147
+transport,Cyprus,2017,681.155
+transport,Cyprus,2018,684.771
+transport,Cyprus,2019,692.28
+transport,Cyprus,2020,617.279
+transport,Czechia,2009,6220.839
+transport,Czechia,2010,5916.11
+transport,Czechia,2011,5935.592
+transport,Czechia,2012,5788.889
+transport,Czechia,2013,5738.681
+transport,Czechia,2014,5948.768
+transport,Czechia,2015,6195.22
+transport,Czechia,2016,6417.093
+transport,Czechia,2017,6617.264
+transport,Czechia,2018,6659.891
+transport,Czechia,2019,6778.778
+transport,Czechia,2020,6378.679
+transport,Germany (until 1990 former territory of the FRG),2009,52532.628
+transport,Germany (until 1990 former territory of the FRG),2010,53143.376
+transport,Germany (until 1990 former territory of the FRG),2011,53638.674
+transport,Germany (until 1990 former territory of the FRG),2012,53259.098
+transport,Germany (until 1990 former territory of the FRG),2013,54240.042
+transport,Germany (until 1990 former territory of the FRG),2014,55445.775
+transport,Germany (until 1990 former territory of the FRG),2015,55144.756
+transport,Germany (until 1990 former territory of the FRG),2016,56556.589
+transport,Germany (until 1990 former territory of the FRG),2017,57247.225
+transport,Germany (until 1990 former territory of the FRG),2018,55470.398
+transport,Germany (until 1990 former territory of the FRG),2019,56220.462
+transport,Germany (until 1990 former territory of the FRG),2020,50965.833
+transport,Denmark,2009,4387.797
+transport,Denmark,2010,4351.728
+transport,Denmark,2011,4340.893
+transport,Denmark,2012,4064.881
+transport,Denmark,2013,3997.071
+transport,Denmark,2014,4031.418
+transport,Denmark,2015,4217.267
+transport,Denmark,2016,4274.602
+transport,Denmark,2017,4264.461
+transport,Denmark,2018,4308.604
+transport,Denmark,2019,4236.178
+transport,Denmark,2020,3937.089
+transport,Estonia,2009,713.25
+transport,Estonia,2010,754.608
+transport,Estonia,2011,749.262
+transport,Estonia,2012,757.812
+transport,Estonia,2013,739.198
+transport,Estonia,2014,741.51
+transport,Estonia,2015,760.004
+transport,Estonia,2016,776.895
+transport,Estonia,2017,803.862
+transport,Estonia,2018,832.121
+transport,Estonia,2019,831.979
+transport,Estonia,2020,792.765
+transport,Greece,2009,8354.058
+transport,Greece,2010,7476.887
+transport,Greece,2011,6705.525
+transport,Greece,2012,5615.546
+transport,Greece,2013,5608.77
+transport,Greece,2014,5635.497
+transport,Greece,2015,5753.399
+transport,Greece,2016,5897.048
+transport,Greece,2017,5815.313
+transport,Greece,2018,5897.204
+transport,Greece,2019,6045.183
+transport,Greece,2020,5141.857
+transport,Spain,2009,34807.408
+transport,Spain,2010,34247.277
+transport,Spain,2011,32463.578
+transport,Spain,2012,29785.944
+transport,Spain,2013,28189.828
+transport,Spain,2014,28413.265
+transport,Spain,2015,29426.255
+transport,Spain,2016,30616.378
+transport,Spain,2017,31731.648
+transport,Spain,2018,32531.635
+transport,Spain,2019,32951.155
+transport,Spain,2020,26162.033
+transport,Finland,2009,4131.599
+transport,Finland,2010,4304.201
+transport,Finland,2011,4300.51
+transport,Finland,2012,4197.694
+transport,Finland,2013,4209.977
+transport,Finland,2014,4113.791
+transport,Finland,2015,4105.519
+transport,Finland,2016,4180.495
+transport,Finland,2017,4194.606
+transport,Finland,2018,4242.019
+transport,Finland,2019,4178.236
+transport,Finland,2020,3882.493
+transport,France,2009,43544.413
+transport,France,2010,43568.598
+transport,France,2011,45242.109
+transport,France,2012,45123.116
+transport,France,2013,44815.853
+transport,France,2014,45076.465
+transport,France,2015,45539.463
+transport,France,2016,45704.835
+transport,France,2017,46056.598
+transport,France,2018,45104.155
+transport,France,2019,45100.234
+transport,France,2020,38218.653
+transport,Georgia,2013,1110.934
+transport,Georgia,2014,1256.162
+transport,Georgia,2015,1365.34
+transport,Georgia,2016,1524.342
+transport,Georgia,2017,1384.402
+transport,Georgia,2018,1352.728
+transport,Georgia,2019,1404.052
+transport,Georgia,2020,1340.38
+transport,Croatia,2009,2068.966
+transport,Croatia,2010,1981.14
+transport,Croatia,2011,1942.858
+transport,Croatia,2012,1904.545
+transport,Croatia,2013,1925.168
+transport,Croatia,2014,1901.456
+transport,Croatia,2015,1997.376
+transport,Croatia,2016,2044.565
+transport,Croatia,2017,2196.674
+transport,Croatia,2018,2146.863
+transport,Croatia,2019,2235.149
+transport,Croatia,2020,1968.602
+transport,Hungary,2009,4480.534
+transport,Hungary,2010,4089.374
+transport,Hungary,2011,3812.948
+transport,Hungary,2012,3692.233
+transport,Hungary,2013,3459.986
+transport,Hungary,2014,3873.295
+transport,Hungary,2015,4181.253
+transport,Hungary,2016,4261.874
+transport,Hungary,2017,4496.778
+transport,Hungary,2018,4790.228
+transport,Hungary,2019,5070.454
+transport,Hungary,2020,4459.34
+transport,Ireland,2009,4162.232
+transport,Ireland,2010,3907.952
+transport,Ireland,2011,3706.343
+transport,Ireland,2012,3626.675
+transport,Ireland,2013,3687.125
+transport,Ireland,2014,3837.779
+transport,Ireland,2015,3886.285
+transport,Ireland,2016,4098.209
+transport,Ireland,2017,4052.02
+transport,Ireland,2018,4096.898
+transport,Ireland,2019,4123.935
+transport,Ireland,2020,3478.749
+transport,Iceland,2009,299.921
+transport,Iceland,2010,284.454
+transport,Iceland,2011,275.915
+transport,Iceland,2012,270.221
+transport,Iceland,2013,277.329
+transport,Iceland,2014,278.661
+transport,Iceland,2015,300.785
+transport,Iceland,2016,333.071
+transport,Iceland,2017,352.87
+transport,Iceland,2018,369.539
+transport,Iceland,2019,360.095
+transport,Iceland,2020,305.373
+transport,Italy,2009,39131.363
+transport,Italy,2010,38566.288
+transport,Italy,2011,38572.097
+transport,Italy,2012,36348.734
+transport,Italy,2013,35701.272
+transport,Italy,2014,37009.372
+transport,Italy,2015,36374.374
+transport,Italy,2016,35814.501
+transport,Italy,2017,34525.408
+transport,Italy,2018,35579.484
+transport,Italy,2019,35861.202
+transport,Italy,2020,28976.458
+transport,Lithuania,2009,1465.602
+transport,Lithuania,2010,1497.054
+transport,Lithuania,2011,1483.642
+transport,Lithuania,2012,1508.424
+transport,Lithuania,2013,1502.068
+transport,Lithuania,2014,1662.623
+transport,Lithuania,2015,1750.186
+transport,Lithuania,2016,1864.513
+transport,Lithuania,2017,1960.025
+transport,Lithuania,2018,2081.494
+transport,Lithuania,2019,2150.671
+transport,Lithuania,2020,2126.456
+transport,Luxembourg,2009,2060.482
+transport,Luxembourg,2010,2176.135
+transport,Luxembourg,2011,2307.877
+transport,Luxembourg,2012,2207.321
+transport,Luxembourg,2013,2166.737
+transport,Luxembourg,2014,2086.962
+transport,Luxembourg,2015,1958.228
+transport,Luxembourg,2016,1907.236
+transport,Luxembourg,2017,1966.428
+transport,Luxembourg,2018,2101.34
+transport,Luxembourg,2019,2153.407
+transport,Luxembourg,2020,1668.44
+transport,Latvia,2009,1038.946
+transport,Latvia,2010,1083.453
+transport,Latvia,2011,964.755
+transport,Latvia,2012,929.636
+transport,Latvia,2013,939.54
+transport,Latvia,2014,982.367
+transport,Latvia,2015,1037.65
+transport,Latvia,2016,1033.562
+transport,Latvia,2017,1080.824
+transport,Latvia,2018,1108.725
+transport,Latvia,2019,1098.869
+transport,Latvia,2020,1045.5
+transport,Moldova,2010,580.411
+transport,Moldova,2011,620.914
+transport,Moldova,2012,546.328
+transport,Moldova,2013,573.806
+transport,Moldova,2014,593.361
+transport,Moldova,2015,648.6
+transport,Moldova,2016,682.37
+transport,Moldova,2017,687.658
+transport,Moldova,2018,700.196
+transport,Moldova,2019,717.605
+transport,Moldova,2020,667.422
+transport,Montenegro,2009,209.464
+transport,Montenegro,2010,229.896
+transport,Montenegro,2011,213.102
+transport,Montenegro,2012,202.848
+transport,Montenegro,2013,165.309
+transport,Montenegro,2014,162.866
+transport,Montenegro,2015,186.645
+transport,Montenegro,2016,219.419
+transport,Montenegro,2017,235.525
+transport,Montenegro,2018,252.719
+transport,Montenegro,2019,265.685
+transport,Montenegro,2020,225.951
+transport,North Macedonia,2009,434.746
+transport,North Macedonia,2010,454.289
+transport,North Macedonia,2011,475.33
+transport,North Macedonia,2012,453.275
+transport,North Macedonia,2013,514.739
+transport,North Macedonia,2014,537.47
+transport,North Macedonia,2015,596.422
+transport,North Macedonia,2016,679.961
+transport,North Macedonia,2017,705.735
+transport,North Macedonia,2018,705.468
+transport,North Macedonia,2019,762.509
+transport,North Macedonia,2020,646.867
+transport,Malta,2009,169.39
+transport,Malta,2010,185.188
+transport,Malta,2011,183.239
+transport,Malta,2012,181.194
+transport,Malta,2013,183.709
+transport,Malta,2014,187.942
+transport,Malta,2015,199.764
+transport,Malta,2016,199.742
+transport,Malta,2017,207.327
+transport,Malta,2018,231.472
+transport,Malta,2019,246.232
+transport,Malta,2020,202.598
+transport,Netherlands,2009,11596.581
+transport,Netherlands,2010,11656.504
+transport,Netherlands,2011,11786.205
+transport,Netherlands,2012,11278.336
+transport,Netherlands,2013,10984.586
+transport,Netherlands,2014,10261.81
+transport,Netherlands,2015,10408.128
+transport,Netherlands,2016,10408.003
+transport,Netherlands,2017,10611.031
+transport,Netherlands,2018,10951.856
+transport,Netherlands,2019,10876.185
+transport,Netherlands,2020,9299.42
+transport,Norway,2009,4681.502
+transport,Norway,2010,4859.965
+transport,Norway,2011,4852.894
+transport,Norway,2012,4918.933
+transport,Norway,2013,4893.947
+transport,Norway,2014,5018.371
+transport,Norway,2015,4987.372
+transport,Norway,2016,4997.161
+transport,Norway,2017,4913.693
+transport,Norway,2018,4780.121
+transport,Norway,2019,4836.364
+transport,Norway,2020,4516.03
+transport,Poland,2009,16162.094
+transport,Poland,2010,17187.318
+transport,Poland,2011,17408.462
+transport,Poland,2012,16680.367
+transport,Poland,2013,15744.034
+transport,Poland,2014,15804.963
+transport,Poland,2015,16561.073
+transport,Poland,2016,18557.186
+transport,Poland,2017,21431.698
+transport,Poland,2018,22349.398
+transport,Poland,2019,22782.296
+transport,Poland,2020,21778.636
+transport,Portugal,2009,6506.562
+transport,Portugal,2010,6465.711
+transport,Portugal,2011,6002.257
+transport,Portugal,2012,5531.309
+transport,Portugal,2013,5435.469
+transport,Portugal,2014,5464.228
+transport,Portugal,2015,5555.183
+transport,Portugal,2016,5690.973
+transport,Portugal,2017,5788.829
+transport,Portugal,2018,5848.197
+transport,Portugal,2019,5983.256
+transport,Portugal,2020,5009.318
+transport,Romania,2009,5268.425
+transport,Romania,2010,4965.841
+transport,Romania,2011,5212.55
+transport,Romania,2012,5314.735
+transport,Romania,2013,5188.743
+transport,Romania,2014,5266.333
+transport,Romania,2015,5337.702
+transport,Romania,2016,5738.034
+transport,Romania,2017,6149.188
+transport,Romania,2018,6303.748
+transport,Romania,2019,6571.907
+transport,Romania,2020,6460.8
+transport,Serbia,2009,2248.467
+transport,Serbia,2010,2230.695
+transport,Serbia,2011,2042.18
+transport,Serbia,2012,1806.836
+transport,Serbia,2013,1972.215
+transport,Serbia,2014,2041.408
+transport,Serbia,2015,1986.102
+transport,Serbia,2016,2029.445
+transport,Serbia,2017,2113.345
+transport,Serbia,2018,2136.951
+transport,Serbia,2019,2306.862
+transport,Serbia,2020,2196.88
+transport,Sweden,2009,7375.187
+transport,Sweden,2010,7502.59
+transport,Sweden,2011,7510.93
+transport,Sweden,2012,7232.473
+transport,Sweden,2013,7148.502
+transport,Sweden,2014,7145.92
+transport,Sweden,2015,7295.5
+transport,Sweden,2016,7224.832
+transport,Sweden,2017,7307.861
+transport,Sweden,2018,7127.429
+transport,Sweden,2019,7028.281
+transport,Sweden,2020,6619.716
+transport,Slovenia,2009,1719.587
+transport,Slovenia,2010,1778.392
+transport,Slovenia,2011,1882.202
+transport,Slovenia,2012,1899.103
+transport,Slovenia,2013,1809.666
+transport,Slovenia,2014,1794.9
+transport,Slovenia,2015,1772.57
+transport,Slovenia,2016,1882.533
+transport,Slovenia,2017,1934.203
+transport,Slovenia,2018,1974.63
+transport,Slovenia,2019,1926.584
+transport,Slovenia,2020,1583.246
+transport,Slovakia,2009,2314.2
+transport,Slovakia,2010,2595.378
+transport,Slovakia,2011,2596.766
+transport,Slovakia,2012,2299.84
+transport,Slovakia,2013,2308.716
+transport,Slovakia,2014,2176.422
+transport,Slovakia,2015,2168.799
+transport,Slovakia,2016,2429.877
+transport,Slovakia,2017,2772.655
+transport,Slovakia,2018,2744.051
+transport,Slovakia,2019,2789.729
+transport,Slovakia,2020,2487.886
+transport,Turkey,2009,15119.965
+transport,Turkey,2010,14813.898
+transport,Turkey,2011,15036.935
+transport,Turkey,2012,17724.906
+transport,Turkey,2013,19638.094
+transport,Turkey,2014,20972.194
+transport,Turkey,2015,24502.533
+transport,Turkey,2016,27030.056
+transport,Turkey,2017,28305.848
+transport,Turkey,2018,28607.306
+transport,Turkey,2019,28388.778
+transport,Turkey,2020,26664.835
+transport,Ukraine,2009,12792.577
+transport,Ukraine,2010,12917.129
+transport,Ukraine,2011,12875.18
+transport,Ukraine,2012,11772.36
+transport,Ukraine,2013,11848.904
+transport,Ukraine,2014,10299.778
+transport,Ukraine,2015,8721.254
+transport,Ukraine,2016,9133.661
+transport,Ukraine,2017,9590.778
+transport,Ukraine,2018,9417.827
+transport,Ukraine,2019,10029.097
+transport,Ukraine,2020,8017.678
+transport,United Kingdom,2009,41069.453
+transport,United Kingdom,2010,40437.3
+transport,United Kingdom,2011,39907.728
+transport,United Kingdom,2012,39748.786
+transport,United Kingdom,2013,39491.557
+transport,United Kingdom,2014,40108.27
+transport,United Kingdom,2015,40889.253
+transport,United Kingdom,2016,41819.63
+transport,United Kingdom,2017,41928.904
+transport,United Kingdom,2018,41759.75
+transport,United Kingdom,2019,41463.198
+transport,Kosovo (under United Nations Security Council Resolution 1244/99),2009,341.556
+transport,Kosovo (under United Nations Security Council Resolution 1244/99),2010,319.647
+transport,Kosovo (under United Nations Security Council Resolution 1244/99),2011,330.601
+transport,Kosovo (under United Nations Security Council Resolution 1244/99),2012,333.486
+transport,Kosovo (under United Nations Security Council Resolution 1244/99),2013,270.401
+transport,Kosovo (under United Nations Security Council Resolution 1244/99),2014,344.017
+transport,Kosovo (under United Nations Security Council Resolution 1244/99),2015,380.384
+transport,Kosovo (under United Nations Security Council Resolution 1244/99),2016,395.981
+transport,Kosovo (under United Nations Security Council Resolution 1244/99),2017,410.191
+transport,Kosovo (under United Nations Security Council Resolution 1244/99),2018,429.875
+transport,Kosovo (under United Nations Security Council Resolution 1244/99),2019,428.184
+transport,Kosovo (under United Nations Security Council Resolution 1244/99),2020,421.572
+industry,Albania,2009,282.307
+industry,Albania,2010,354.766
+industry,Albania,2011,379.51
+industry,Albania,2012,276.839
+industry,Albania,2013,281.451
+industry,Albania,2014,372.768
+industry,Albania,2015,301.176
+industry,Albania,2016,285.923
+industry,Albania,2017,405.514
+industry,Albania,2018,457.432
+industry,Albania,2019,366.407
+industry,Albania,2020,385.24
+industry,Austria,2009,7126.442
+industry,Austria,2010,7567.819
+industry,Austria,2011,7597.055
+industry,Austria,2012,7654.898
+industry,Austria,2013,7493.815
+industry,Austria,2014,7341.643
+industry,Austria,2015,7365.049
+industry,Austria,2016,7608.787
+industry,Austria,2017,7629.492
+industry,Austria,2018,7559.531
+industry,Austria,2019,7542.72
+industry,Austria,2020,7322.451
+industry,Bosnia and Herzegovina,2014,717.286
+industry,Bosnia and Herzegovina,2015,756.627
+industry,Bosnia and Herzegovina,2016,754.104
+industry,Bosnia and Herzegovina,2017,828.931
+industry,Bosnia and Herzegovina,2018,863.498
+industry,Bosnia and Herzegovina,2019,737.688
+industry,Bosnia and Herzegovina,2020,604.742
+industry,Belgium,2009,9646.804
+industry,Belgium,2010,10956.415
+industry,Belgium,2011,10560.732
+industry,Belgium,2012,10535.124
+industry,Belgium,2013,10770.704
+industry,Belgium,2014,10605.158
+industry,Belgium,2015,10609.864
+industry,Belgium,2016,10663.329
+industry,Belgium,2017,10468.998
+industry,Belgium,2018,10707.991
+industry,Belgium,2019,10334.863
+industry,Belgium,2020,10023.236
+industry,Bulgaria,2009,2442.063
+industry,Bulgaria,2010,2549.961
+industry,Bulgaria,2011,2696.44
+industry,Bulgaria,2012,2566.576
+industry,Bulgaria,2013,2595.527
+industry,Bulgaria,2014,2617.523
+industry,Bulgaria,2015,2719.641
+industry,Bulgaria,2016,2655.459
+industry,Bulgaria,2017,2757.516
+industry,Bulgaria,2018,2736.144
+industry,Bulgaria,2019,2678.806
+industry,Bulgaria,2020,2646.35
+industry,Cyprus,2009,261.129
+industry,Cyprus,2010,236.322
+industry,Cyprus,2011,210.304
+industry,Cyprus,2012,173.464
+industry,Cyprus,2013,186.089
+industry,Cyprus,2014,225.539
+industry,Cyprus,2015,211.592
+industry,Cyprus,2016,215.369
+industry,Cyprus,2017,234.2
+industry,Cyprus,2018,227.688
+industry,Cyprus,2019,228.648
+industry,Cyprus,2020,244.646
+industry,Czechia,2009,7355.363
+industry,Czechia,2010,6888.698
+industry,Czechia,2011,6770.87
+industry,Czechia,2012,6721.828
+industry,Czechia,2013,6421.714
+industry,Czechia,2014,6325.607
+industry,Czechia,2015,6471.744
+industry,Czechia,2016,6407.645
+industry,Czechia,2017,6729.23
+industry,Czechia,2018,6694.234
+industry,Czechia,2019,6613.436
+industry,Czechia,2020,6554.352
+industry,Germany (until 1990 former territory of the FRG),2009,50487.292
+industry,Germany (until 1990 former territory of the FRG),2010,56668.914
+industry,Germany (until 1990 former territory of the FRG),2011,57409.744
+industry,Germany (until 1990 former territory of the FRG),2012,56712.955
+industry,Germany (until 1990 former territory of the FRG),2013,56347.486
+industry,Germany (until 1990 former territory of the FRG),2014,55725.644
+industry,Germany (until 1990 former territory of the FRG),2015,56067.59
+industry,Germany (until 1990 former territory of the FRG),2016,56677.082
+industry,Germany (until 1990 former territory of the FRG),2017,57146.089
+industry,Germany (until 1990 former territory of the FRG),2018,57090.092
+industry,Germany (until 1990 former territory of the FRG),2019,55649.346
+industry,Germany (until 1990 former territory of the FRG),2020,54188.966
+industry,Denmark,2009,2353.089
+industry,Denmark,2010,2447.235
+industry,Denmark,2011,2442.845
+industry,Denmark,2012,2303.859
+industry,Denmark,2013,2179.683
+industry,Denmark,2014,2120.897
+industry,Denmark,2015,2109.643
+industry,Denmark,2016,2165.897
+industry,Denmark,2017,2284.765
+industry,Denmark,2018,2318.721
+industry,Denmark,2019,2257.326
+industry,Denmark,2020,2304.254
+industry,Estonia,2009,529.854
+industry,Estonia,2010,577.671
+industry,Estonia,2011,586.045
+industry,Estonia,2012,564.247
+industry,Estonia,2013,639.597
+industry,Estonia,2014,555.819
+industry,Estonia,2015,535.033
+industry,Estonia,2016,457.757
+industry,Estonia,2017,462.926
+industry,Estonia,2018,487.808
+industry,Estonia,2019,459.267
+industry,Estonia,2020,407.97
+industry,Greece,2009,3462.364
+industry,Greece,2010,3472.811
+industry,Greece,2011,3322.823
+industry,Greece,2012,2995.491
+industry,Greece,2013,2835.531
+industry,Greece,2014,3088.3
+industry,Greece,2015,3128.446
+industry,Greece,2016,3073.122
+industry,Greece,2017,2762.817
+industry,Greece,2018,2738.854
+industry,Greece,2019,2587.606
+industry,Greece,2020,2523.498
+industry,Spain,2009,20698.891
+industry,Spain,2010,20781.483
+industry,Spain,2011,20627.827
+industry,Spain,2012,20107.728
+industry,Spain,2013,19601.617
+industry,Spain,2014,19311.864
+industry,Spain,2015,18691.281
+industry,Spain,2016,19897.234
+industry,Spain,2017,20394.457
+industry,Spain,2018,20666.439
+industry,Spain,2019,20642.726
+industry,Spain,2020,18840.56
+industry,Finland,2009,9373.885
+industry,Finland,2010,10714.785
+industry,Finland,2011,10520.526
+industry,Finland,2012,10235.612
+industry,Finland,2013,10270.316
+industry,Finland,2014,10218.631
+industry,Finland,2015,10208.687
+industry,Finland,2016,10531.027
+industry,Finland,2017,10696.042
+industry,Finland,2018,11065.527
+industry,Finland,2019,10963.152
+industry,Finland,2020,10248.233
+industry,France,2009,26277.824
+industry,France,2010,27739.167
+industry,France,2011,29667.704
+industry,France,2012,29419.823
+industry,France,2013,29384.605
+industry,France,2014,28116.135
+industry,France,2015,27886.627
+industry,France,2016,28584.483
+industry,France,2017,27589.636
+industry,France,2018,28197.729
+industry,France,2019,27500.35
+industry,France,2020,25798.379
+industry,Georgia,2013,732.824
+industry,Georgia,2014,759.094
+industry,Georgia,2015,776.551
+industry,Georgia,2016,747.355
+industry,Georgia,2017,836.142
+industry,Georgia,2018,868.278
+industry,Georgia,2019,822.425
+industry,Georgia,2020,783.177
+industry,Croatia,2009,1372.061
+industry,Croatia,2010,1329.298
+industry,Croatia,2011,1246.281
+industry,Croatia,2012,1098.882
+industry,Croatia,2013,1075.385
+industry,Croatia,2014,1066.757
+industry,Croatia,2015,1056.526
+industry,Croatia,2016,1057.393
+industry,Croatia,2017,1148.118
+industry,Croatia,2018,1161.853
+industry,Croatia,2019,1172.434
+industry,Croatia,2020,1171.209
+industry,Hungary,2009,2424.57
+industry,Hungary,2010,2604.791
+industry,Hungary,2011,2998.149
+industry,Hungary,2012,3182.392
+industry,Hungary,2013,3725.701
+industry,Hungary,2014,3705.025
+industry,Hungary,2015,3867.221
+industry,Hungary,2016,3995.724
+industry,Hungary,2017,4282.774
+industry,Hungary,2018,4453.878
+industry,Hungary,2019,4460.455
+industry,Hungary,2020,4431.346
+industry,Ireland,2009,1852.092
+industry,Ireland,2010,1854.207
+industry,Ireland,2011,1730.153
+industry,Ireland,2012,1727.191
+industry,Ireland,2013,1806.749
+industry,Ireland,2014,1994.607
+industry,Ireland,2015,2006.61
+industry,Ireland,2016,2082.813
+industry,Ireland,2017,2164.59
+industry,Ireland,2018,2259.307
+industry,Ireland,2019,2248.457
+industry,Ireland,2020,2166.932
+industry,Iceland,2009,1307.81
+industry,Iceland,2010,1299.919
+industry,Iceland,2011,1324.183
+industry,Iceland,2012,1359.322
+industry,Iceland,2013,1424.41
+industry,Iceland,2014,1442.055
+industry,Iceland,2015,1460.048
+industry,Iceland,2016,1344.211
+industry,Iceland,2017,1394.304
+industry,Iceland,2018,1401.396
+industry,Iceland,2019,1315.423
+industry,Iceland,2020,1298.425
+industry,Italy,2009,28552.887
+industry,Italy,2010,29014.718
+industry,Italy,2011,27744.858
+industry,Italy,2012,26948.704
+industry,Italy,2013,25353.587
+industry,Italy,2014,24739.085
+industry,Italy,2015,24853.372
+industry,Italy,2016,25088.949
+industry,Italy,2017,24925.749
+industry,Italy,2018,24663.854
+industry,Italy,2019,24928.486
+industry,Italy,2020,23861.103
+industry,Lithuania,2009,872.141
+industry,Lithuania,2010,949.629
+industry,Lithuania,2011,1013.346
+industry,Lithuania,2012,1071.759
+industry,Lithuania,2013,1037.327
+industry,Lithuania,2014,1033.722
+industry,Lithuania,2015,982.755
+industry,Lithuania,2016,988.969
+industry,Lithuania,2017,1070.927
+industry,Lithuania,2018,1106.588
+industry,Lithuania,2019,1113.763
+industry,Lithuania,2020,1024.34
+industry,Luxembourg,2009,675.084
+industry,Luxembourg,2010,753.212
+industry,Luxembourg,2011,738.941
+industry,Luxembourg,2012,693.133
+industry,Luxembourg,2013,662.241
+industry,Luxembourg,2014,662.991
+industry,Luxembourg,2015,645.852
+industry,Luxembourg,2016,672.673
+industry,Luxembourg,2017,630.695
+industry,Luxembourg,2018,648.871
+industry,Luxembourg,2019,631.731
+industry,Luxembourg,2020,584.698
+industry,Latvia,2009,651.715
+industry,Latvia,2010,773.847
+industry,Latvia,2011,747.755
+industry,Latvia,2012,827.436
+industry,Latvia,2013,767.643
+industry,Latvia,2014,791.158
+industry,Latvia,2015,787.78
+industry,Latvia,2016,748.954
+industry,Latvia,2017,793.356
+industry,Latvia,2018,897.892
+industry,Latvia,2019,852.758
+industry,Latvia,2020,870.923
+industry,Moldova,2010,224.763
+industry,Moldova,2011,232.392
+industry,Moldova,2012,234.103
+industry,Moldova,2013,250.298
+industry,Moldova,2014,227.156
+industry,Moldova,2015,212.33
+industry,Moldova,2016,196.056
+industry,Moldova,2017,211.736
+industry,Moldova,2018,248.859
+industry,Moldova,2019,231.631
+industry,Moldova,2020,224.29
+industry,Montenegro,2009,233.276
+industry,Montenegro,2010,199.25
+industry,Montenegro,2011,226.735
+industry,Montenegro,2012,203.208
+industry,Montenegro,2013,183.351
+industry,Montenegro,2014,133.191
+industry,Montenegro,2015,131.817
+industry,Montenegro,2016,120.024
+industry,Montenegro,2017,139.009
+industry,Montenegro,2018,135.524
+industry,Montenegro,2019,137.222
+industry,Montenegro,2020,133.129
+industry,North Macedonia,2009,427.237
+industry,North Macedonia,2010,542.23
+industry,North Macedonia,2011,633.919
+industry,North Macedonia,2012,579.083
+industry,North Macedonia,2013,555.332
+industry,North Macedonia,2014,517.614
+industry,North Macedonia,2015,474.779
+industry,North Macedonia,2016,441.263
+industry,North Macedonia,2017,388.256
+industry,North Macedonia,2018,412.335
+industry,North Macedonia,2019,450.049
+industry,North Macedonia,2020,463.322
+industry,Malta,2009,51.93
+industry,Malta,2010,44.12
+industry,Malta,2011,39.867
+industry,Malta,2012,43.762
+industry,Malta,2013,52.23
+industry,Malta,2014,55.495
+industry,Malta,2015,55.139
+industry,Malta,2016,54.925
+industry,Malta,2017,57.156
+industry,Malta,2018,54.883
+industry,Malta,2019,56.767
+industry,Malta,2020,58.423
+industry,Netherlands,2009,13364.817
+industry,Netherlands,2010,14419.099
+industry,Netherlands,2011,13868.099
+industry,Netherlands,2012,13680.315
+industry,Netherlands,2013,13501.601
+industry,Netherlands,2014,13236.577
+industry,Netherlands,2015,12922.328
+industry,Netherlands,2016,13547.016
+industry,Netherlands,2017,13612.266
+industry,Netherlands,2018,13465.281
+industry,Netherlands,2019,13043.89
+industry,Netherlands,2020,13118.37
+industry,Norway,2009,5491.896
+industry,Norway,2010,6253.211
+industry,Norway,2011,6250.184
+industry,Norway,2012,6033.135
+industry,Norway,2013,6049.522
+industry,Norway,2014,5942.082
+industry,Norway,2015,5984.277
+industry,Norway,2016,5993.18
+industry,Norway,2017,6103.478
+industry,Norway,2018,6248.278
+industry,Norway,2019,6258.222
+industry,Norway,2020,6321.49
+industry,Poland,2009,12823.318
+industry,Poland,2010,13499.29
+industry,Poland,2011,13961.482
+industry,Poland,2012,13733.264
+industry,Poland,2013,14210.705
+industry,Poland,2014,14153.252
+industry,Poland,2015,14095.62
+industry,Poland,2016,14652.42
+industry,Poland,2017,15819.88
+industry,Poland,2018,16327.935
+industry,Poland,2019,16492.204
+industry,Poland,2020,15921.165
+industry,Portugal,2009,5213.596
+industry,Portugal,2010,5456.022
+industry,Portugal,2011,5351.641
+industry,Portugal,2012,4606.171
+industry,Portugal,2013,4598.647
+industry,Portugal,2014,4405.499
+industry,Portugal,2015,4411.521
+industry,Portugal,2016,4381.447
+industry,Portugal,2017,4525.297
+industry,Portugal,2018,4554.961
+industry,Portugal,2019,4618.957
+industry,Portugal,2020,4503.027
+industry,Romania,2009,6144.626
+industry,Romania,2010,6484.195
+industry,Romania,2011,7059.692
+industry,Romania,2012,6748.255
+industry,Romania,2013,6272.845
+industry,Romania,2014,6427.425
+industry,Romania,2015,6418.898
+industry,Romania,2016,6263.796
+industry,Romania,2017,6437.729
+industry,Romania,2018,6612.433
+industry,Romania,2019,6661.063
+industry,Romania,2020,6437.031
+industry,Serbia,2009,1992.663
+industry,Serbia,2010,2428.856
+industry,Serbia,2011,2740.411
+industry,Serbia,2012,2463.907
+industry,Serbia,2013,2395.892
+industry,Serbia,2014,1955.64
+industry,Serbia,2015,2046.575
+industry,Serbia,2016,2174.147
+industry,Serbia,2017,2266.02
+industry,Serbia,2018,2397.904
+industry,Serbia,2019,2183.785
+industry,Serbia,2020,1966.405
+industry,Sweden,2009,10894.581
+industry,Sweden,2010,11649.777
+industry,Sweden,2011,11290.404
+industry,Sweden,2012,11244.099
+industry,Sweden,2013,11029.728
+industry,Sweden,2014,10799.075
+industry,Sweden,2015,11019.17
+industry,Sweden,2016,10971.244
+industry,Sweden,2017,10917.194
+industry,Sweden,2018,11013.378
+industry,Sweden,2019,10891.752
+industry,Sweden,2020,11562.254
+industry,Slovenia,2009,1221.108
+industry,Slovenia,2010,1274.056
+industry,Slovenia,2011,1236.892
+industry,Slovenia,2012,1207.414
+industry,Slovenia,2013,1197.651
+industry,Slovenia,2014,1231.213
+industry,Slovenia,2015,1228.021
+industry,Slovenia,2016,1242.337
+industry,Slovenia,2017,1295.612
+industry,Slovenia,2018,1319.206
+industry,Slovenia,2019,1322.211
+industry,Slovenia,2020,1259.997
+industry,Slovakia,2009,3118.543
+industry,Slovakia,2010,3224.086
+industry,Slovakia,2011,3255.331
+industry,Slovakia,2012,3233.817
+industry,Slovakia,2013,3114.817
+industry,Slovakia,2014,3241.628
+industry,Slovakia,2015,3333.371
+industry,Slovakia,2016,3308.576
+industry,Slovakia,2017,3452.442
+industry,Slovakia,2018,3662.539
+industry,Slovakia,2019,3463.68
+industry,Slovakia,2020,3138.177
+industry,Turkey,2009,18944.871
+industry,Turkey,2010,22315.535
+industry,Turkey,2011,24891.605
+industry,Turkey,2012,25566.818
+industry,Turkey,2013,24029.04
+industry,Turkey,2014,25101.897
+industry,Turkey,2015,26109.622
+industry,Turkey,2016,26330.093
+industry,Turkey,2017,32121.826
+industry,Turkey,2018,32331.058
+industry,Turkey,2019,30491.713
+industry,Turkey,2020,32577.26
+industry,Ukraine,2009,22236.711
+industry,Ukraine,2010,24938.886
+industry,Ukraine,2011,25810.737
+industry,Ukraine,2012,23981.954
+industry,Ukraine,2013,21841.758
+industry,Ukraine,2014,20568.374
+industry,Ukraine,2015,16377.631
+industry,Ukraine,2016,15512.409
+industry,Ukraine,2017,15094.859
+industry,Ukraine,2018,16416.222
+industry,Ukraine,2019,16126.577
+industry,Ukraine,2020,15979.57
+industry,United Kingdom,2009,24360.055
+industry,United Kingdom,2010,25596.576
+industry,United Kingdom,2011,23952.179
+industry,United Kingdom,2012,23613.28
+industry,United Kingdom,2013,23643.762
+industry,United Kingdom,2014,22967.703
+industry,United Kingdom,2015,23060.44
+industry,United Kingdom,2016,21304.966
+industry,United Kingdom,2017,21625.725
+industry,United Kingdom,2018,21689.348
+industry,United Kingdom,2019,21118.796
+industry,Kosovo (under United Nations Security Council Resolution 1244/99),2009,241.752
+industry,Kosovo (under United Nations Security Council Resolution 1244/99),2010,277.582
+industry,Kosovo (under United Nations Security Council Resolution 1244/99),2011,307.986
+industry,Kosovo (under United Nations Security Council Resolution 1244/99),2012,273.752
+industry,Kosovo (under United Nations Security Council Resolution 1244/99),2013,262.9
+industry,Kosovo (under United Nations Security Council Resolution 1244/99),2014,245.253
+industry,Kosovo (under United Nations Security Council Resolution 1244/99),2015,307.181
+industry,Kosovo (under United Nations Security Council Resolution 1244/99),2016,281.257
+industry,Kosovo (under United Nations Security Council Resolution 1244/99),2017,313.24
+industry,Kosovo (under United Nations Security Council Resolution 1244/99),2018,281.795
+industry,Kosovo (under United Nations Security Council Resolution 1244/99),2019,299.97
+industry,Kosovo (under United Nations Security Council Resolution 1244/99),2020,302.386
+household,Albania,2009,487.171
+household,Albania,2010,489.039
+household,Albania,2011,498.28
+household,Albania,2012,509.086
+household,Albania,2013,580.003
+household,Albania,2014,556.243
+household,Albania,2015,532.287
+household,Albania,2016,496.35
+household,Albania,2017,492.58
+household,Albania,2018,510.484
+household,Albania,2019,504.986
+household,Albania,2020,541.03
+household,Austria,2009,6492.475
+household,Austria,2010,7070.224
+household,Austria,2011,6551.691
+household,Austria,2012,6677.912
+household,Austria,2013,6923.356
+household,Austria,2014,6239.87
+household,Austria,2015,6631.937
+household,Austria,2016,6909.468
+household,Austria,2017,6955.601
+household,Austria,2018,6531.091
+household,Austria,2019,6677.534
+household,Austria,2020,6683.075
+household,Bosnia and Herzegovina,2014,980.816
+household,Bosnia and Herzegovina,2015,1113.03
+household,Bosnia and Herzegovina,2016,1139.361
+household,Bosnia and Herzegovina,2017,1045.641
+household,Bosnia and Herzegovina,2018,1719.424
+household,Bosnia and Herzegovina,2019,1686.605
+household,Bosnia and Herzegovina,2020,1800.213
+household,Belgium,2009,8649.642
+household,Belgium,2010,9623.737
+household,Belgium,2011,8017.36
+household,Belgium,2012,8492.49
+household,Belgium,2013,9122.367
+household,Belgium,2014,7452.761
+household,Belgium,2015,8235.112
+household,Belgium,2016,8271.116
+household,Belgium,2017,8143.814
+household,Belgium,2018,8064.398
+household,Belgium,2019,7856.408
+household,Belgium,2020,7934.525
+household,Bulgaria,2009,2114.011
+household,Bulgaria,2010,2243.338
+household,Bulgaria,2011,2374.281
+household,Bulgaria,2012,2352.559
+household,Bulgaria,2013,2241.036
+household,Bulgaria,2014,2164.991
+household,Bulgaria,2015,2192.912
+household,Bulgaria,2016,2252.111
+household,Bulgaria,2017,2318.715
+household,Bulgaria,2018,2229.672
+household,Bulgaria,2019,2162.252
+household,Bulgaria,2020,2382.245
+household,Cyprus,2009,358.796
+household,Cyprus,2010,336.524
+household,Cyprus,2011,356.538
+household,Cyprus,2012,351.763
+household,Cyprus,2013,306.622
+household,Cyprus,2014,293.742
+household,Cyprus,2015,326.614
+household,Cyprus,2016,335.594
+household,Cyprus,2017,345.146
+household,Cyprus,2018,337.179
+household,Cyprus,2019,362.606
+household,Cyprus,2020,364.493
+household,Czechia,2009,6656.571
+household,Czechia,2010,7440.711
+household,Czechia,2011,6863.723
+household,Czechia,2012,7115.57
+household,Czechia,2013,7269.133
+household,Czechia,2014,6554.173
+household,Czechia,2015,6769.51
+household,Czechia,2016,7090.172
+household,Czechia,2017,7202.965
+household,Czechia,2018,7042.708
+household,Czechia,2019,6963.387
+household,Czechia,2020,7148.052
+household,Germany (until 1990 former territory of the FRG),2009,59464.701
+household,Germany (until 1990 former territory of the FRG),2010,63839.122
+household,Germany (until 1990 former territory of the FRG),2011,56020.249
+household,Germany (until 1990 former territory of the FRG),2012,59188.124
+household,Germany (until 1990 former territory of the FRG),2013,62517.628
+household,Germany (until 1990 former territory of the FRG),2014,53648.149
+household,Germany (until 1990 former territory of the FRG),2015,54959.824
+household,Germany (until 1990 former territory of the FRG),2016,56963.58
+household,Germany (until 1990 former territory of the FRG),2017,56777.115
+household,Germany (until 1990 former territory of the FRG),2018,55822.36
+household,Germany (until 1990 former territory of the FRG),2019,57743.03
+household,Germany (until 1990 former territory of the FRG),2020,57989.236
+household,Denmark,2009,4510.054
+household,Denmark,2010,5005.148
+household,Denmark,2011,4496.285
+household,Denmark,2012,4444.48
+household,Denmark,2013,4484.149
+household,Denmark,2014,4146.3
+household,Denmark,2015,4442.024
+household,Denmark,2016,4585.481
+household,Denmark,2017,4501.325
+household,Denmark,2018,4450.321
+household,Denmark,2019,4391.558
+household,Denmark,2020,4323.483
+household,Estonia,2009,970.068
+household,Estonia,2010,1026.849
+household,Estonia,2011,935.253
+household,Estonia,2012,970.828
+household,Estonia,2013,933.506
+household,Estonia,2014,888.143
+household,Estonia,2015,857.435
+household,Estonia,2016,930.578
+household,Estonia,2017,940.914
+household,Estonia,2018,941.03
+household,Estonia,2019,951.328
+household,Estonia,2020,944.664
+household,Greece,2009,4887.508
+household,Greece,2010,4666.492
+household,Greece,2011,5526.044
+household,Greece,2012,5096.015
+household,Greece,2013,3821.337
+household,Greece,2014,3844.875
+household,Greece,2015,4460.625
+household,Greece,2016,4348.678
+household,Greece,2017,4413.305
+household,Greece,2018,3914.348
+household,Greece,2019,4113.967
+household,Greece,2020,4290.417
+household,Spain,2009,15957.589
+household,Spain,2010,16951.831
+household,Spain,2011,15633.895
+household,Spain,2012,15530.469
+household,Spain,2013,14888.925
+household,Spain,2014,14787.31
+household,Spain,2015,15269.842
+household,Spain,2016,14331.695
+household,Spain,2017,14392.022
+household,Spain,2018,15178.832
+household,Spain,2019,14447.71
+household,Spain,2020,14558.175
+household,Finland,2009,5246.647
+household,Finland,2010,5811.234
+household,Finland,2011,5091.152
+household,Finland,2012,5455.636
+household,Finland,2013,5172.734
+household,Finland,2014,5126.199
+household,Finland,2015,4950.975
+household,Finland,2016,5342.235
+household,Finland,2017,5761.435
+household,Finland,2018,5691.11
+household,Finland,2019,5631.035
+household,Finland,2020,5289.256
+household,France,2009,43976.87
+household,France,2010,45407.793
+household,France,2011,39677.038
+household,France,2012,43710.318
+household,France,2013,45858.27
+household,France,2014,37786.86
+household,France,2015,39906.35
+household,France,2016,41834.982
+household,France,2017,41112.358
+household,France,2018,39759.77
+household,France,2019,39619.892
+household,France,2020,38710.694
+household,Georgia,2013,1159.32
+household,Georgia,2014,1194.979
+household,Georgia,2015,1201.348
+household,Georgia,2016,1266.269
+household,Georgia,2017,1336.297
+household,Georgia,2018,1227.303
+household,Georgia,2019,1300.65
+household,Georgia,2020,1408.174
+household,Croatia,2009,2644.875
+household,Croatia,2010,2770.684
+household,Croatia,2011,2643.689
+household,Croatia,2012,2561.737
+household,Croatia,2013,2493.049
+household,Croatia,2014,2228.381
+household,Croatia,2015,2429.885
+household,Croatia,2016,2408.902
+household,Croatia,2017,2392.794
+household,Croatia,2018,2298.942
+household,Croatia,2019,2238.639
+household,Croatia,2020,2277.143
+household,Hungary,2009,6311.473
+household,Hungary,2010,6648.743
+household,Hungary,2011,6569.577
+household,Hungary,2012,6375.847
+household,Hungary,2013,6209.747
+household,Hungary,2014,5487.452
+household,Hungary,2015,5969.813
+household,Hungary,2016,6172.733
+household,Hungary,2017,6294.138
+household,Hungary,2018,5818.115
+household,Hungary,2019,5676.869
+household,Hungary,2020,5966.452
+household,Ireland,2009,3411.573
+household,Ireland,2010,3573.38
+household,Ireland,2011,3133.548
+household,Ireland,2012,2984.811
+household,Ireland,2013,2910.357
+household,Ireland,2014,2623.674
+household,Ireland,2015,2790.719
+household,Ireland,2016,2867.358
+household,Ireland,2017,2775.896
+household,Ireland,2018,2963.959
+household,Ireland,2019,2880.357
+household,Ireland,2020,3124.883
+household,Iceland,2009,375.096
+household,Iceland,2010,377.577
+household,Iceland,2011,370.818
+household,Iceland,2012,400.502
+household,Iceland,2013,399.164
+household,Iceland,2014,384.692
+household,Iceland,2015,392.234
+household,Iceland,2016,423.296
+household,Iceland,2017,422.526
+household,Iceland,2018,505.489
+household,Iceland,2019,454.055
+household,Iceland,2020,482.238
+household,Italy,2009,34040.636
+household,Italy,2010,35392.911
+household,Italy,2011,32378.063
+household,Italy,2012,34348.336
+household,Italy,2013,34230.62
+household,Italy,2014,29545.98
+household,Italy,2015,32494.483
+household,Italy,2016,32185.101
+household,Italy,2017,32898.639
+household,Italy,2018,31905.559
+household,Italy,2019,31138.335
+household,Italy,2020,30655.992
+household,Lithuania,2009,1568.648
+household,Lithuania,2010,1593.216
+household,Lithuania,2011,1532.207
+household,Lithuania,2012,1534.798
+household,Lithuania,2013,1467.198
+household,Lithuania,2014,1400.9
+household,Lithuania,2015,1359.131
+household,Lithuania,2016,1433.211
+household,Lithuania,2017,1455.374
+household,Lithuania,2018,1511.606
+household,Lithuania,2019,1447.177
+household,Lithuania,2020,1433.361
+household,Luxembourg,2009,517.987
+household,Luxembourg,2010,512.414
+household,Luxembourg,2011,477.528
+household,Luxembourg,2012,490.129
+household,Luxembourg,2013,498.03
+household,Luxembourg,2014,467.848
+household,Luxembourg,2015,508.672
+household,Luxembourg,2016,524.557
+household,Luxembourg,2017,534.537
+household,Luxembourg,2018,499.165
+household,Luxembourg,2019,461.494
+household,Luxembourg,2020,495.707
+household,Latvia,2009,1534.586
+household,Latvia,2010,1388.905
+household,Latvia,2011,1327.389
+household,Latvia,2012,1376.24
+household,Latvia,2013,1267.242
+household,Latvia,2014,1238.471
+household,Latvia,2015,1105.582
+household,Latvia,2016,1143.483
+household,Latvia,2017,1195.604
+household,Latvia,2018,1231.009
+household,Latvia,2019,1187.967
+household,Latvia,2020,1115.366
+household,Moldova,2010,1112.668
+household,Moldova,2011,1137.092
+household,Moldova,2012,1155.36
+household,Moldova,2013,1147.203
+household,Moldova,2014,1169.757
+household,Moldova,2015,1179.946
+household,Moldova,2016,1233.669
+household,Moldova,2017,1316.751
+household,Moldova,2018,1356.862
+household,Moldova,2019,1237.815
+household,Moldova,2020,1254.86
+household,Montenegro,2009,266.275
+household,Montenegro,2010,274.679
+household,Montenegro,2011,268.887
+household,Montenegro,2012,281.347
+household,Montenegro,2013,269.251
+household,Montenegro,2014,256.273
+household,Montenegro,2015,265.421
+household,Montenegro,2016,264.617
+household,Montenegro,2017,263.151
+household,Montenegro,2018,248.017
+household,Montenegro,2019,243.959
+household,Montenegro,2020,243.169
+household,North Macedonia,2009,549.169
+household,North Macedonia,2010,538.208
+household,North Macedonia,2011,567.027
+household,North Macedonia,2012,559.01
+household,North Macedonia,2013,519.019
+household,North Macedonia,2014,523.579
+household,North Macedonia,2015,531.06
+household,North Macedonia,2016,491.613
+household,North Macedonia,2017,529.132
+household,North Macedonia,2018,483.576
+household,North Macedonia,2019,492.266
+household,North Macedonia,2020,513.382
+household,Malta,2009,64.393
+household,Malta,2010,69.245
+household,Malta,2011,68.76
+household,Malta,2012,72.178
+household,Malta,2013,73.999
+household,Malta,2014,73.904
+household,Malta,2015,79.865
+household,Malta,2016,77.575
+household,Malta,2017,91.096
+household,Malta,2018,96.33
+household,Malta,2019,103.253
+household,Malta,2020,104.913
+household,Netherlands,2009,11027.901
+household,Netherlands,2010,12480.144
+household,Netherlands,2011,10280.98
+household,Netherlands,2012,10866.787
+household,Netherlands,2013,11412.549
+household,Netherlands,2014,9116.954
+household,Netherlands,2015,9547.202
+household,Netherlands,2016,9839.39
+household,Netherlands,2017,9627.391
+household,Netherlands,2018,9646.473
+household,Netherlands,2019,9460.649
+household,Netherlands,2020,9312.144
+household,Norway,2009,4227.355
+household,Norway,2010,4734.338
+household,Norway,2011,4278.75
+household,Norway,2012,4530.381
+household,Norway,2013,4483.646
+household,Norway,2014,4215.799
+household,Norway,2015,4385.799
+household,Norway,2016,4438.346
+household,Norway,2017,4533.744
+household,Norway,2018,4579.261
+household,Norway,2019,4565.951
+household,Norway,2020,4434.49
+household,Poland,2009,19991.704
+household,Poland,2010,22003.223
+household,Poland,2011,20130.337
+household,Poland,2012,20812.831
+household,Poland,2013,20492.342
+household,Poland,2014,19034.91
+household,Poland,2015,19032.33
+household,Poland,2016,19886.419
+household,Poland,2017,20063.013
+household,Poland,2018,22557.493
+household,Poland,2019,20993.899
+household,Poland,2020,21101.347
+household,Portugal,2009,3197.832
+household,Portugal,2010,2970.645
+household,Portugal,2011,2777.129
+household,Portugal,2012,2694.958
+household,Portugal,2013,2634.808
+household,Portugal,2014,2776.692
+household,Portugal,2015,2751.749
+household,Portugal,2016,2819.484
+household,Portugal,2017,2801.785
+household,Portugal,2018,2877.758
+household,Portugal,2019,2891.348
+household,Portugal,2020,3013.003
+household,Romania,2009,8015.179
+household,Romania,2010,8102.009
+household,Romania,2011,7859.678
+household,Romania,2012,8060.582
+household,Romania,2013,7721.97
+household,Romania,2014,7409.681
+household,Romania,2015,7375.183
+household,Romania,2016,7414.92
+household,Romania,2017,7732.038
+household,Romania,2018,7775.08
+household,Romania,2019,7753.283
+household,Romania,2020,8007.426
+household,Serbia,2009,3043.422
+household,Serbia,2010,3078.701
+household,Serbia,2011,3134.547
+household,Serbia,2012,3122.404
+household,Serbia,2013,2846.752
+household,Serbia,2014,2752.774
+household,Serbia,2015,2826.151
+household,Serbia,2016,2924.257
+household,Serbia,2017,2853.554
+household,Serbia,2018,2838.427
+household,Serbia,2019,2854.671
+household,Serbia,2020,3488.069
+household,Sweden,2009,7232.548
+household,Sweden,2010,8282.685
+household,Sweden,2011,7681.81
+household,Sweden,2012,8053.653
+household,Sweden,2013,7694.262
+household,Sweden,2014,7229.333
+household,Sweden,2015,7411.176
+household,Sweden,2016,7659.147
+household,Sweden,2017,7696.829
+household,Sweden,2018,7490.34
+household,Sweden,2019,7363.914
+household,Sweden,2020,7200.324
+household,Slovenia,2009,1320.449
+household,Slovenia,2010,1364.215
+household,Slovenia,2011,1302.665
+household,Slovenia,2012,1255.831
+household,Slovenia,2013,1240.442
+household,Slovenia,2014,1060.707
+household,Slovenia,2015,1166.185
+household,Slovenia,2016,1186.482
+household,Slovenia,2017,1156.364
+household,Slovenia,2018,1084.519
+household,Slovenia,2019,1057.452
+household,Slovenia,2020,1072.435
+household,Slovakia,2009,2147.493
+household,Slovakia,2010,2311.582
+household,Slovakia,2011,2121.122
+household,Slovakia,2012,2070.086
+household,Slovakia,2013,2146.977
+household,Slovakia,2014,1951.912
+household,Slovakia,2015,1987.662
+household,Slovakia,2016,2030.217
+household,Slovakia,2017,2108.641
+household,Slovakia,2018,2057.519
+household,Slovakia,2019,2643.412
+household,Slovakia,2020,2744.571
+household,Turkey,2009,18864.658
+household,Turkey,2010,19414.937
+household,Turkey,2011,20809.776
+household,Turkey,2012,20187.463
+household,Turkey,2013,19807.984
+household,Turkey,2014,19166.344
+household,Turkey,2015,20153.33
+household,Turkey,2016,20711.118
+household,Turkey,2017,22167.051
+household,Turkey,2018,20557.145
+household,Turkey,2019,21563.923
+household,Turkey,2020,23029.022
+household,Ukraine,2009,22120.183
+household,Ukraine,2010,23838.511
+household,Ukraine,2011,23587.848
+household,Ukraine,2012,23454.289
+household,Ukraine,2013,23446.497
+household,Ukraine,2014,20357.427
+household,Ukraine,2015,16551.87
+household,Ukraine,2016,17348.751
+household,Ukraine,2017,16483.165
+household,Ukraine,2018,15986.088
+household,Ukraine,2019,14015.7
+household,Ukraine,2020,13654.325
+household,United Kingdom,2009,41324.922
+household,United Kingdom,2010,45512.575
+household,United Kingdom,2011,37786.091
+household,United Kingdom,2012,40957.945
+household,United Kingdom,2013,41458.259
+household,United Kingdom,2014,35813.099
+household,United Kingdom,2015,37257.018
+household,United Kingdom,2016,37970.686
+household,United Kingdom,2017,36772.29
+household,United Kingdom,2018,38307.568
+household,United Kingdom,2019,38134.984
+household,Kosovo (under United Nations Security Council Resolution 1244/99),2009,455.628
+household,Kosovo (under United Nations Security Council Resolution 1244/99),2010,461.84
+household,Kosovo (under United Nations Security Council Resolution 1244/99),2011,491.178
+household,Kosovo (under United Nations Security Council Resolution 1244/99),2012,474.234
+household,Kosovo (under United Nations Security Council Resolution 1244/99),2013,494.163
+household,Kosovo (under United Nations Security Council Resolution 1244/99),2014,479.943
+household,Kosovo (under United Nations Security Council Resolution 1244/99),2015,476.388
+household,Kosovo (under United Nations Security Council Resolution 1244/99),2016,549.413
+household,Kosovo (under United Nations Security Council Resolution 1244/99),2017,571.465
+household,Kosovo (under United Nations Security Council Resolution 1244/99),2018,573.404
+household,Kosovo (under United Nations Security Council Resolution 1244/99),2019,586.881
+household,Kosovo (under United Nations Security Council Resolution 1244/99),2020,608.818
+all,Albania,2009,1840.737
+all,Albania,2010,1897.918
+all,Albania,2011,1953.468
+all,Albania,2012,1790.623
+all,Albania,2013,1961.871
+all,Albania,2014,2058.574
+all,Albania,2015,1962.498
+all,Albania,2016,1899.558
+all,Albania,2017,2078.928
+all,Albania,2018,2134.212
+all,Albania,2019,2053.036
+all,Albania,2020,1846.436
+all,Austria,2009,24684.381
+all,Austria,2010,25961.403
+all,Austria,2011,25096.146
+all,Austria,2012,25203.967
+all,Austria,2013,25800.573
+all,Austria,2014,24762.326
+all,Austria,2015,25476.389
+all,Austria,2016,26099.94
+all,Austria,2017,26503.187
+all,Austria,2018,26038.72
+all,Austria,2019,26227.621
+all,Austria,2020,24817.272
+all,Bosnia and Herzegovina,2014,3103.624
+all,Bosnia and Herzegovina,2015,3316.907
+all,Bosnia and Herzegovina,2016,3543.934
+all,Bosnia and Herzegovina,2017,3497.933
+all,Bosnia and Herzegovina,2018,4211.931
+all,Bosnia and Herzegovina,2019,4192.651
+all,Bosnia and Herzegovina,2020,4025.379
+all,Belgium,2009,32846.39
+all,Belgium,2010,35402.324
+all,Belgium,2011,32573.219
+all,Belgium,2012,33008.826
+all,Belgium,2013,34059.593
+all,Belgium,2014,31580.693
+all,Belgium,2015,33149.908
+all,Belgium,2016,33427.056
+all,Belgium,2017,32966.074
+all,Belgium,2018,33183.95
+all,Belgium,2019,32579.814
+all,Belgium,2020,31039.168
+all,Bulgaria,2009,8471.946
+all,Bulgaria,2010,8699.392
+all,Bulgaria,2011,9125.105
+all,Bulgaria,2012,9103.369
+all,Bulgaria,2013,8680.757
+all,Bulgaria,2014,8881.501
+all,Bulgaria,2015,9388.553
+all,Bulgaria,2016,9517.949
+all,Bulgaria,2017,9745.903
+all,Bulgaria,2018,9755.122
+all,Bulgaria,2019,9706.772
+all,Bulgaria,2020,9512.739
+all,Cyprus,2009,1661.85
+all,Cyprus,2010,1645.788
+all,Cyprus,2011,1614.212
+all,Cyprus,2012,1492.799
+all,Cyprus,2013,1372.455
+all,Cyprus,2014,1377.348
+all,Cyprus,2015,1423.923
+all,Cyprus,2016,1490.606
+all,Cyprus,2017,1551.546
+all,Cyprus,2018,1581.273
+all,Cyprus,2019,1626.652
+all,Cyprus,2020,1528.558
+all,Czechia,2009,23795.329
+all,Czechia,2010,24121.144
+all,Czechia,2011,23335.941
+all,Czechia,2012,23321.757
+all,Czechia,2013,23126.347
+all,Czechia,2014,22439.445
+all,Czechia,2015,23093.898
+all,Czechia,2016,23690.581
+all,Czechia,2017,24440.504
+all,Czechia,2018,24186.092
+all,Czechia,2019,24222.332
+all,Czechia,2020,23753.374
+all,Germany (until 1990 former territory of the FRG),2009,196728.372
+all,Germany (until 1990 former territory of the FRG),2010,209923.09
+all,Germany (until 1990 former territory of the FRG),2011,199292.537
+all,Germany (until 1990 former territory of the FRG),2012,202662.536
+all,Germany (until 1990 former territory of the FRG),2013,208057.421
+all,Germany (until 1990 former territory of the FRG),2014,197229.019
+all,Germany (until 1990 former territory of the FRG),2015,200031.296
+all,Germany (until 1990 former territory of the FRG),2016,203666.981
+all,Germany (until 1990 former territory of the FRG),2017,204512.293
+all,Germany (until 1990 former territory of the FRG),2018,200684.593
+all,Germany (until 1990 former territory of the FRG),2019,200804.342
+all,Germany (until 1990 former territory of the FRG),2020,193616.957
+all,Denmark,2009,14146.331
+all,Denmark,2010,14850.955
+all,Denmark,2011,14117.097
+all,Denmark,2012,13612.515
+all,Denmark,2013,13461.011
+all,Denmark,2014,12932.566
+all,Denmark,2015,13462.655
+all,Denmark,2016,13764.298
+all,Denmark,2017,13816.624
+all,Denmark,2018,13807.065
+all,Denmark,2019,13546.716
+all,Denmark,2020,13130.771
+all,Estonia,2009,2724.541
+all,Estonia,2010,2878.489
+all,Estonia,2011,2781.689
+all,Estonia,2012,2827.225
+all,Estonia,2013,2840.316
+all,Estonia,2014,2774.349
+all,Estonia,2015,2750.345
+all,Estonia,2016,2794.835
+all,Estonia,2017,2807.413
+all,Estonia,2018,2887.281
+all,Estonia,2019,2823.291
+all,Estonia,2020,2726.818
+all,Greece,2009,19732.182
+all,Greece,2010,18373.799
+all,Greece,2011,18185.332
+all,Greece,2012,16402.985
+all,Greece,2013,14668.337
+all,Greece,2014,14804.112
+all,Greece,2015,15741.021
+all,Greece,2016,15879.176
+all,Greece,2017,15720.777
+all,Greece,2018,15152.503
+all,Greece,2019,15401.091
+all,Greece,2020,14482.855
+all,Spain,2009,84195.072
+all,Spain,2010,85494.707
+all,Spain,2011,82385.243
+all,Spain,2012,78995.093
+all,Spain,2013,76050.13
+all,Spain,2014,75138.488
+all,Spain,2015,75941.26
+all,Spain,2016,77626.932
+all,Spain,2017,79691.902
+all,Spain,2018,81689.296
+all,Spain,2019,81513.788
+all,Spain,2020,72323.256
+all,Finland,2009,22786.515
+all,Finland,2010,25026.204
+all,Finland,2011,23714.47
+all,Finland,2012,23940.013
+all,Finland,2013,23561.152
+all,Finland,2014,23414.801
+all,Finland,2015,23048.993
+all,Finland,2016,24011.195
+all,Finland,2017,24613.485
+all,Finland,2018,25005.02
+all,Finland,2019,24728.507
+all,Finland,2020,23191.074
+all,France,2009,142254.918
+all,France,2010,146258.394
+all,France,2011,141064.3
+all,France,2012,146059.426
+all,France,2013,148813.512
+all,France,2014,137711.422
+all,France,2015,140867.459
+all,France,2016,143408.691
+all,France,2017,142342.752
+all,France,2018,140324.692
+all,France,2019,139131.269
+all,France,2020,128168.955
+all,Georgia,2013,3505.478
+all,Georgia,2014,3796.823
+all,Georgia,2015,3919.153
+all,Georgia,2016,4165.671
+all,Georgia,2017,4212.4
+all,Georgia,2018,4155.102
+all,Georgia,2019,4266.538
+all,Georgia,2020,4188.821
+all,Croatia,2009,7098.77
+all,Croatia,2010,7129.931
+all,Croatia,2011,6875.184
+all,Croatia,2012,6559.662
+all,Croatia,2013,6468.037
+all,Croatia,2014,6130.773
+all,Croatia,2015,6484.349
+all,Croatia,2016,6531.665
+all,Croatia,2017,6792.599
+all,Croatia,2018,6682.495
+all,Croatia,2019,6726.385
+all,Croatia,2020,6431.987
+all,Hungary,2009,16562.12
+all,Hungary,2010,16879.616
+all,Hungary,2011,16917.517
+all,Hungary,2012,16003.531
+all,Hungary,2013,16255.431
+all,Hungary,2014,15775.708
+all,Hungary,2015,16829.628
+all,Hungary,2016,17306.308
+all,Hungary,2017,17874.513
+all,Hungary,2018,17849.381
+all,Hungary,2019,17969.639
+all,Hungary,2020,17601.52
+all,Ireland,2009,11230.707
+all,Ireland,2010,11186.951
+all,Ireland,2011,10358.691
+all,Ireland,2012,10173.625
+all,Ireland,2013,10246.872
+all,Ireland,2014,10189.516
+all,Ireland,2015,10512.54
+all,Ireland,2016,10921.093
+all,Ireland,2017,10871.506
+all,Ireland,2018,11335.707
+all,Ireland,2019,11317.019
+all,Ireland,2020,10840.191
+all,Iceland,2009,2563.602
+all,Iceland,2010,2517.495
+all,Iceland,2011,2521.164
+all,Iceland,2012,2600.49
+all,Iceland,2013,2706.726
+all,Iceland,2014,2739.703
+all,Iceland,2015,2848.624
+all,Iceland,2016,2801.368
+all,Iceland,2017,2848.956
+all,Iceland,2018,3078.878
+all,Iceland,2019,2934.494
+all,Iceland,2020,2869.721
+all,Italy,2009,121907.849
+all,Italy,2010,123052.729
+all,Italy,2011,117518.026
+all,Italy,2012,116559.044
+all,Italy,2013,114053.675
+all,Italy,2014,108848.35
+all,Italy,2015,112108.171
+all,Italy,2016,111554.603
+all,Italy,2017,113611.214
+all,Italy,2018,114296.937
+all,Italy,2019,113119.475
+all,Italy,2020,103057.147
+all,Lithuania,2009,4606.207
+all,Lithuania,2010,4757.259
+all,Lithuania,2011,4728.244
+all,Lithuania,2012,4838.968
+all,Lithuania,2013,4712.305
+all,Lithuania,2014,4800.537
+all,Lithuania,2015,4779.51
+all,Lithuania,2016,5003.215
+all,Lithuania,2017,5239.082
+all,Lithuania,2018,5466.581
+all,Lithuania,2019,5460.021
+all,Lithuania,2020,5284.212
+all,Luxembourg,2009,3659.24
+all,Luxembourg,2010,3895.179
+all,Luxembourg,2011,3889.18
+all,Luxembourg,2012,3799.238
+all,Luxembourg,2013,3753.096
+all,Luxembourg,2014,3596.583
+all,Luxembourg,2015,3534.545
+all,Luxembourg,2016,3533.332
+all,Luxembourg,2017,3607.616
+all,Luxembourg,2018,3736.716
+all,Luxembourg,2019,3790.355
+all,Luxembourg,2020,3265.475
+all,Latvia,2009,3937.475
+all,Latvia,2010,4002.237
+all,Latvia,2011,3751.161
+all,Latvia,2012,3908.282
+all,Latvia,2013,3732.245
+all,Latvia,2014,3776.066
+all,Latvia,2015,3680.167
+all,Latvia,2016,3697.443
+all,Latvia,2017,3875.195
+all,Latvia,2018,4024.765
+all,Latvia,2019,3924.687
+all,Latvia,2020,3798.185
+all,Moldova,2010,2268.192
+all,Moldova,2011,2336.77
+all,Moldova,2012,2267.918
+all,Moldova,2013,2294.391
+all,Moldova,2014,2295.133
+all,Moldova,2015,2357.098
+all,Moldova,2016,2457.919
+all,Moldova,2017,2589.822
+all,Moldova,2018,2702.596
+all,Moldova,2019,2581.574
+all,Moldova,2020,2532.223
+all,Montenegro,2009,724.27
+all,Montenegro,2010,714.626
+all,Montenegro,2011,719.28
+all,Montenegro,2012,698.97
+all,Montenegro,2013,640.991
+all,Montenegro,2014,628.575
+all,Montenegro,2015,662.644
+all,Montenegro,2016,688.761
+all,Montenegro,2017,728.889
+all,Montenegro,2018,729.633
+all,Montenegro,2019,760.625
+all,Montenegro,2020,696.84
+all,North Macedonia,2009,1672.72
+all,North Macedonia,2010,1789.926
+all,North Macedonia,2011,1903.21
+all,North Macedonia,2012,1845.693
+all,North Macedonia,2013,1814.802
+all,North Macedonia,2014,1797.481
+all,North Macedonia,2015,1837.589
+all,North Macedonia,2016,1847.733
+all,North Macedonia,2017,1858.961
+all,North Macedonia,2018,1832.761
+all,North Macedonia,2019,1937.818
+all,North Macedonia,2020,1823.925
+all,Malta,2009,362.496
+all,Malta,2010,401.35
+all,Malta,2011,388.461
+all,Malta,2012,407.257
+all,Malta,2013,421.114
+all,Malta,2014,435.716
+all,Malta,2015,462.343
+all,Malta,2016,458.759
+all,Malta,2017,492.38
+all,Malta,2018,513.265
+all,Malta,2019,544.459
+all,Malta,2020,499.875
+all,Netherlands,2009,47131.065
+all,Netherlands,2010,50750.459
+all,Netherlands,2011,46801.356
+all,Netherlands,2012,47021.79
+all,Netherlands,2013,47160.0
+all,Netherlands,2014,42691.806
+all,Netherlands,2015,43503.883
+all,Netherlands,2016,44493.404
+all,Netherlands,2017,44677.0
+all,Netherlands,2018,45146.411
+all,Netherlands,2019,44317.171
+all,Netherlands,2020,42261.788
+all,Norway,2009,18216.419
+all,Norway,2010,19463.421
+all,Norway,2011,18806.465
+all,Norway,2012,19029.278
+all,Norway,2013,19025.182
+all,Norway,2014,18613.149
+all,Norway,2015,18847.228
+all,Norway,2016,19171.661
+all,Norway,2017,19285.569
+all,Norway,2018,19413.347
+all,Norway,2019,19471.047
+all,Norway,2020,18928.581
+all,Poland,2009,60591.998
+all,Poland,2010,65257.858
+all,Poland,2011,63610.484
+all,Poland,2012,63257.875
+all,Poland,2013,62106.266
+all,Poland,2014,60203.402
+all,Poland,2015,60861.471
+all,Poland,2016,65136.436
+all,Poland,2017,69241.013
+all,Poland,2018,73082.617
+all,Poland,2019,71890.679
+all,Poland,2020,70250.647
+all,Portugal,2009,17418.414
+all,Portugal,2010,17269.567
+all,Portugal,2011,16441.254
+all,Portugal,2012,15111.588
+all,Portugal,2013,14908.318
+all,Portugal,2014,15386.388
+all,Portugal,2015,15550.875
+all,Portugal,2016,15640.739
+all,Portugal,2017,15900.697
+all,Portugal,2018,16154.479
+all,Portugal,2019,16356.34
+all,Portugal,2020,15215.17
+all,Romania,2009,21775.633
+all,Romania,2010,22038.77
+all,Romania,2011,22590.604
+all,Romania,2012,22629.168
+all,Romania,2013,21631.325
+all,Romania,2014,21470.367
+all,Romania,2015,21600.24
+all,Romania,2016,21935.25
+all,Romania,2017,22980.154
+all,Romania,2018,23444.791
+all,Romania,2019,23712.653
+all,Romania,2020,23472.38
+all,Serbia,2009,8253.448
+all,Serbia,2010,8762.533
+all,Serbia,2011,9082.112
+all,Serbia,2012,8412.293
+all,Serbia,2013,8201.681
+all,Serbia,2014,7681.612
+all,Serbia,2015,7885.885
+all,Serbia,2016,8206.431
+all,Serbia,2017,8363.238
+all,Serbia,2018,8435.035
+all,Serbia,2019,8361.004
+all,Serbia,2020,8658.338
+all,Sweden,2009,30257.495
+all,Sweden,2010,32470.569
+all,Sweden,2011,32064.667
+all,Sweden,2012,32311.573
+all,Sweden,2013,31671.579
+all,Sweden,2014,30928.825
+all,Sweden,2015,31510.948
+all,Sweden,2016,32037.681
+all,Sweden,2017,31849.848
+all,Sweden,2018,31729.198
+all,Sweden,2019,31304.823
+all,Sweden,2020,31454.317
+all,Slovenia,2009,4842.593
+all,Slovenia,2010,5047.44
+all,Slovenia,2011,5037.235
+all,Slovenia,2012,4909.818
+all,Slovenia,2013,4804.23
+all,Slovenia,2014,4608.016
+all,Slovenia,2015,4715.243
+all,Slovenia,2016,4893.658
+all,Slovenia,2017,4958.98
+all,Slovenia,2018,4952.728
+all,Slovenia,2019,4862.82
+all,Slovenia,2020,4428.839
+all,Slovakia,2009,9654.671
+all,Slovakia,2010,10371.086
+all,Slovakia,2011,9732.586
+all,Slovakia,2012,9198.465
+all,Slovakia,2013,9412.124
+all,Slovakia,2014,8740.489
+all,Slovakia,2015,8939.677
+all,Slovakia,2016,9225.739
+all,Slovakia,2017,9903.027
+all,Slovakia,2018,9911.515
+all,Slovakia,2019,10248.401
+all,Slovakia,2020,9610.916
+all,Turkey,2009,67500.576
+all,Turkey,2010,71036.168
+all,Turkey,2011,76076.088
+all,Turkey,2012,79158.418
+all,Turkey,2013,78466.784
+all,Turkey,2014,80844.293
+all,Turkey,2015,86846.978
+all,Turkey,2016,90318.129
+all,Turkey,2017,100475.004
+all,Turkey,2018,98632.997
+all,Turkey,2019,99100.143
+all,Turkey,2020,101143.008
+all,Ukraine,2009,63324.836
+all,Ukraine,2010,68387.54
+all,Ukraine,2011,69646.492
+all,Ukraine,2012,66404.075
+all,Ukraine,2013,65144.066
+all,Ukraine,2014,57893.824
+all,Ukraine,2015,47488.152
+all,Ukraine,2016,48826.188
+all,Ukraine,2017,47345.792
+all,Ukraine,2018,48417.734
+all,Ukraine,2019,46886.431
+all,Ukraine,2020,44184.237
+all,United Kingdom,2009,124351.97
+all,United Kingdom,2010,130080.082
+all,United Kingdom,2011,118840.372
+all,United Kingdom,2012,122658.595
+all,United Kingdom,2013,123395.413
+all,United Kingdom,2014,116594.037
+all,United Kingdom,2015,120063.341
+all,United Kingdom,2016,121886.092
+all,United Kingdom,2017,120950.747
+all,United Kingdom,2018,122583.69
+all,United Kingdom,2019,121414.483
+all,Kosovo (under United Nations Security Council Resolution 1244/99),2009,1168.988
+all,Kosovo (under United Nations Security Council Resolution 1244/99),2010,1190.842
+all,Kosovo (under United Nations Security Council Resolution 1244/99),2011,1266.098
+all,Kosovo (under United Nations Security Council Resolution 1244/99),2012,1219.372
+all,Kosovo (under United Nations Security Council Resolution 1244/99),2013,1167.578
+all,Kosovo (under United Nations Security Council Resolution 1244/99),2014,1230.7
+all,Kosovo (under United Nations Security Council Resolution 1244/99),2015,1339.928
+all,Kosovo (under United Nations Security Council Resolution 1244/99),2016,1433.037
+all,Kosovo (under United Nations Security Council Resolution 1244/99),2017,1516.064
+all,Kosovo (under United Nations Security Council Resolution 1244/99),2018,1471.026
+all,Kosovo (under United Nations Security Council Resolution 1244/99),2019,1515.131
+all,Kosovo (under United Nations Security Council Resolution 1244/99),2020,1524.673
+commercial,Albania,2009,173.753
+commercial,Albania,2010,159.469
+commercial,Albania,2011,163.473
+commercial,Albania,2012,157.272
+commercial,Albania,2013,190.984
+commercial,Albania,2014,179.239
+commercial,Albania,2015,196.853
+commercial,Albania,2016,179.284
+commercial,Albania,2017,213.604
+commercial,Albania,2018,215.22
+commercial,Albania,2019,228.317
+commercial,Albania,2020,197.622
+commercial,Austria,2009,2640.337
+commercial,Austria,2010,2625.836
+commercial,Austria,2011,2555.31
+commercial,Austria,2012,2553.249
+commercial,Austria,2013,2539.345
+commercial,Austria,2014,2423.632
+commercial,Austria,2015,2478.658
+commercial,Austria,2016,2434.731
+commercial,Austria,2017,2638.323
+commercial,Austria,2018,2579.065
+commercial,Austria,2019,2647.699
+commercial,Austria,2020,2569.835
+commercial,Bosnia and Herzegovina,2014,163.649
+commercial,Bosnia and Herzegovina,2015,357.703
+commercial,Bosnia and Herzegovina,2016,435.411
+commercial,Bosnia and Herzegovina,2017,355.631
+commercial,Bosnia and Herzegovina,2018,348.522
+commercial,Bosnia and Herzegovina,2019,407.073
+commercial,Bosnia and Herzegovina,2020,377.639
+commercial,Belgium,2009,4714.43
+commercial,Belgium,2010,4997.81
+commercial,Belgium,2011,4411.897
+commercial,Belgium,2012,4624.719
+commercial,Belgium,2013,4913.778
+commercial,Belgium,2014,4246.35
+commercial,Belgium,2015,4618.939
+commercial,Belgium,2016,4644.835
+commercial,Belgium,2017,4645.029
+commercial,Belgium,2018,4660.908
+commercial,Belgium,2019,4607.335
+commercial,Belgium,2020,4469.982
+commercial,Bulgaria,2009,970.058
+commercial,Bulgaria,2010,1026.678
+commercial,Bulgaria,2011,1089.74
+commercial,Bulgaria,2012,1069.698
+commercial,Bulgaria,2013,1029.822
+commercial,Bulgaria,2014,992.002
+commercial,Bulgaria,2015,1078.658
+commercial,Bulgaria,2016,1157.041
+commercial,Bulgaria,2017,1167.156
+commercial,Bulgaria,2018,1231.216
+commercial,Bulgaria,2019,1267.911
+commercial,Bulgaria,2020,1079.928
+commercial,Cyprus,2009,235.766
+commercial,Cyprus,2010,248.249
+commercial,Cyprus,2011,236.358
+commercial,Cyprus,2012,222.642
+commercial,Cyprus,2013,203.12
+commercial,Cyprus,2014,200.484
+commercial,Cyprus,2015,206.645
+commercial,Cyprus,2016,221.247
+commercial,Cyprus,2017,229.032
+commercial,Cyprus,2018,270.142
+commercial,Cyprus,2019,281.464
+commercial,Cyprus,2020,239.903
+commercial,Czechia,2009,2977.074
+commercial,Czechia,2010,3249.062
+commercial,Czechia,2011,3132.559
+commercial,Czechia,2012,3039.527
+commercial,Czechia,2013,3010.066
+commercial,Czechia,2014,2922.578
+commercial,Czechia,2015,2977.367
+commercial,Czechia,2016,3091.444
+commercial,Czechia,2017,3180.772
+commercial,Czechia,2018,3127.767
+commercial,Czechia,2019,3191.895
+commercial,Czechia,2020,2987.047
+commercial,Germany (until 1990 former territory of the FRG),2009,33666.036
+commercial,Germany (until 1990 former territory of the FRG),2010,34806.768
+commercial,Germany (until 1990 former territory of the FRG),2011,30735.597
+commercial,Germany (until 1990 former territory of the FRG),2012,32027.815
+commercial,Germany (until 1990 former territory of the FRG),2013,33549.528
+commercial,Germany (until 1990 former territory of the FRG),2014,30766.034
+commercial,Germany (until 1990 former territory of the FRG),2015,32289.872
+commercial,Germany (until 1990 former territory of the FRG),2016,31865.517
+commercial,Germany (until 1990 former territory of the FRG),2017,31837.801
+commercial,Germany (until 1990 former territory of the FRG),2018,28892.812
+commercial,Germany (until 1990 former territory of the FRG),2019,27533.764
+commercial,Germany (until 1990 former territory of the FRG),2020,26772.162
+commercial,Denmark,2009,1995.649
+commercial,Denmark,2010,2128.258
+commercial,Denmark,2011,1947.914
+commercial,Denmark,2012,1978.549
+commercial,Denmark,2013,1964.487
+commercial,Denmark,2014,1847.338
+commercial,Denmark,2015,1896.04
+commercial,Denmark,2016,1946.897
+commercial,Denmark,2017,1991.014
+commercial,Denmark,2018,1982.804
+commercial,Denmark,2019,1917.076
+commercial,Denmark,2020,1822.347
+commercial,Estonia,2009,418.577
+commercial,Estonia,2010,424.239
+commercial,Estonia,2011,402.178
+commercial,Estonia,2012,423.52
+commercial,Estonia,2013,417.892
+commercial,Estonia,2014,457.642
+commercial,Estonia,2015,465.395
+commercial,Estonia,2016,498.236
+commercial,Estonia,2017,466.591
+commercial,Estonia,2018,490.269
+commercial,Estonia,2019,467.033
+commercial,Estonia,2020,471.449
+commercial,Greece,2009,2153.685
+commercial,Greece,2010,1957.407
+commercial,Greece,2011,1870.116
+commercial,Greece,2012,1940.591
+commercial,Greece,2013,1820.639
+commercial,Greece,2014,1714.028
+commercial,Greece,2015,1874.935
+commercial,Greece,2016,2037.527
+commercial,Greece,2017,2191.693
+commercial,Greece,2018,2093.373
+commercial,Greece,2019,2135.469
+commercial,Greece,2020,1903.485
+commercial,Spain,2009,9406.256
+commercial,Spain,2010,9786.481
+commercial,Spain,2011,10227.954
+commercial,Spain,2012,10111.196
+commercial,Spain,2013,9675.292
+commercial,Spain,2014,8942.106
+commercial,Spain,2015,9520.57
+commercial,Spain,2016,9841.23
+commercial,Spain,2017,10145.214
+commercial,Spain,2018,10263.442
+commercial,Spain,2019,10310.564
+commercial,Spain,2020,9451.495
+commercial,Finland,2009,2889.53
+commercial,Finland,2010,3099.854
+commercial,Finland,2011,2865.958
+commercial,Finland,2012,3029.687
+commercial,Finland,2013,2907.402
+commercial,Finland,2014,2890.269
+commercial,Finland,2015,2736.874
+commercial,Finland,2016,2889.923
+commercial,Finland,2017,2959.749
+commercial,Finland,2018,3078.007
+commercial,Finland,2019,3014.998
+commercial,Finland,2020,2809.781
+commercial,France,2009,22890.078
+commercial,France,2010,24102.912
+commercial,France,2011,21058.756
+commercial,France,2012,22624.593
+commercial,France,2013,23397.994
+commercial,France,2014,21471.33
+commercial,France,2015,22283.207
+commercial,France,2016,22407.076
+commercial,France,2017,22756.985
+commercial,France,2018,22337.875
+commercial,France,2019,21910.343
+commercial,France,2020,20340.877
+commercial,Georgia,2013,351.85
+commercial,Georgia,2014,433.077
+commercial,Georgia,2015,402.614
+commercial,Georgia,2016,433.638
+commercial,Georgia,2017,452.855
+commercial,Georgia,2018,514.751
+commercial,Georgia,2019,535.532
+commercial,Georgia,2020,412.919
+commercial,Croatia,2009,756.212
+commercial,Croatia,2010,797.192
+commercial,Croatia,2011,786.281
+commercial,Croatia,2012,757.876
+commercial,Croatia,2013,740.703
+commercial,Croatia,2014,693.23
+commercial,Croatia,2015,763.126
+commercial,Croatia,2016,780.375
+commercial,Croatia,2017,817.544
+commercial,Croatia,2018,832.507
+commercial,Croatia,2019,835.405
+commercial,Croatia,2020,757.378
+commercial,Hungary,2009,2903.651
+commercial,Hungary,2010,3048.64
+commercial,Hungary,2011,3053.612
+commercial,Hungary,2012,2353.881
+commercial,Hungary,2013,2337.107
+commercial,Hungary,2014,2114.78
+commercial,Hungary,2015,2203.657
+commercial,Hungary,2016,2190.526
+commercial,Hungary,2017,2154.189
+commercial,Hungary,2018,2098.672
+commercial,Hungary,2019,2050.439
+commercial,Hungary,2020,1999.977
+commercial,Ireland,2009,1490.985
+commercial,Ireland,2010,1556.977
+commercial,Ireland,2011,1507.728
+commercial,Ireland,2012,1561.866
+commercial,Ireland,2013,1593.925
+commercial,Ireland,2014,1504.19
+commercial,Ireland,2015,1608.311
+commercial,Ireland,2016,1646.226
+commercial,Ireland,2017,1643.18
+commercial,Ireland,2018,1764.848
+commercial,Ireland,2019,1818.492
+commercial,Ireland,2020,1829.12
+commercial,Iceland,2009,303.427
+commercial,Iceland,2010,302.565
+commercial,Iceland,2011,301.744
+commercial,Iceland,2012,324.883
+commercial,Iceland,2013,333.381
+commercial,Iceland,2014,363.777
+commercial,Iceland,2015,396.585
+commercial,Iceland,2016,422.665
+commercial,Iceland,2017,399.349
+commercial,Iceland,2018,511.896
+commercial,Iceland,2019,529.921
+commercial,Iceland,2020,490.332
+commercial,Italy,2009,16919.464
+commercial,Italy,2010,16978.719
+commercial,Italy,2011,15751.376
+commercial,Italy,2012,15930.534
+commercial,Italy,2013,15846.527
+commercial,Italy,2014,14666.679
+commercial,Italy,2015,15391.466
+commercial,Italy,2016,15439.966
+commercial,Italy,2017,18242.166
+commercial,Italy,2018,19002.194
+commercial,Italy,2019,18192.3
+commercial,Italy,2020,16557.57
+commercial,Lithuania,2009,590.787
+commercial,Lithuania,2010,600.7
+commercial,Lithuania,2011,583.961
+commercial,Lithuania,2012,610.064
+commercial,Lithuania,2013,593.023
+commercial,Lithuania,2014,585.668
+commercial,Lithuania,2015,574.923
+commercial,Lithuania,2016,602.552
+commercial,Lithuania,2017,633.867
+commercial,Lithuania,2018,651.177
+commercial,Lithuania,2019,626.707
+commercial,Lithuania,2020,576.205
+commercial,Luxembourg,2009,375.89
+commercial,Luxembourg,2010,424.139
+commercial,Luxembourg,2011,339.836
+commercial,Luxembourg,2012,383.672
+commercial,Luxembourg,2013,399.689
+commercial,Luxembourg,2014,353.432
+commercial,Luxembourg,2015,396.759
+commercial,Luxembourg,2016,399.966
+commercial,Luxembourg,2017,449.066
+commercial,Luxembourg,2018,460.683
+commercial,Luxembourg,2019,519.37
+commercial,Luxembourg,2020,493.027
+commercial,Latvia,2009,572.964
+commercial,Latvia,2010,597.801
+commercial,Latvia,2011,556.709
+commercial,Latvia,2012,623.331
+commercial,Latvia,2013,600.446
+commercial,Latvia,2014,608.772
+commercial,Latvia,2015,586.308
+commercial,Latvia,2016,592.494
+commercial,Latvia,2017,607.014
+commercial,Latvia,2018,592.045
+commercial,Latvia,2019,568.824
+commercial,Latvia,2020,550.364
+commercial,Moldova,2010,272.53
+commercial,Moldova,2011,270.67
+commercial,Moldova,2012,269.477
+commercial,Moldova,2013,258.252
+commercial,Moldova,2014,237.402
+commercial,Moldova,2015,246.475
+commercial,Moldova,2016,258.611
+commercial,Moldova,2017,256.417
+commercial,Moldova,2018,273.302
+commercial,Moldova,2019,263.068
+commercial,Moldova,2020,245.099
+commercial,Montenegro,2009,3.96
+commercial,Montenegro,2010,4.627
+commercial,Montenegro,2011,8.46
+commercial,Montenegro,2012,8.622
+commercial,Montenegro,2013,13.741
+commercial,Montenegro,2014,68.962
+commercial,Montenegro,2015,70.372
+commercial,Montenegro,2016,79.372
+commercial,Montenegro,2017,86.454
+commercial,Montenegro,2018,87.81
+commercial,Montenegro,2019,108.855
+commercial,Montenegro,2020,89.757
+commercial,North Macedonia,2009,241.709
+commercial,North Macedonia,2010,233.908
+commercial,North Macedonia,2011,206.178
+commercial,North Macedonia,2012,228.654
+commercial,North Macedonia,2013,201.851
+commercial,North Macedonia,2014,196.034
+commercial,North Macedonia,2015,211.872
+commercial,North Macedonia,2016,212.935
+commercial,North Macedonia,2017,214.63
+commercial,North Macedonia,2018,210.231
+commercial,North Macedonia,2019,211.521
+commercial,North Macedonia,2020,179.717
+commercial,Malta,2009,70.632
+commercial,Malta,2010,92.08
+commercial,Malta,2011,88.007
+commercial,Malta,2012,100.415
+commercial,Malta,2013,103.516
+commercial,Malta,2014,110.711
+commercial,Malta,2015,120.944
+commercial,Malta,2016,118.292
+commercial,Malta,2017,128.355
+commercial,Malta,2018,121.063
+commercial,Malta,2019,127.555
+commercial,Malta,2020,122.699
+commercial,Netherlands,2009,7327.89
+commercial,Netherlands,2010,7846.854
+commercial,Netherlands,2011,6989.448
+commercial,Netherlands,2012,7238.688
+commercial,Netherlands,2013,7267.758
+commercial,Netherlands,2014,6412.357
+commercial,Netherlands,2015,6738.251
+commercial,Netherlands,2016,6780.95
+commercial,Netherlands,2017,6931.533
+commercial,Netherlands,2018,6915.516
+commercial,Netherlands,2019,6771.311
+commercial,Netherlands,2020,6466.402
+commercial,Norway,2009,2929.05
+commercial,Norway,2010,3011.718
+commercial,Norway,2011,2853.364
+commercial,Norway,2012,2962.313
+commercial,Norway,2013,3027.639
+commercial,Norway,2014,2888.943
+commercial,Norway,2015,2929.994
+commercial,Norway,2016,3148.264
+commercial,Norway,2017,3088.712
+commercial,Norway,2018,3160.184
+commercial,Norway,2019,3191.335
+commercial,Norway,2020,3018.328
+commercial,Poland,2009,8040.534
+commercial,Poland,2010,8836.691
+commercial,Poland,2011,8429.508
+commercial,Poland,2012,8363.91
+commercial,Poland,2013,8078.737
+commercial,Poland,2014,7788.281
+commercial,Poland,2015,7842.255
+commercial,Poland,2016,8502.84
+commercial,Poland,2017,8044.436
+commercial,Poland,2018,7928.522
+commercial,Poland,2019,7808.027
+commercial,Poland,2020,7580.285
+commercial,Portugal,2009,2043.248
+commercial,Portugal,2010,1884.21
+commercial,Portugal,2011,1856.353
+commercial,Portugal,2012,1843.417
+commercial,Portugal,2013,1786.725
+commercial,Portugal,2014,2284.617
+commercial,Portugal,2015,2356.381
+commercial,Portugal,2016,2289.624
+commercial,Portugal,2017,2301.406
+commercial,Portugal,2018,2380.697
+commercial,Portugal,2019,2359.341
+commercial,Portugal,2020,2159.498
+commercial,Romania,2009,1760.388
+commercial,Romania,2010,1880.538
+commercial,Romania,2011,1774.282
+commercial,Romania,2012,1763.099
+commercial,Romania,2013,1784.9
+commercial,Romania,2014,1768.388
+commercial,Romania,2015,1761.969
+commercial,Romania,2016,1806.394
+commercial,Romania,2017,1858.427
+commercial,Romania,2018,1976.15
+commercial,Romania,2019,1962.137
+commercial,Romania,2020,1834.29
+commercial,Serbia,2009,843.444
+commercial,Serbia,2010,905.62
+commercial,Serbia,2011,1046.67
+commercial,Serbia,2012,834.956
+commercial,Serbia,2013,803.644
+commercial,Serbia,2014,772.34
+commercial,Serbia,2015,874.645
+commercial,Serbia,2016,886.391
+commercial,Serbia,2017,939.812
+commercial,Serbia,2018,891.441
+commercial,Serbia,2019,863.53
+commercial,Serbia,2020,856.617
+commercial,Sweden,2009,4036.871
+commercial,Sweden,2010,4333.817
+commercial,Sweden,2011,3864.91
+commercial,Sweden,2012,4046.355
+commercial,Sweden,2013,3958.982
+commercial,Sweden,2014,3960.473
+commercial,Sweden,2015,4022.234
+commercial,Sweden,2016,4216.875
+commercial,Sweden,2017,3991.218
+commercial,Sweden,2018,4120.828
+commercial,Sweden,2019,4024.796
+commercial,Sweden,2020,4007.556
+commercial,Slovenia,2009,490.996
+commercial,Slovenia,2010,532.638
+commercial,Slovenia,2011,531.47
+commercial,Slovenia,2012,453.358
+commercial,Slovenia,2013,467.775
+commercial,Slovenia,2014,427.211
+commercial,Slovenia,2015,454.503
+commercial,Slovenia,2016,492.427
+commercial,Slovenia,2017,480.68
+commercial,Slovenia,2018,474.453
+commercial,Slovenia,2019,451.994
+commercial,Slovenia,2020,415.346
+commercial,Slovakia,2009,1944.416
+commercial,Slovakia,2010,2105.4
+commercial,Slovakia,2011,1601.718
+commercial,Slovakia,2012,1451.245
+commercial,Slovakia,2013,1710.558
+commercial,Slovakia,2014,1233.318
+commercial,Slovakia,2015,1299.549
+commercial,Slovakia,2016,1308.325
+commercial,Slovakia,2017,1426.737
+commercial,Slovakia,2018,1314.726
+commercial,Slovakia,2019,1222.219
+commercial,Slovakia,2020,1108.483
+commercial,Turkey,2009,9790.714
+commercial,Turkey,2010,9493.149
+commercial,Turkey,2011,9903.139
+commercial,Turkey,2012,11005.128
+commercial,Turkey,2013,10611.925
+commercial,Turkey,2014,11021.419
+commercial,Turkey,2015,12194.776
+commercial,Turkey,2016,12415.869
+commercial,Turkey,2017,13567.21
+commercial,Turkey,2018,12545.67
+commercial,Turkey,2019,13968.181
+commercial,Turkey,2020,13883.565
+commercial,Ukraine,2009,4181.519
+commercial,Ukraine,2010,4652.342
+commercial,Ukraine,2011,5129.446
+commercial,Ukraine,2012,5006.804
+commercial,Ukraine,2013,5767.651
+commercial,Ukraine,2014,4664.962
+commercial,Ukraine,2015,3888.355
+commercial,Ukraine,2016,4671.814
+commercial,Ukraine,2017,4336.853
+commercial,Ukraine,2018,4720.627
+commercial,Ukraine,2019,4832.831
+commercial,Ukraine,2020,4869.916
+commercial,United Kingdom,2009,15763.782
+commercial,United Kingdom,2010,16526.94
+commercial,United Kingdom,2011,15239.696
+commercial,United Kingdom,2012,16232.096
+commercial,United Kingdom,2013,16585.582
+commercial,United Kingdom,2014,15523.581
+commercial,United Kingdom,2015,16841.958
+commercial,United Kingdom,2016,18092.42
+commercial,United Kingdom,2017,17938.94
+commercial,United Kingdom,2018,18222.399
+commercial,United Kingdom,2019,18084.583
+commercial,Kosovo (under United Nations Security Council Resolution 1244/99),2009,111.91
+commercial,Kosovo (under United Nations Security Council Resolution 1244/99),2010,112.324
+commercial,Kosovo (under United Nations Security Council Resolution 1244/99),2011,117.913
+commercial,Kosovo (under United Nations Security Council Resolution 1244/99),2012,117.736
+commercial,Kosovo (under United Nations Security Council Resolution 1244/99),2013,115.457
+commercial,Kosovo (under United Nations Security Council Resolution 1244/99),2014,139.135
+commercial,Kosovo (under United Nations Security Council Resolution 1244/99),2015,148.344
+commercial,Kosovo (under United Nations Security Council Resolution 1244/99),2016,177.055
+commercial,Kosovo (under United Nations Security Council Resolution 1244/99),2017,191.548
+commercial,Kosovo (under United Nations Security Council Resolution 1244/99),2018,154.605
+commercial,Kosovo (under United Nations Security Council Resolution 1244/99),2019,163.882
+commercial,Kosovo (under United Nations Security Council Resolution 1244/99),2020,158.241
