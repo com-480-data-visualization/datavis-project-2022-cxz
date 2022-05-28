@@ -102,6 +102,7 @@ Promise.all([energy,map]).then(function(values){
     .data(countrys.features.filter(d => pathGenerator.area(d)>2000))
     .join("text")
       .attr("transform", d => `translate(${pathGenerator.centroid(d)})`)
+	  .attr('pointer-events',"none")
       .attr("dx", "0em")
       .attr("dy", "0em")
       .attr("text-anchor", "middle")
