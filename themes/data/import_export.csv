@@ -1,0 +1,4411 @@
+year,source,target,value
+2011,electricity_imports,Belgium,13189.0
+2012,electricity_imports,Belgium,16848.0
+2013,electricity_imports,Belgium,17243.0
+2014,electricity_imports,Belgium,21791.0
+2015,electricity_imports,Belgium,23714.0
+2016,electricity_imports,Belgium,14648.0
+2017,electricity_imports,Belgium,14189.4
+2018,electricity_imports,Belgium,21635.9
+2019,electricity_imports,Belgium,12734.4
+2020,electricity_imports,Belgium,13721.9
+total,electricity_imports,Belgium,169714.6
+2011,electricity_imports,Bulgaria,1449.0
+2012,electricity_imports,Bulgaria,2353.0
+2013,electricity_imports,Bulgaria,3351.0
+2014,electricity_imports,Bulgaria,4319.0
+2015,electricity_imports,Bulgaria,4251.0
+2016,electricity_imports,Bulgaria,4568.0
+2017,electricity_imports,Bulgaria,3705.423
+2018,electricity_imports,Bulgaria,2222.726
+2019,electricity_imports,Bulgaria,3044.947
+2020,electricity_imports,Bulgaria,3706.736
+total,electricity_imports,Bulgaria,32970.832
+2011,electricity_imports,Czechia,10457.0
+2012,electricity_imports,Czechia,11587.0
+2013,electricity_imports,Czechia,10571.0
+2014,electricity_imports,Czechia,11842.0
+2015,electricity_imports,Czechia,16146.0
+2016,electricity_imports,Czechia,13817.0
+2017,electricity_imports,Czechia,15071.999
+2018,electricity_imports,Czechia,11573.41
+2019,electricity_imports,Czechia,11026.213
+2020,electricity_imports,Czechia,13368.051
+total,electricity_imports,Czechia,125459.673
+2011,electricity_imports,Denmark,11694.0
+2012,electricity_imports,Denmark,15920.0
+2013,electricity_imports,Denmark,11459.0
+2014,electricity_imports,Denmark,12702.0
+2015,electricity_imports,Denmark,15644.747
+2016,electricity_imports,Denmark,14976.458
+2017,electricity_imports,Denmark,15218.109
+2018,electricity_imports,Denmark,15633.609
+2019,electricity_imports,Denmark,15981.899
+2020,electricity_imports,Denmark,18593.972
+total,electricity_imports,Denmark,147823.794
+2011,electricity_imports,Germany (until 1990 former territory of the FRG),51003.0
+2012,electricity_imports,Germany (until 1990 former territory of the FRG),46268.0
+2013,electricity_imports,Germany (until 1990 former territory of the FRG),39222.0
+2014,electricity_imports,Germany (until 1990 former territory of the FRG),40435.0
+2015,electricity_imports,Germany (until 1990 former territory of the FRG),37008.0
+2016,electricity_imports,Germany (until 1990 former territory of the FRG),28338.0
+2017,electricity_imports,Germany (until 1990 former territory of the FRG),27842.0
+2018,electricity_imports,Germany (until 1990 former territory of the FRG),31727.0
+2019,electricity_imports,Germany (until 1990 former territory of the FRG),40126.0
+2020,electricity_imports,Germany (until 1990 former territory of the FRG),47853.0
+total,electricity_imports,Germany (until 1990 former territory of the FRG),389822.0
+2011,electricity_imports,Estonia,1690.0
+2012,electricity_imports,Estonia,2710.0
+2013,electricity_imports,Estonia,2712.0
+2014,electricity_imports,Estonia,3730.0
+2015,electricity_imports,Estonia,5452.0
+2016,electricity_imports,Estonia,3577.0
+2017,electricity_imports,Estonia,2281.0
+2018,electricity_imports,Estonia,3053.0
+2019,electricity_imports,Estonia,4861.0
+2020,electricity_imports,Estonia,7367.0
+total,electricity_imports,Estonia,37433.0
+2011,electricity_imports,Ireland,731.622
+2012,electricity_imports,Ireland,783.605
+2013,electricity_imports,Ireland,2625.164
+2014,electricity_imports,Ireland,2853.015
+2015,electricity_imports,Ireland,1751.975
+2016,electricity_imports,Ireland,871.263
+2017,electricity_imports,Ireland,1116.408
+2018,electricity_imports,Ireland,1621.519
+2019,electricity_imports,Ireland,2179.579
+2020,electricity_imports,Ireland,1761.112
+total,electricity_imports,Ireland,16295.262
+2011,electricity_imports,Greece,7180.0
+2012,electricity_imports,Greece,5954.0
+2013,electricity_imports,Greece,5788.0
+2014,electricity_imports,Greece,9461.0
+2015,electricity_imports,Greece,11081.0
+2016,electricity_imports,Greece,9833.0
+2017,electricity_imports,Greece,8696.0
+2018,electricity_imports,Greece,8550.0
+2019,electricity_imports,Greece,11067.0
+2020,electricity_imports,Greece,9831.0
+total,electricity_imports,Greece,87441.0
+2011,electricity_imports,Spain,7932.0
+2012,electricity_imports,Spain,7787.0
+2013,electricity_imports,Spain,9887.0
+2014,electricity_imports,Spain,12310.0
+2015,electricity_imports,Spain,14956.0
+2016,electricity_imports,Spain,21845.0
+2017,electricity_imports,Spain,23762.0
+2018,electricity_imports,Spain,24018.0
+2019,electricity_imports,Spain,18720.84
+2020,electricity_imports,Spain,17928.364
+total,electricity_imports,Spain,159146.204
+2011,electricity_imports,France,9501.0
+2012,electricity_imports,France,12213.0
+2013,electricity_imports,France,11687.0
+2014,electricity_imports,France,7873.0
+2015,electricity_imports,France,9961.0
+2016,electricity_imports,France,19903.0
+2017,electricity_imports,France,21119.18
+2018,electricity_imports,France,13512.09
+2019,electricity_imports,France,15631.75
+2020,electricity_imports,France,19536.102
+total,electricity_imports,France,140937.122
+2011,electricity_imports,Croatia,13985.0
+2012,electricity_imports,Croatia,13174.0
+2013,electricity_imports,Croatia,11260.0
+2014,electricity_imports,Croatia,10898.0
+2015,electricity_imports,Croatia,13158.0
+2016,electricity_imports,Croatia,12398.0
+2017,electricity_imports,Croatia,12157.9
+2018,electricity_imports,Croatia,12693.4
+2019,electricity_imports,Croatia,11400.8
+2020,electricity_imports,Croatia,10491.0
+total,electricity_imports,Croatia,121616.1
+2011,electricity_imports,Italy,47519.0
+2012,electricity_imports,Italy,45407.0
+2013,electricity_imports,Italy,44338.0
+2014,electricity_imports,Italy,46747.0
+2015,electricity_imports,Italy,50849.0
+2016,electricity_imports,Italy,43181.0
+2017,electricity_imports,Italy,42894.881
+2018,electricity_imports,Italy,47170.204
+2019,electricity_imports,Italy,43974.94
+2020,electricity_imports,Italy,39789.94
+total,electricity_imports,Italy,451870.965
+2011,electricity_imports,Cyprus,0.0
+2012,electricity_imports,Cyprus,0.0
+2013,electricity_imports,Cyprus,0.0
+2014,electricity_imports,Cyprus,0.0
+2015,electricity_imports,Cyprus,0.0
+2016,electricity_imports,Cyprus,0.0
+2017,electricity_imports,Cyprus,0.0
+2018,electricity_imports,Cyprus,0.0
+2019,electricity_imports,Cyprus,0.0
+2020,electricity_imports,Cyprus,0.0
+total,electricity_imports,Cyprus,0.0
+2011,electricity_imports,Latvia,4009.0
+2012,electricity_imports,Latvia,4935.0
+2013,electricity_imports,Latvia,5005.0
+2014,electricity_imports,Latvia,5340.0
+2015,electricity_imports,Latvia,5246.0
+2016,electricity_imports,Latvia,4828.0
+2017,electricity_imports,Latvia,4072.912
+2018,electricity_imports,Latvia,5173.682
+2019,electricity_imports,Latvia,4610.761
+2020,electricity_imports,Latvia,4173.365
+total,electricity_imports,Latvia,47393.72
+2011,electricity_imports,Lithuania,8086.0
+2012,electricity_imports,Lithuania,8060.0
+2013,electricity_imports,Lithuania,8073.0
+2014,electricity_imports,Lithuania,8521.0
+2015,electricity_imports,Lithuania,7938.0
+2016,electricity_imports,Lithuania,11106.0
+2017,electricity_imports,Lithuania,11926.2
+2018,electricity_imports,Lithuania,12847.5
+2019,electricity_imports,Lithuania,13267.9
+2020,electricity_imports,Lithuania,12013.4
+total,electricity_imports,Lithuania,101839.0
+2011,electricity_imports,Luxembourg,7096.34
+2012,electricity_imports,Luxembourg,6732.098
+2013,electricity_imports,Luxembourg,6851.524
+2014,electricity_imports,Luxembourg,6961.176
+2015,electricity_imports,Luxembourg,7518.755
+2016,electricity_imports,Luxembourg,7718.393
+2017,electricity_imports,Luxembourg,7566.69
+2018,electricity_imports,Luxembourg,7553.012
+2019,electricity_imports,Luxembourg,6817.52
+2020,electricity_imports,Luxembourg,6543.493
+total,electricity_imports,Luxembourg,71359.001
+2011,electricity_imports,Hungary,14664.0
+2012,electricity_imports,Hungary,16970.0
+2013,electricity_imports,Hungary,16635.0
+2014,electricity_imports,Hungary,19079.0
+2015,electricity_imports,Hungary,19935.0
+2016,electricity_imports,Hungary,17951.0
+2017,electricity_imports,Hungary,19803.0
+2018,electricity_imports,Hungary,18613.0
+2019,electricity_imports,Hungary,19853.0
+2020,electricity_imports,Hungary,19176.0
+total,electricity_imports,Hungary,182679.0
+2011,electricity_imports,Malta,0.0
+2012,electricity_imports,Malta,0.0
+2013,electricity_imports,Malta,0.0
+2014,electricity_imports,Malta,0.0
+2015,electricity_imports,Malta,1054.0
+2016,electricity_imports,Malta,1526.688
+2017,electricity_imports,Malta,897.066
+2018,electricity_imports,Malta,631.293
+2019,electricity_imports,Malta,656.756
+2020,electricity_imports,Malta,419.81
+total,electricity_imports,Malta,5185.613
+2011,electricity_imports,Netherlands,20620.0
+2012,electricity_imports,Netherlands,32156.0
+2013,electricity_imports,Netherlands,33252.0
+2014,electricity_imports,Netherlands,32855.0
+2015,electricity_imports,Netherlands,30760.009
+2016,electricity_imports,Netherlands,24257.626
+2017,electricity_imports,Netherlands,22457.715
+2018,electricity_imports,Netherlands,26754.59
+2019,electricity_imports,Netherlands,20402.855
+2020,electricity_imports,Netherlands,19773.283
+total,electricity_imports,Netherlands,263289.078
+2011,electricity_imports,Austria,24976.711
+2012,electricity_imports,Austria,23429.715
+2013,electricity_imports,Austria,24959.57
+2014,electricity_imports,Austria,26711.723
+2015,electricity_imports,Austria,29389.163
+2016,electricity_imports,Austria,26366.16
+2017,electricity_imports,Austria,29362.427
+2018,electricity_imports,Austria,28076.136
+2019,electricity_imports,Austria,26046.847
+2020,electricity_imports,Austria,24522.492
+total,electricity_imports,Austria,263840.944
+2011,electricity_imports,Poland,6780.0
+2012,electricity_imports,Poland,9803.0
+2013,electricity_imports,Poland,7801.0
+2014,electricity_imports,Poland,13508.0
+2015,electricity_imports,Poland,14459.0
+2016,electricity_imports,Poland,14017.0
+2017,electricity_imports,Poland,13271.0
+2018,electricity_imports,Poland,13815.804
+2019,electricity_imports,Poland,17868.327
+2020,electricity_imports,Poland,20624.119
+total,electricity_imports,Poland,131947.25
+2011,electricity_imports,Portugal,6742.0
+2012,electricity_imports,Portugal,10766.0
+2013,electricity_imports,Portugal,8100.0
+2014,electricity_imports,Portugal,7247.0
+2015,electricity_imports,Portugal,8077.0
+2016,electricity_imports,Portugal,4616.0
+2017,electricity_imports,Portugal,5505.732
+2018,electricity_imports,Portugal,5667.568
+2019,electricity_imports,Portugal,8099.208
+2020,electricity_imports,Portugal,7553.113
+total,electricity_imports,Portugal,72373.621
+2011,electricity_imports,Romania,3410.0
+2012,electricity_imports,Romania,3903.0
+2013,electricity_imports,Romania,2737.0
+2014,electricity_imports,Romania,2811.0
+2015,electricity_imports,Romania,4492.0
+2016,electricity_imports,Romania,4177.0
+2017,electricity_imports,Romania,4841.754
+2018,electricity_imports,Romania,3696.594
+2019,electricity_imports,Romania,5492.633
+2020,electricity_imports,Romania,8251.648
+total,electricity_imports,Romania,43812.629
+2011,electricity_imports,Slovenia,7036.0
+2012,electricity_imports,Slovenia,7452.0
+2013,electricity_imports,Slovenia,7521.0
+2014,electricity_imports,Slovenia,7254.0
+2015,electricity_imports,Slovenia,9045.0
+2016,electricity_imports,Slovenia,8359.0
+2017,electricity_imports,Slovenia,9132.532
+2018,electricity_imports,Slovenia,8930.239
+2019,electricity_imports,Slovenia,9021.273
+2020,electricity_imports,Slovenia,7119.95
+total,electricity_imports,Slovenia,80870.994
+2011,electricity_imports,Slovakia,11227.0
+2012,electricity_imports,Slovakia,13472.0
+2013,electricity_imports,Slovakia,10719.0
+2014,electricity_imports,Slovakia,12964.0
+2015,electricity_imports,Slovakia,14999.0
+2016,electricity_imports,Slovakia,13249.0
+2017,electricity_imports,Slovakia,15563.0
+2018,electricity_imports,Slovakia,12428.0
+2019,electricity_imports,Slovakia,13538.0
+2020,electricity_imports,Slovakia,13289.0
+total,electricity_imports,Slovakia,131448.0
+2011,electricity_imports,Finland,17656.0
+2012,electricity_imports,Finland,19089.0
+2013,electricity_imports,Finland,17591.0
+2014,electricity_imports,Finland,21622.0
+2015,electricity_imports,Finland,21459.0
+2016,electricity_imports,Finland,22110.0
+2017,electricity_imports,Finland,22204.0
+2018,electricity_imports,Finland,22548.0
+2019,electricity_imports,Finland,23938.0
+2020,electricity_imports,Finland,21647.0
+total,electricity_imports,Finland,209864.0
+2011,electricity_imports,Sweden,12481.0
+2012,electricity_imports,Sweden,11682.0
+2013,electricity_imports,Sweden,12674.0
+2014,electricity_imports,Sweden,13852.0
+2015,electricity_imports,Sweden,9294.0
+2016,electricity_imports,Sweden,14287.0
+2017,electricity_imports,Sweden,11896.0
+2018,electricity_imports,Sweden,12202.0
+2019,electricity_imports,Sweden,9070.0
+2020,electricity_imports,Sweden,11827.0
+total,electricity_imports,Sweden,119265.0
+2011,electricity_imports,Iceland,0.0
+2012,electricity_imports,Iceland,0.0
+2013,electricity_imports,Iceland,0.0
+2014,electricity_imports,Iceland,0.0
+2015,electricity_imports,Iceland,0.0
+2016,electricity_imports,Iceland,0.0
+2017,electricity_imports,Iceland,0.0
+2018,electricity_imports,Iceland,0.0
+2019,electricity_imports,Iceland,0.0
+2020,electricity_imports,Iceland,0.0
+total,electricity_imports,Iceland,0.0
+2014,electricity_imports,Liechtenstein,355.0
+2015,electricity_imports,Liechtenstein,325.0
+2016,electricity_imports,Liechtenstein,309.0
+2017,electricity_imports,Liechtenstein,314.0
+2018,electricity_imports,Liechtenstein,321.0
+2019,electricity_imports,Liechtenstein,307.0
+2020,electricity_imports,Liechtenstein,299.0
+total,electricity_imports,Liechtenstein,2230.0
+2011,electricity_imports,Norway,11254.0
+2012,electricity_imports,Norway,4191.0
+2013,electricity_imports,Norway,10135.0
+2014,electricity_imports,Norway,6347.0
+2015,electricity_imports,Norway,7371.0
+2016,electricity_imports,Norway,5740.0
+2017,electricity_imports,Norway,6111.0
+2018,electricity_imports,Norway,8339.724
+2019,electricity_imports,Norway,12353.0
+2020,electricity_imports,Norway,4496.145
+total,electricity_imports,Norway,76337.869
+2011,electricity_imports,United Kingdom,8690.0
+2012,electricity_imports,United Kingdom,13775.0
+2013,electricity_imports,United Kingdom,17532.0
+2014,electricity_imports,United Kingdom,23244.0
+2015,electricity_imports,United Kingdom,22960.871
+2016,electricity_imports,United Kingdom,20017.923
+2017,electricity_imports,United Kingdom,18166.98
+2018,electricity_imports,United Kingdom,21332.415
+2019,electricity_imports,United Kingdom,24555.587
+total,electricity_imports,United Kingdom,170274.776
+2011,electricity_imports,Montenegro,1993.0
+2012,electricity_imports,Montenegro,1440.0
+2013,electricity_imports,Montenegro,388.0
+2014,electricity_imports,Montenegro,903.0
+2015,electricity_imports,Montenegro,1040.0
+2016,electricity_imports,Montenegro,1210.0
+2017,electricity_imports,Montenegro,1536.9
+2018,electricity_imports,Montenegro,780.0
+2019,electricity_imports,Montenegro,1195.5
+2020,electricity_imports,Montenegro,5943.0
+total,electricity_imports,Montenegro,16429.4
+2011,electricity_imports,North Macedonia,2749.0
+2012,electricity_imports,North Macedonia,2741.0
+2013,electricity_imports,North Macedonia,2491.0
+2014,electricity_imports,North Macedonia,3073.0
+2015,electricity_imports,North Macedonia,2656.0
+2016,electricity_imports,North Macedonia,2190.606
+2017,electricity_imports,North Macedonia,2293.571
+2018,electricity_imports,North Macedonia,2297.169
+2019,electricity_imports,North Macedonia,2410.901
+2020,electricity_imports,North Macedonia,2965.204
+total,electricity_imports,North Macedonia,25867.451
+2011,electricity_imports,Albania,3262.0
+2012,electricity_imports,Albania,2538.0
+2013,electricity_imports,Albania,2323.0
+2014,electricity_imports,Albania,3250.0
+2015,electricity_imports,Albania,2355.0
+2016,electricity_imports,Albania,0.0
+2017,electricity_imports,Albania,2914.628
+2018,electricity_imports,Albania,850.48
+2019,electricity_imports,Albania,3176.515
+2020,electricity_imports,Albania,3238.631
+total,electricity_imports,Albania,23908.254
+2011,electricity_imports,Serbia,6701.0
+2012,electricity_imports,Serbia,5781.0
+2013,electricity_imports,Serbia,4077.0
+2014,electricity_imports,Serbia,7008.0
+2015,electricity_imports,Serbia,6303.0
+2016,electricity_imports,Serbia,5068.0
+2017,electricity_imports,Serbia,6549.189
+2018,electricity_imports,Serbia,6400.007
+2019,electricity_imports,Serbia,5416.609
+2020,electricity_imports,Serbia,5069.528
+total,electricity_imports,Serbia,58373.333
+2011,electricity_imports,Turkey,4556.0
+2012,electricity_imports,Turkey,5827.0
+2013,electricity_imports,Turkey,7429.0
+2014,electricity_imports,Turkey,7953.0
+2015,electricity_imports,Turkey,7136.0
+2016,electricity_imports,Turkey,6330.0
+2017,electricity_imports,Turkey,2728.268
+2018,electricity_imports,Turkey,2476.887
+2019,electricity_imports,Turkey,2211.506
+2020,electricity_imports,Turkey,1889.521
+total,electricity_imports,Turkey,48537.182
+2014,electricity_imports,Bosnia and Herzegovina,3162.0
+2015,electricity_imports,Bosnia and Herzegovina,3872.0
+2016,electricity_imports,Bosnia and Herzegovina,3084.0
+2017,electricity_imports,Bosnia and Herzegovina,3346.0
+2018,electricity_imports,Bosnia and Herzegovina,3092.0
+2019,electricity_imports,Bosnia and Herzegovina,2825.0
+2020,electricity_imports,Bosnia and Herzegovina,3266.0
+total,electricity_imports,Bosnia and Herzegovina,22647.0
+2011,electricity_imports,Kosovo (under United Nations Security Council Resolution 1244/99),3135.0
+2012,electricity_imports,Kosovo (under United Nations Security Council Resolution 1244/99),2773.0
+2013,electricity_imports,Kosovo (under United Nations Security Council Resolution 1244/99),2551.0
+2014,electricity_imports,Kosovo (under United Nations Security Council Resolution 1244/99),966.0
+2015,electricity_imports,Kosovo (under United Nations Security Council Resolution 1244/99),684.0
+2016,electricity_imports,Kosovo (under United Nations Security Council Resolution 1244/99),557.0
+2017,electricity_imports,Kosovo (under United Nations Security Council Resolution 1244/99),1242.225
+2018,electricity_imports,Kosovo (under United Nations Security Council Resolution 1244/99),825.182
+2019,electricity_imports,Kosovo (under United Nations Security Council Resolution 1244/99),928.492
+2020,electricity_imports,Kosovo (under United Nations Security Council Resolution 1244/99),965.632
+total,electricity_imports,Kosovo (under United Nations Security Council Resolution 1244/99),14627.531
+2011,electricity_imports,Moldova,3146.0
+2012,electricity_imports,Moldova,3279.0
+2013,electricity_imports,Moldova,3332.0
+2014,electricity_imports,Moldova,3342.0
+2015,electricity_imports,Moldova,3315.0
+2016,electricity_imports,Moldova,3325.0
+2017,electricity_imports,Moldova,3412.0
+2018,electricity_imports,Moldova,3500.0
+2019,electricity_imports,Moldova,3501.0
+2020,electricity_imports,Moldova,3418.0
+total,electricity_imports,Moldova,33570.0
+2011,electricity_imports,Ukraine,32.0
+2012,electricity_imports,Ukraine,89.0
+2013,electricity_imports,Ukraine,39.0
+2014,electricity_imports,Ukraine,89.0
+2015,electricity_imports,Ukraine,2241.0
+2016,electricity_imports,Ukraine,77.0
+2017,electricity_imports,Ukraine,50.0
+2018,electricity_imports,Ukraine,32.0
+2019,electricity_imports,Ukraine,2238.0
+2020,electricity_imports,Ukraine,2719.8
+total,electricity_imports,Ukraine,7606.8
+2013,electricity_imports,Georgia,484.0
+2014,electricity_imports,Georgia,853.0
+2015,electricity_imports,Georgia,699.0
+2016,electricity_imports,Georgia,1329.0
+2017,electricity_imports,Georgia,1751.2
+2018,electricity_imports,Georgia,1522.2
+2019,electricity_imports,Georgia,1762.7
+2020,electricity_imports,Georgia,1711.9
+total,electricity_imports,Georgia,10113.0
+2011,Belgium,solid_fossil_fuelsl_exports,1110.0
+2012,Belgium,solid_fossil_fuelsl_exports,1293.0
+2013,Belgium,solid_fossil_fuelsl_exports,949.0
+2014,Belgium,solid_fossil_fuelsl_exports,838.0
+2015,Belgium,solid_fossil_fuelsl_exports,136.9
+2016,Belgium,solid_fossil_fuelsl_exports,78.9
+2017,Belgium,solid_fossil_fuelsl_exports,106.1
+2018,Belgium,solid_fossil_fuelsl_exports,76.0
+2019,Belgium,solid_fossil_fuelsl_exports,125.8
+2020,Belgium,solid_fossil_fuelsl_exports,229.1
+total,Belgium,solid_fossil_fuelsl_exports,4942.8
+2011,Bulgaria,solid_fossil_fuelsl_exports,125.0
+2012,Bulgaria,solid_fossil_fuelsl_exports,135.0
+2013,Bulgaria,solid_fossil_fuelsl_exports,83.0
+2014,Bulgaria,solid_fossil_fuelsl_exports,51.0
+2015,Bulgaria,solid_fossil_fuelsl_exports,36.0
+2016,Bulgaria,solid_fossil_fuelsl_exports,17.0
+2017,Bulgaria,solid_fossil_fuelsl_exports,22.301
+2018,Bulgaria,solid_fossil_fuelsl_exports,42.582
+2019,Bulgaria,solid_fossil_fuelsl_exports,50.27
+2020,Bulgaria,solid_fossil_fuelsl_exports,27.796
+total,Bulgaria,solid_fossil_fuelsl_exports,589.949
+2011,Czechia,solid_fossil_fuelsl_exports,7527.0
+2012,Czechia,solid_fossil_fuelsl_exports,7065.0
+2013,Czechia,solid_fossil_fuelsl_exports,6495.0
+2014,Czechia,solid_fossil_fuelsl_exports,5869.0
+2015,Czechia,solid_fossil_fuelsl_exports,5036.0
+2016,Czechia,solid_fossil_fuelsl_exports,5015.0
+2017,Czechia,solid_fossil_fuelsl_exports,4106.43
+2018,Czechia,solid_fossil_fuelsl_exports,3553.883
+2019,Czechia,solid_fossil_fuelsl_exports,2825.218
+2020,Czechia,solid_fossil_fuelsl_exports,1999.919
+total,Czechia,solid_fossil_fuelsl_exports,49492.45
+2011,Denmark,solid_fossil_fuelsl_exports,0.0
+2012,Denmark,solid_fossil_fuelsl_exports,11.0
+2013,Denmark,solid_fossil_fuelsl_exports,52.0
+2014,Denmark,solid_fossil_fuelsl_exports,52.0
+2015,Denmark,solid_fossil_fuelsl_exports,92.078
+2016,Denmark,solid_fossil_fuelsl_exports,20.828
+2017,Denmark,solid_fossil_fuelsl_exports,0.023
+2018,Denmark,solid_fossil_fuelsl_exports,16.899
+2019,Denmark,solid_fossil_fuelsl_exports,45.808
+2020,Denmark,solid_fossil_fuelsl_exports,194.004
+total,Denmark,solid_fossil_fuelsl_exports,484.64
+2011,Germany (until 1990 former territory of the FRG),solid_fossil_fuelsl_exports,1759.0
+2012,Germany (until 1990 former territory of the FRG),solid_fossil_fuelsl_exports,2234.0
+2013,Germany (until 1990 former territory of the FRG),solid_fossil_fuelsl_exports,2193.0
+2014,Germany (until 1990 former territory of the FRG),solid_fossil_fuelsl_exports,3393.0
+2015,Germany (until 1990 former territory of the FRG),solid_fossil_fuelsl_exports,2886.0
+2016,Germany (until 1990 former territory of the FRG),solid_fossil_fuelsl_exports,2374.0
+2017,Germany (until 1990 former territory of the FRG),solid_fossil_fuelsl_exports,2551.0
+2018,Germany (until 1990 former territory of the FRG),solid_fossil_fuelsl_exports,2518.0
+2019,Germany (until 1990 former territory of the FRG),solid_fossil_fuelsl_exports,2541.596
+2020,Germany (until 1990 former territory of the FRG),solid_fossil_fuelsl_exports,2340.46
+total,Germany (until 1990 former territory of the FRG),solid_fossil_fuelsl_exports,24790.056
+2011,Estonia,solid_fossil_fuelsl_exports,25.0
+2012,Estonia,solid_fossil_fuelsl_exports,24.0
+2013,Estonia,solid_fossil_fuelsl_exports,20.0
+2014,Estonia,solid_fossil_fuelsl_exports,26.0
+2015,Estonia,solid_fossil_fuelsl_exports,8.0
+2016,Estonia,solid_fossil_fuelsl_exports,13.0
+2017,Estonia,solid_fossil_fuelsl_exports,19.0
+2018,Estonia,solid_fossil_fuelsl_exports,13.0
+2019,Estonia,solid_fossil_fuelsl_exports,20.37
+2020,Estonia,solid_fossil_fuelsl_exports,18.75
+total,Estonia,solid_fossil_fuelsl_exports,187.12
+2011,Ireland,solid_fossil_fuelsl_exports,10.188
+2012,Ireland,solid_fossil_fuelsl_exports,12.532
+2013,Ireland,solid_fossil_fuelsl_exports,13.969
+2014,Ireland,solid_fossil_fuelsl_exports,13.34
+2015,Ireland,solid_fossil_fuelsl_exports,15.9
+2016,Ireland,solid_fossil_fuelsl_exports,13.334
+2017,Ireland,solid_fossil_fuelsl_exports,13.156
+2018,Ireland,solid_fossil_fuelsl_exports,0.0
+2019,Ireland,solid_fossil_fuelsl_exports,0.0
+2020,Ireland,solid_fossil_fuelsl_exports,0.0
+total,Ireland,solid_fossil_fuelsl_exports,92.419
+2011,Greece,solid_fossil_fuelsl_exports,17.0
+2012,Greece,solid_fossil_fuelsl_exports,27.0
+2013,Greece,solid_fossil_fuelsl_exports,28.0
+2014,Greece,solid_fossil_fuelsl_exports,9.0
+2015,Greece,solid_fossil_fuelsl_exports,0.0
+2016,Greece,solid_fossil_fuelsl_exports,0.0
+2017,Greece,solid_fossil_fuelsl_exports,0.0
+2018,Greece,solid_fossil_fuelsl_exports,0.0
+2019,Greece,solid_fossil_fuelsl_exports,0.0
+2020,Greece,solid_fossil_fuelsl_exports,1.792
+total,Greece,solid_fossil_fuelsl_exports,82.792
+2011,Spain,solid_fossil_fuelsl_exports,1564.0
+2012,Spain,solid_fossil_fuelsl_exports,2337.0
+2013,Spain,solid_fossil_fuelsl_exports,845.0
+2014,Spain,solid_fossil_fuelsl_exports,1414.0
+2015,Spain,solid_fossil_fuelsl_exports,1232.0
+2016,Spain,solid_fossil_fuelsl_exports,590.0
+2017,Spain,solid_fossil_fuelsl_exports,396.0
+2018,Spain,solid_fossil_fuelsl_exports,541.0
+2019,Spain,solid_fossil_fuelsl_exports,1668.0
+2020,Spain,solid_fossil_fuelsl_exports,2082.0
+total,Spain,solid_fossil_fuelsl_exports,12669.0
+2011,France,solid_fossil_fuelsl_exports,83.0
+2012,France,solid_fossil_fuelsl_exports,72.0
+2013,France,solid_fossil_fuelsl_exports,13.0
+2014,France,solid_fossil_fuelsl_exports,56.0
+2015,France,solid_fossil_fuelsl_exports,27.0
+2016,France,solid_fossil_fuelsl_exports,83.0
+2017,France,solid_fossil_fuelsl_exports,5.626
+2018,France,solid_fossil_fuelsl_exports,49.849
+2019,France,solid_fossil_fuelsl_exports,6.172
+2020,France,solid_fossil_fuelsl_exports,12.501
+total,France,solid_fossil_fuelsl_exports,408.148
+2011,Croatia,solid_fossil_fuelsl_exports,0.0
+2012,Croatia,solid_fossil_fuelsl_exports,0.0
+2013,Croatia,solid_fossil_fuelsl_exports,0.0
+2014,Croatia,solid_fossil_fuelsl_exports,0.0
+2015,Croatia,solid_fossil_fuelsl_exports,0.0
+2016,Croatia,solid_fossil_fuelsl_exports,0.0
+2017,Croatia,solid_fossil_fuelsl_exports,0.0
+2018,Croatia,solid_fossil_fuelsl_exports,0.0
+2019,Croatia,solid_fossil_fuelsl_exports,0.0
+2020,Croatia,solid_fossil_fuelsl_exports,0.0
+total,Croatia,solid_fossil_fuelsl_exports,0.0
+2011,Italy,solid_fossil_fuelsl_exports,276.0
+2012,Italy,solid_fossil_fuelsl_exports,312.0
+2013,Italy,solid_fossil_fuelsl_exports,246.0
+2014,Italy,solid_fossil_fuelsl_exports,343.0
+2015,Italy,solid_fossil_fuelsl_exports,389.0
+2016,Italy,solid_fossil_fuelsl_exports,374.0
+2017,Italy,solid_fossil_fuelsl_exports,341.78
+2018,Italy,solid_fossil_fuelsl_exports,363.489
+2019,Italy,solid_fossil_fuelsl_exports,291.96
+2020,Italy,solid_fossil_fuelsl_exports,305.112
+total,Italy,solid_fossil_fuelsl_exports,3242.341
+2011,Cyprus,solid_fossil_fuelsl_exports,0.0
+2012,Cyprus,solid_fossil_fuelsl_exports,0.0
+2013,Cyprus,solid_fossil_fuelsl_exports,0.0
+2014,Cyprus,solid_fossil_fuelsl_exports,0.0
+2015,Cyprus,solid_fossil_fuelsl_exports,0.0
+2016,Cyprus,solid_fossil_fuelsl_exports,0.0
+2017,Cyprus,solid_fossil_fuelsl_exports,0.0
+2018,Cyprus,solid_fossil_fuelsl_exports,0.0
+2019,Cyprus,solid_fossil_fuelsl_exports,0.0
+2020,Cyprus,solid_fossil_fuelsl_exports,0.0
+total,Cyprus,solid_fossil_fuelsl_exports,0.0
+2011,Latvia,solid_fossil_fuelsl_exports,7.0
+2012,Latvia,solid_fossil_fuelsl_exports,6.0
+2013,Latvia,solid_fossil_fuelsl_exports,8.0
+2014,Latvia,solid_fossil_fuelsl_exports,6.0
+2015,Latvia,solid_fossil_fuelsl_exports,2.0
+2016,Latvia,solid_fossil_fuelsl_exports,6.0
+2017,Latvia,solid_fossil_fuelsl_exports,5.871
+2018,Latvia,solid_fossil_fuelsl_exports,10.183
+2019,Latvia,solid_fossil_fuelsl_exports,4.712
+2020,Latvia,solid_fossil_fuelsl_exports,4.497
+total,Latvia,solid_fossil_fuelsl_exports,60.263
+2011,Lithuania,solid_fossil_fuelsl_exports,24.0
+2012,Lithuania,solid_fossil_fuelsl_exports,23.0
+2013,Lithuania,solid_fossil_fuelsl_exports,35.0
+2014,Lithuania,solid_fossil_fuelsl_exports,0.0
+2015,Lithuania,solid_fossil_fuelsl_exports,0.0
+2016,Lithuania,solid_fossil_fuelsl_exports,0.0
+2017,Lithuania,solid_fossil_fuelsl_exports,0.0
+2018,Lithuania,solid_fossil_fuelsl_exports,0.0
+2019,Lithuania,solid_fossil_fuelsl_exports,0.0
+2020,Lithuania,solid_fossil_fuelsl_exports,0.0
+total,Lithuania,solid_fossil_fuelsl_exports,82.0
+2011,Luxembourg,solid_fossil_fuelsl_exports,0.0
+2012,Luxembourg,solid_fossil_fuelsl_exports,0.0
+2013,Luxembourg,solid_fossil_fuelsl_exports,0.0
+2014,Luxembourg,solid_fossil_fuelsl_exports,0.0
+2015,Luxembourg,solid_fossil_fuelsl_exports,0.0
+2016,Luxembourg,solid_fossil_fuelsl_exports,0.0
+2017,Luxembourg,solid_fossil_fuelsl_exports,0.0
+2018,Luxembourg,solid_fossil_fuelsl_exports,0.0
+2019,Luxembourg,solid_fossil_fuelsl_exports,0.0
+2020,Luxembourg,solid_fossil_fuelsl_exports,0.0
+total,Luxembourg,solid_fossil_fuelsl_exports,0.0
+2011,Hungary,solid_fossil_fuelsl_exports,373.0
+2012,Hungary,solid_fossil_fuelsl_exports,440.0
+2013,Hungary,solid_fossil_fuelsl_exports,766.0
+2014,Hungary,solid_fossil_fuelsl_exports,897.0
+2015,Hungary,solid_fossil_fuelsl_exports,699.0
+2016,Hungary,solid_fossil_fuelsl_exports,670.0
+2017,Hungary,solid_fossil_fuelsl_exports,376.0
+2018,Hungary,solid_fossil_fuelsl_exports,306.0
+2019,Hungary,solid_fossil_fuelsl_exports,321.0
+2020,Hungary,solid_fossil_fuelsl_exports,259.0
+total,Hungary,solid_fossil_fuelsl_exports,5107.0
+2011,Malta,solid_fossil_fuelsl_exports,0.0
+2012,Malta,solid_fossil_fuelsl_exports,0.0
+2013,Malta,solid_fossil_fuelsl_exports,0.0
+2014,Malta,solid_fossil_fuelsl_exports,0.0
+2015,Malta,solid_fossil_fuelsl_exports,0.0
+2016,Malta,solid_fossil_fuelsl_exports,0.0
+2017,Malta,solid_fossil_fuelsl_exports,0.0
+2018,Malta,solid_fossil_fuelsl_exports,0.0
+2019,Malta,solid_fossil_fuelsl_exports,0.0
+2020,Malta,solid_fossil_fuelsl_exports,0.0
+total,Malta,solid_fossil_fuelsl_exports,0.0
+2011,Netherlands,solid_fossil_fuelsl_exports,55.0
+2012,Netherlands,solid_fossil_fuelsl_exports,109.0
+2013,Netherlands,solid_fossil_fuelsl_exports,323.0
+2014,Netherlands,solid_fossil_fuelsl_exports,608.0
+2015,Netherlands,solid_fossil_fuelsl_exports,123.444
+2016,Netherlands,solid_fossil_fuelsl_exports,58.701
+2017,Netherlands,solid_fossil_fuelsl_exports,111.501
+2018,Netherlands,solid_fossil_fuelsl_exports,33.481
+2019,Netherlands,solid_fossil_fuelsl_exports,74.594
+2020,Netherlands,solid_fossil_fuelsl_exports,272.031
+total,Netherlands,solid_fossil_fuelsl_exports,1768.752
+2011,Austria,solid_fossil_fuelsl_exports,7.705
+2012,Austria,solid_fossil_fuelsl_exports,2.877
+2013,Austria,solid_fossil_fuelsl_exports,1.92
+2014,Austria,solid_fossil_fuelsl_exports,2.063
+2015,Austria,solid_fossil_fuelsl_exports,58.547
+2016,Austria,solid_fossil_fuelsl_exports,39.392
+2017,Austria,solid_fossil_fuelsl_exports,41.434
+2018,Austria,solid_fossil_fuelsl_exports,43.924
+2019,Austria,solid_fossil_fuelsl_exports,37.564
+2020,Austria,solid_fossil_fuelsl_exports,29.674
+total,Austria,solid_fossil_fuelsl_exports,265.1
+2011,Poland,solid_fossil_fuelsl_exports,14029.0
+2012,Poland,solid_fossil_fuelsl_exports,13975.0
+2013,Poland,solid_fossil_fuelsl_exports,18035.0
+2014,Poland,solid_fossil_fuelsl_exports,16304.0
+2015,Poland,solid_fossil_fuelsl_exports,16250.0
+2016,Poland,solid_fossil_fuelsl_exports,16651.0
+2017,Poland,solid_fossil_fuelsl_exports,14153.253
+2018,Poland,solid_fossil_fuelsl_exports,12100.874
+2019,Poland,solid_fossil_fuelsl_exports,11072.377
+2020,Poland,solid_fossil_fuelsl_exports,11291.569
+total,Poland,solid_fossil_fuelsl_exports,143862.073
+2011,Portugal,solid_fossil_fuelsl_exports,0.0
+2012,Portugal,solid_fossil_fuelsl_exports,0.0
+2013,Portugal,solid_fossil_fuelsl_exports,0.0
+2014,Portugal,solid_fossil_fuelsl_exports,0.0
+2015,Portugal,solid_fossil_fuelsl_exports,0.0
+2016,Portugal,solid_fossil_fuelsl_exports,0.0
+2017,Portugal,solid_fossil_fuelsl_exports,0.0
+2018,Portugal,solid_fossil_fuelsl_exports,0.0
+2019,Portugal,solid_fossil_fuelsl_exports,0.0
+2020,Portugal,solid_fossil_fuelsl_exports,81.735
+total,Portugal,solid_fossil_fuelsl_exports,81.735
+2011,Romania,solid_fossil_fuelsl_exports,37.0
+2012,Romania,solid_fossil_fuelsl_exports,25.0
+2013,Romania,solid_fossil_fuelsl_exports,7.0
+2014,Romania,solid_fossil_fuelsl_exports,42.0
+2015,Romania,solid_fossil_fuelsl_exports,378.0
+2016,Romania,solid_fossil_fuelsl_exports,3.0
+2017,Romania,solid_fossil_fuelsl_exports,2.284
+2018,Romania,solid_fossil_fuelsl_exports,5.824
+2019,Romania,solid_fossil_fuelsl_exports,0.459
+2020,Romania,solid_fossil_fuelsl_exports,2.511
+total,Romania,solid_fossil_fuelsl_exports,503.078
+2011,Slovenia,solid_fossil_fuelsl_exports,2.0
+2012,Slovenia,solid_fossil_fuelsl_exports,1.0
+2013,Slovenia,solid_fossil_fuelsl_exports,7.0
+2014,Slovenia,solid_fossil_fuelsl_exports,1.0
+2015,Slovenia,solid_fossil_fuelsl_exports,0.0
+2016,Slovenia,solid_fossil_fuelsl_exports,0.0
+2017,Slovenia,solid_fossil_fuelsl_exports,0.0
+2018,Slovenia,solid_fossil_fuelsl_exports,0.0
+2019,Slovenia,solid_fossil_fuelsl_exports,0.0
+2020,Slovenia,solid_fossil_fuelsl_exports,0.0
+total,Slovenia,solid_fossil_fuelsl_exports,11.0
+2011,Slovakia,solid_fossil_fuelsl_exports,236.0
+2012,Slovakia,solid_fossil_fuelsl_exports,106.0
+2013,Slovakia,solid_fossil_fuelsl_exports,115.0
+2014,Slovakia,solid_fossil_fuelsl_exports,91.0
+2015,Slovakia,solid_fossil_fuelsl_exports,63.0
+2016,Slovakia,solid_fossil_fuelsl_exports,72.0
+2017,Slovakia,solid_fossil_fuelsl_exports,70.0
+2018,Slovakia,solid_fossil_fuelsl_exports,59.0
+2019,Slovakia,solid_fossil_fuelsl_exports,124.0
+2020,Slovakia,solid_fossil_fuelsl_exports,40.0
+total,Slovakia,solid_fossil_fuelsl_exports,976.0
+2011,Finland,solid_fossil_fuelsl_exports,44.0
+2012,Finland,solid_fossil_fuelsl_exports,67.0
+2013,Finland,solid_fossil_fuelsl_exports,76.0
+2014,Finland,solid_fossil_fuelsl_exports,76.0
+2015,Finland,solid_fossil_fuelsl_exports,121.0
+2016,Finland,solid_fossil_fuelsl_exports,91.0
+2017,Finland,solid_fossil_fuelsl_exports,137.0
+2018,Finland,solid_fossil_fuelsl_exports,107.0
+2019,Finland,solid_fossil_fuelsl_exports,202.0
+2020,Finland,solid_fossil_fuelsl_exports,134.0
+total,Finland,solid_fossil_fuelsl_exports,1055.0
+2011,Sweden,solid_fossil_fuelsl_exports,26.0
+2012,Sweden,solid_fossil_fuelsl_exports,23.0
+2013,Sweden,solid_fossil_fuelsl_exports,27.0
+2014,Sweden,solid_fossil_fuelsl_exports,31.0
+2015,Sweden,solid_fossil_fuelsl_exports,81.0
+2016,Sweden,solid_fossil_fuelsl_exports,28.0
+2017,Sweden,solid_fossil_fuelsl_exports,30.0
+2018,Sweden,solid_fossil_fuelsl_exports,9.0
+2019,Sweden,solid_fossil_fuelsl_exports,49.0
+2020,Sweden,solid_fossil_fuelsl_exports,23.0
+total,Sweden,solid_fossil_fuelsl_exports,327.0
+2011,Iceland,solid_fossil_fuelsl_exports,0.0
+2012,Iceland,solid_fossil_fuelsl_exports,0.0
+2013,Iceland,solid_fossil_fuelsl_exports,0.0
+2014,Iceland,solid_fossil_fuelsl_exports,0.0
+2015,Iceland,solid_fossil_fuelsl_exports,0.0
+2016,Iceland,solid_fossil_fuelsl_exports,0.0
+2017,Iceland,solid_fossil_fuelsl_exports,0.0
+2018,Iceland,solid_fossil_fuelsl_exports,0.0
+2019,Iceland,solid_fossil_fuelsl_exports,0.0
+2020,Iceland,solid_fossil_fuelsl_exports,0.0
+total,Iceland,solid_fossil_fuelsl_exports,0.0
+2014,Liechtenstein,solid_fossil_fuelsl_exports,0.0
+2015,Liechtenstein,solid_fossil_fuelsl_exports,0.0
+2016,Liechtenstein,solid_fossil_fuelsl_exports,0.0
+2017,Liechtenstein,solid_fossil_fuelsl_exports,0.0
+2018,Liechtenstein,solid_fossil_fuelsl_exports,0.0
+2019,Liechtenstein,solid_fossil_fuelsl_exports,0.0
+2020,Liechtenstein,solid_fossil_fuelsl_exports,0.0
+total,Liechtenstein,solid_fossil_fuelsl_exports,0.0
+2011,Norway,solid_fossil_fuelsl_exports,1504.0
+2012,Norway,solid_fossil_fuelsl_exports,1275.0
+2013,Norway,solid_fossil_fuelsl_exports,2069.0
+2014,Norway,solid_fossil_fuelsl_exports,1608.0
+2015,Norway,solid_fossil_fuelsl_exports,1124.0
+2016,Norway,solid_fossil_fuelsl_exports,912.0
+2017,Norway,solid_fossil_fuelsl_exports,75.0
+2018,Norway,solid_fossil_fuelsl_exports,112.836
+2019,Norway,solid_fossil_fuelsl_exports,78.97
+2020,Norway,solid_fossil_fuelsl_exports,46.018
+total,Norway,solid_fossil_fuelsl_exports,8804.824
+2011,United Kingdom,solid_fossil_fuelsl_exports,990.0
+2012,United Kingdom,solid_fossil_fuelsl_exports,1041.0
+2013,United Kingdom,solid_fossil_fuelsl_exports,712.0
+2014,United Kingdom,solid_fossil_fuelsl_exports,537.0
+2015,United Kingdom,solid_fossil_fuelsl_exports,498.0
+2016,United Kingdom,solid_fossil_fuelsl_exports,467.0
+2017,United Kingdom,solid_fossil_fuelsl_exports,515.0
+2018,United Kingdom,solid_fossil_fuelsl_exports,646.0
+2019,United Kingdom,solid_fossil_fuelsl_exports,751.0
+total,United Kingdom,solid_fossil_fuelsl_exports,6157.0
+2011,Montenegro,solid_fossil_fuelsl_exports,53.0
+2012,Montenegro,solid_fossil_fuelsl_exports,55.0
+2013,Montenegro,solid_fossil_fuelsl_exports,23.0
+2014,Montenegro,solid_fossil_fuelsl_exports,28.0
+2015,Montenegro,solid_fossil_fuelsl_exports,58.0
+2016,Montenegro,solid_fossil_fuelsl_exports,42.0
+2017,Montenegro,solid_fossil_fuelsl_exports,97.0
+2018,Montenegro,solid_fossil_fuelsl_exports,93.5
+2019,Montenegro,solid_fossil_fuelsl_exports,110.7
+2020,Montenegro,solid_fossil_fuelsl_exports,80.5
+total,Montenegro,solid_fossil_fuelsl_exports,640.7
+2011,North Macedonia,solid_fossil_fuelsl_exports,32.0
+2012,North Macedonia,solid_fossil_fuelsl_exports,33.0
+2013,North Macedonia,solid_fossil_fuelsl_exports,2.0
+2014,North Macedonia,solid_fossil_fuelsl_exports,0.0
+2015,North Macedonia,solid_fossil_fuelsl_exports,3.0
+2016,North Macedonia,solid_fossil_fuelsl_exports,1.855
+2017,North Macedonia,solid_fossil_fuelsl_exports,1.73
+2018,North Macedonia,solid_fossil_fuelsl_exports,0.893
+2019,North Macedonia,solid_fossil_fuelsl_exports,0.896
+2020,North Macedonia,solid_fossil_fuelsl_exports,0.587
+total,North Macedonia,solid_fossil_fuelsl_exports,75.961
+2011,Albania,solid_fossil_fuelsl_exports,0.0
+2012,Albania,solid_fossil_fuelsl_exports,0.0
+2013,Albania,solid_fossil_fuelsl_exports,0.0
+2014,Albania,solid_fossil_fuelsl_exports,0.0
+2015,Albania,solid_fossil_fuelsl_exports,0.0
+2016,Albania,solid_fossil_fuelsl_exports,0.0
+2017,Albania,solid_fossil_fuelsl_exports,0.0
+2018,Albania,solid_fossil_fuelsl_exports,0.0
+2019,Albania,solid_fossil_fuelsl_exports,0.0
+2020,Albania,solid_fossil_fuelsl_exports,0.0
+total,Albania,solid_fossil_fuelsl_exports,0.0
+2011,Serbia,solid_fossil_fuelsl_exports,36.0
+2012,Serbia,solid_fossil_fuelsl_exports,27.0
+2013,Serbia,solid_fossil_fuelsl_exports,118.0
+2014,Serbia,solid_fossil_fuelsl_exports,53.0
+2015,Serbia,solid_fossil_fuelsl_exports,34.0
+2016,Serbia,solid_fossil_fuelsl_exports,71.0
+2017,Serbia,solid_fossil_fuelsl_exports,77.874
+2018,Serbia,solid_fossil_fuelsl_exports,82.212
+2019,Serbia,solid_fossil_fuelsl_exports,93.66
+2020,Serbia,solid_fossil_fuelsl_exports,72.837
+total,Serbia,solid_fossil_fuelsl_exports,665.583
+2011,Turkey,solid_fossil_fuelsl_exports,53.0
+2012,Turkey,solid_fossil_fuelsl_exports,94.0
+2013,Turkey,solid_fossil_fuelsl_exports,108.0
+2014,Turkey,solid_fossil_fuelsl_exports,169.0
+2015,Turkey,solid_fossil_fuelsl_exports,238.0
+2016,Turkey,solid_fossil_fuelsl_exports,196.0
+2017,Turkey,solid_fossil_fuelsl_exports,226.715
+2018,Turkey,solid_fossil_fuelsl_exports,204.09
+2019,Turkey,solid_fossil_fuelsl_exports,198.847
+2020,Turkey,solid_fossil_fuelsl_exports,300.076
+total,Turkey,solid_fossil_fuelsl_exports,1787.728
+2014,Bosnia and Herzegovina,solid_fossil_fuelsl_exports,785.0
+2015,Bosnia and Herzegovina,solid_fossil_fuelsl_exports,680.0
+2016,Bosnia and Herzegovina,solid_fossil_fuelsl_exports,635.0
+2017,Bosnia and Herzegovina,solid_fossil_fuelsl_exports,545.0
+2018,Bosnia and Herzegovina,solid_fossil_fuelsl_exports,761.093
+2019,Bosnia and Herzegovina,solid_fossil_fuelsl_exports,617.845
+2020,Bosnia and Herzegovina,solid_fossil_fuelsl_exports,525.383
+total,Bosnia and Herzegovina,solid_fossil_fuelsl_exports,4549.321
+2011,Kosovo (under United Nations Security Council Resolution 1244/99),solid_fossil_fuelsl_exports,20.0
+2012,Kosovo (under United Nations Security Council Resolution 1244/99),solid_fossil_fuelsl_exports,0.0
+2013,Kosovo (under United Nations Security Council Resolution 1244/99),solid_fossil_fuelsl_exports,14.0
+2014,Kosovo (under United Nations Security Council Resolution 1244/99),solid_fossil_fuelsl_exports,25.0
+2015,Kosovo (under United Nations Security Council Resolution 1244/99),solid_fossil_fuelsl_exports,45.0
+2016,Kosovo (under United Nations Security Council Resolution 1244/99),solid_fossil_fuelsl_exports,18.0
+2017,Kosovo (under United Nations Security Council Resolution 1244/99),solid_fossil_fuelsl_exports,14.26
+2018,Kosovo (under United Nations Security Council Resolution 1244/99),solid_fossil_fuelsl_exports,9.198
+2019,Kosovo (under United Nations Security Council Resolution 1244/99),solid_fossil_fuelsl_exports,27.23
+2020,Kosovo (under United Nations Security Council Resolution 1244/99),solid_fossil_fuelsl_exports,8.733
+total,Kosovo (under United Nations Security Council Resolution 1244/99),solid_fossil_fuelsl_exports,181.421
+2011,Moldova,solid_fossil_fuelsl_exports,0.0
+2012,Moldova,solid_fossil_fuelsl_exports,0.0
+2013,Moldova,solid_fossil_fuelsl_exports,0.0
+2014,Moldova,solid_fossil_fuelsl_exports,0.0
+2015,Moldova,solid_fossil_fuelsl_exports,0.0
+2016,Moldova,solid_fossil_fuelsl_exports,0.0
+2017,Moldova,solid_fossil_fuelsl_exports,0.0
+2018,Moldova,solid_fossil_fuelsl_exports,0.0
+2019,Moldova,solid_fossil_fuelsl_exports,0.0
+2020,Moldova,solid_fossil_fuelsl_exports,0.0
+total,Moldova,solid_fossil_fuelsl_exports,0.0
+2011,Ukraine,solid_fossil_fuelsl_exports,9342.0
+2012,Ukraine,solid_fossil_fuelsl_exports,8691.0
+2013,Ukraine,solid_fossil_fuelsl_exports,10519.0
+2014,Ukraine,solid_fossil_fuelsl_exports,8312.0
+2015,Ukraine,solid_fossil_fuelsl_exports,804.0
+2016,Ukraine,solid_fossil_fuelsl_exports,777.0
+2017,Ukraine,solid_fossil_fuelsl_exports,861.0
+2018,Ukraine,solid_fossil_fuelsl_exports,89.0
+2019,Ukraine,solid_fossil_fuelsl_exports,75.1
+2020,Ukraine,solid_fossil_fuelsl_exports,60.7
+total,Ukraine,solid_fossil_fuelsl_exports,39530.8
+2013,Georgia,solid_fossil_fuelsl_exports,4.0
+2014,Georgia,solid_fossil_fuelsl_exports,3.0
+2015,Georgia,solid_fossil_fuelsl_exports,2.0
+2016,Georgia,solid_fossil_fuelsl_exports,2.0
+2017,Georgia,solid_fossil_fuelsl_exports,15.0
+2018,Georgia,solid_fossil_fuelsl_exports,1.913
+2019,Georgia,solid_fossil_fuelsl_exports,0.675
+2020,Georgia,solid_fossil_fuelsl_exports,0.55
+total,Georgia,solid_fossil_fuelsl_exports,29.138
+2011,oil_petroleum_imports,Belgium,53863.8
+2012,oil_petroleum_imports,Belgium,54155.0
+2013,oil_petroleum_imports,Belgium,56422.9
+2014,oil_petroleum_imports,Belgium,58143.8
+2015,oil_petroleum_imports,Belgium,59216.7
+2016,oil_petroleum_imports,Belgium,58180.8
+2017,oil_petroleum_imports,Belgium,62879.2
+2018,oil_petroleum_imports,Belgium,64716.2
+2019,oil_petroleum_imports,Belgium,62916.7
+2020,oil_petroleum_imports,Belgium,52845.9
+total,oil_petroleum_imports,Belgium,583341.0
+2011,oil_petroleum_imports,Bulgaria,7336.0
+2012,oil_petroleum_imports,Bulgaria,8116.0
+2013,oil_petroleum_imports,Bulgaria,8353.0
+2014,oil_petroleum_imports,Bulgaria,8110.0
+2015,oil_petroleum_imports,Bulgaria,8972.0
+2016,oil_petroleum_imports,Bulgaria,9053.0
+2017,oil_petroleum_imports,Bulgaria,9551.151
+2018,oil_petroleum_imports,Bulgaria,8048.519
+2019,oil_petroleum_imports,Bulgaria,9257.522
+2020,oil_petroleum_imports,Bulgaria,7144.502
+total,oil_petroleum_imports,Bulgaria,83941.694
+2011,oil_petroleum_imports,Czechia,10132.0
+2012,oil_petroleum_imports,Czechia,10099.0
+2013,oil_petroleum_imports,Czechia,9923.0
+2014,oil_petroleum_imports,Czechia,10764.0
+2015,oil_petroleum_imports,Czechia,11057.0
+2016,oil_petroleum_imports,Czechia,10210.0
+2017,oil_petroleum_imports,Czechia,11682.0
+2018,oil_petroleum_imports,Czechia,11853.0
+2019,oil_petroleum_imports,Czechia,11785.0
+2020,oil_petroleum_imports,Czechia,10391.0
+total,oil_petroleum_imports,Czechia,107896.0
+2011,oil_petroleum_imports,Denmark,9464.0
+2012,oil_petroleum_imports,Denmark,9979.0
+2013,oil_petroleum_imports,Denmark,12286.0
+2014,oil_petroleum_imports,Denmark,11892.0
+2015,oil_petroleum_imports,Denmark,13901.916
+2016,oil_petroleum_imports,Denmark,13094.185
+2017,oil_petroleum_imports,Denmark,10461.818
+2018,oil_petroleum_imports,Denmark,10803.438
+2019,oil_petroleum_imports,Denmark,12247.791
+2020,oil_petroleum_imports,Denmark,11653.343
+total,oil_petroleum_imports,Denmark,115783.491
+2011,oil_petroleum_imports,Germany (until 1990 former territory of the FRG),123500.0
+2012,oil_petroleum_imports,Germany (until 1990 former territory of the FRG),125662.0
+2013,oil_petroleum_imports,Germany (until 1990 former territory of the FRG),128216.0
+2014,oil_petroleum_imports,Germany (until 1990 former territory of the FRG),126436.0
+2015,oil_petroleum_imports,Germany (until 1990 former territory of the FRG),128711.0
+2016,oil_petroleum_imports,Germany (until 1990 former territory of the FRG),130004.0
+2017,oil_petroleum_imports,Germany (until 1990 former territory of the FRG),131803.0
+2018,oil_petroleum_imports,Germany (until 1990 former territory of the FRG),125546.0
+2019,oil_petroleum_imports,Germany (until 1990 former territory of the FRG),128127.0
+2020,oil_petroleum_imports,Germany (until 1990 former territory of the FRG),117558.0
+total,oil_petroleum_imports,Germany (until 1990 former territory of the FRG),1265563.0
+2011,oil_petroleum_imports,Estonia,1164.29
+2012,oil_petroleum_imports,Estonia,2276.99
+2013,oil_petroleum_imports,Estonia,1679.51
+2014,oil_petroleum_imports,Estonia,1903.8
+2015,oil_petroleum_imports,Estonia,1682.0
+2016,oil_petroleum_imports,Estonia,1812.0
+2017,oil_petroleum_imports,Estonia,1889.21
+2018,oil_petroleum_imports,Estonia,2058.6
+2019,oil_petroleum_imports,Estonia,1862.037
+2020,oil_petroleum_imports,Estonia,2232.078
+total,oil_petroleum_imports,Estonia,18560.515
+2011,oil_petroleum_imports,Ireland,8597.144
+2012,oil_petroleum_imports,Ireland,8178.069
+2013,oil_petroleum_imports,Ireland,8018.596
+2014,oil_petroleum_imports,Ireland,7746.665
+2015,oil_petroleum_imports,Ireland,9064.272
+2016,oil_petroleum_imports,Ireland,8919.734
+2017,oil_petroleum_imports,Ireland,8845.21
+2018,oil_petroleum_imports,Ireland,8958.503
+2019,oil_petroleum_imports,Ireland,8860.017
+2020,oil_petroleum_imports,Ireland,7965.548
+total,oil_petroleum_imports,Ireland,85153.758
+2011,oil_petroleum_imports,Greece,24882.0
+2012,oil_petroleum_imports,Greece,28205.0
+2013,oil_petroleum_imports,Greece,27074.0
+2014,oil_petroleum_imports,Greece,29491.0
+2015,oil_petroleum_imports,Greece,31420.0
+2016,oil_petroleum_imports,Greece,32779.0
+2017,oil_petroleum_imports,Greece,33511.532
+2018,oil_petroleum_imports,Greece,34159.938
+2019,oil_petroleum_imports,Greece,32620.164
+2020,oil_petroleum_imports,Greece,31297.996
+total,oil_petroleum_imports,Greece,305440.63
+2011,oil_petroleum_imports,Spain,79352.0
+2012,oil_petroleum_imports,Spain,78853.0
+2013,oil_petroleum_imports,Spain,77896.0
+2014,oil_petroleum_imports,Spain,79493.0
+2015,oil_petroleum_imports,Spain,83682.0
+2016,oil_petroleum_imports,Spain,85471.0
+2017,oil_petroleum_imports,Spain,89162.0
+2018,oil_petroleum_imports,Spain,88457.0
+2019,oil_petroleum_imports,Spain,87509.0
+2020,oil_petroleum_imports,Spain,73748.0
+total,oil_petroleum_imports,Spain,823623.0
+2011,oil_petroleum_imports,France,106437.0
+2012,oil_petroleum_imports,France,102008.0
+2013,oil_petroleum_imports,France,99990.0
+2014,oil_petroleum_imports,France,98617.0
+2015,oil_petroleum_imports,France,101342.0
+2016,oil_petroleum_imports,France,97495.0
+2017,oil_petroleum_imports,France,99037.0
+2018,oil_petroleum_imports,France,95544.795
+2019,oil_petroleum_imports,France,93585.013
+2020,oil_petroleum_imports,France,76639.108
+total,oil_petroleum_imports,France,970694.916
+2011,oil_petroleum_imports,Croatia,4550.0
+2012,oil_petroleum_imports,Croatia,4033.0
+2013,oil_petroleum_imports,Croatia,4051.0
+2014,oil_petroleum_imports,Croatia,3932.0
+2015,oil_petroleum_imports,Croatia,4521.0
+2016,oil_petroleum_imports,Croatia,4674.0
+2017,oil_petroleum_imports,Croatia,5195.566
+2018,oil_petroleum_imports,Croatia,5208.761
+2019,oil_petroleum_imports,Croatia,4854.62
+2020,oil_petroleum_imports,Croatia,4441.46
+total,oil_petroleum_imports,Croatia,45461.407
+2011,oil_petroleum_imports,Italy,90225.0
+2012,oil_petroleum_imports,Italy,85711.0
+2013,oil_petroleum_imports,Italy,77952.0
+2014,oil_petroleum_imports,Italy,71291.0
+2015,oil_petroleum_imports,Italy,80536.0
+2016,oil_petroleum_imports,Italy,81483.0
+2017,oil_petroleum_imports,Italy,84683.976
+2018,oil_petroleum_imports,Italy,81297.22
+2019,oil_petroleum_imports,Italy,80405.272
+2020,oil_petroleum_imports,Italy,65419.015
+total,oil_petroleum_imports,Italy,799003.483
+2011,oil_petroleum_imports,Cyprus,2663.0
+2012,oil_petroleum_imports,Cyprus,2630.0
+2013,oil_petroleum_imports,Cyprus,2335.0
+2014,oil_petroleum_imports,Cyprus,2299.0
+2015,oil_petroleum_imports,Cyprus,2468.0
+2016,oil_petroleum_imports,Cyprus,2625.0
+2017,oil_petroleum_imports,Cyprus,2650.977
+2018,oil_petroleum_imports,Cyprus,2600.472
+2019,oil_petroleum_imports,Cyprus,2600.191
+2020,oil_petroleum_imports,Cyprus,2264.783
+total,oil_petroleum_imports,Cyprus,25136.423
+2011,oil_petroleum_imports,Latvia,2071.0
+2012,oil_petroleum_imports,Latvia,2138.0
+2013,oil_petroleum_imports,Latvia,2300.0
+2014,oil_petroleum_imports,Latvia,2328.0
+2015,oil_petroleum_imports,Latvia,2706.0
+2016,oil_petroleum_imports,Latvia,2740.0
+2017,oil_petroleum_imports,Latvia,2541.332
+2018,oil_petroleum_imports,Latvia,2433.091
+2019,oil_petroleum_imports,Latvia,2285.69
+2020,oil_petroleum_imports,Latvia,1978.415
+total,oil_petroleum_imports,Latvia,23521.528
+2011,oil_petroleum_imports,Lithuania,10188.0
+2012,oil_petroleum_imports,Lithuania,10105.0
+2013,oil_petroleum_imports,Lithuania,10674.0
+2014,oil_petroleum_imports,Lithuania,9277.0
+2015,oil_petroleum_imports,Lithuania,11080.0
+2016,oil_petroleum_imports,Lithuania,11484.0
+2017,oil_petroleum_imports,Lithuania,11210.0
+2018,oil_petroleum_imports,Lithuania,10800.1
+2019,oil_petroleum_imports,Lithuania,10777.3
+2020,oil_petroleum_imports,Lithuania,8945.1
+total,oil_petroleum_imports,Lithuania,104540.5
+2011,oil_petroleum_imports,Luxembourg,2934.841
+2012,oil_petroleum_imports,Luxembourg,2858.574
+2013,oil_petroleum_imports,Luxembourg,2815.099
+2014,oil_petroleum_imports,Luxembourg,2729.698
+2015,oil_petroleum_imports,Luxembourg,2673.136
+2016,oil_petroleum_imports,Luxembourg,2701.236
+2017,oil_petroleum_imports,Luxembourg,2852.33
+2018,oil_petroleum_imports,Luxembourg,3000.591
+2019,oil_petroleum_imports,Luxembourg,3066.624
+2020,oil_petroleum_imports,Luxembourg,2518.374
+total,oil_petroleum_imports,Luxembourg,28150.503
+2011,oil_petroleum_imports,Hungary,8220.0
+2012,oil_petroleum_imports,Hungary,7742.0
+2013,oil_petroleum_imports,Hungary,7852.0
+2014,oil_petroleum_imports,Hungary,8938.0
+2015,oil_petroleum_imports,Hungary,9369.0
+2016,oil_petroleum_imports,Hungary,9208.0
+2017,oil_petroleum_imports,Hungary,9777.0
+2018,oil_petroleum_imports,Hungary,10810.0
+2019,oil_petroleum_imports,Hungary,10464.0
+2020,oil_petroleum_imports,Hungary,9615.0
+total,oil_petroleum_imports,Hungary,91995.0
+2011,oil_petroleum_imports,Malta,2360.0
+2012,oil_petroleum_imports,Malta,2248.0
+2013,oil_petroleum_imports,Malta,2341.0
+2014,oil_petroleum_imports,Malta,2302.0
+2015,oil_petroleum_imports,Malta,2719.0
+2016,oil_petroleum_imports,Malta,2690.0
+2017,oil_petroleum_imports,Malta,2928.125
+2018,oil_petroleum_imports,Malta,3013.974
+2019,oil_petroleum_imports,Malta,3134.905
+2020,oil_petroleum_imports,Malta,2775.947
+total,oil_petroleum_imports,Malta,26512.951
+2011,oil_petroleum_imports,Netherlands,141989.394
+2012,oil_petroleum_imports,Netherlands,146559.969
+2013,oil_petroleum_imports,Netherlands,143039.909
+2014,oil_petroleum_imports,Netherlands,140001.191
+2015,oil_petroleum_imports,Netherlands,154194.595
+2016,oil_petroleum_imports,Netherlands,154244.938
+2017,oil_petroleum_imports,Netherlands,150901.702
+2018,oil_petroleum_imports,Netherlands,149220.962
+2019,oil_petroleum_imports,Netherlands,147072.798
+2020,oil_petroleum_imports,Netherlands,130025.552
+total,oil_petroleum_imports,Netherlands,1457251.01
+2011,oil_petroleum_imports,Austria,13700.758
+2012,oil_petroleum_imports,Austria,13659.872
+2013,oil_petroleum_imports,Austria,13981.485
+2014,oil_petroleum_imports,Austria,13672.744
+2015,oil_petroleum_imports,Austria,14185.074
+2016,oil_petroleum_imports,Austria,14130.469
+2017,oil_petroleum_imports,Austria,14205.57
+2018,oil_petroleum_imports,Austria,15006.069
+2019,oil_petroleum_imports,Austria,15326.213
+2020,oil_petroleum_imports,Austria,13759.079
+total,oil_petroleum_imports,Austria,141627.333
+2011,oil_petroleum_imports,Poland,29668.0
+2012,oil_petroleum_imports,Poland,29602.0
+2013,oil_petroleum_imports,Poland,27850.0
+2014,oil_petroleum_imports,Poland,28698.0
+2015,oil_petroleum_imports,Poland,31953.0
+2016,oil_petroleum_imports,Poland,32039.0
+2017,oil_petroleum_imports,Poland,34469.138
+2018,oil_petroleum_imports,Poland,36185.728
+2019,oil_petroleum_imports,Poland,35500.528
+2020,oil_petroleum_imports,Poland,32905.738
+total,oil_petroleum_imports,Poland,318871.132
+2011,oil_petroleum_imports,Portugal,14762.0
+2012,oil_petroleum_imports,Portugal,14298.0
+2013,oil_petroleum_imports,Portugal,15851.0
+2014,oil_petroleum_imports,Portugal,14966.0
+2015,oil_petroleum_imports,Portugal,17730.0
+2016,oil_petroleum_imports,Portugal,17390.0
+2017,oil_petroleum_imports,Portugal,18030.225
+2018,oil_petroleum_imports,Portugal,16522.59
+2019,oil_petroleum_imports,Portugal,16110.788
+2020,oil_petroleum_imports,Portugal,14395.298
+total,oil_petroleum_imports,Portugal,160055.901
+2011,oil_petroleum_imports,Romania,8005.0
+2012,oil_petroleum_imports,Romania,7971.0
+2013,oil_petroleum_imports,Romania,7808.0
+2014,oil_petroleum_imports,Romania,9289.0
+2015,oil_petroleum_imports,Romania,9718.0
+2016,oil_petroleum_imports,Romania,10510.0
+2017,oil_petroleum_imports,Romania,11176.063
+2018,oil_petroleum_imports,Romania,11715.066
+2019,oil_petroleum_imports,Romania,12205.905
+2020,oil_petroleum_imports,Romania,10859.059
+total,oil_petroleum_imports,Romania,99257.093
+2011,oil_petroleum_imports,Slovenia,3270.0
+2012,oil_petroleum_imports,Slovenia,3438.0
+2013,oil_petroleum_imports,Slovenia,3260.0
+2014,oil_petroleum_imports,Slovenia,3707.0
+2015,oil_petroleum_imports,Slovenia,4035.0
+2016,oil_petroleum_imports,Slovenia,4548.0
+2017,oil_petroleum_imports,Slovenia,4719.512
+2018,oil_petroleum_imports,Slovenia,4751.938
+2019,oil_petroleum_imports,Slovenia,4881.791
+2020,oil_petroleum_imports,Slovenia,4028.87
+total,oil_petroleum_imports,Slovenia,40640.111
+2011,oil_petroleum_imports,Slovakia,7320.0
+2012,oil_petroleum_imports,Slovakia,6640.0
+2013,oil_petroleum_imports,Slovakia,7243.0
+2014,oil_petroleum_imports,Slovakia,6593.0
+2015,oil_petroleum_imports,Slovakia,7562.0
+2016,oil_petroleum_imports,Slovakia,7551.0
+2017,oil_petroleum_imports,Slovakia,7563.0
+2018,oil_petroleum_imports,Slovakia,7384.0
+2019,oil_petroleum_imports,Slovakia,7004.0
+2020,oil_petroleum_imports,Slovakia,7287.0
+total,oil_petroleum_imports,Slovakia,72147.0
+2011,oil_petroleum_imports,Finland,17122.0
+2012,oil_petroleum_imports,Finland,16445.0
+2013,oil_petroleum_imports,Finland,18094.0
+2014,oil_petroleum_imports,Finland,17681.0
+2015,oil_petroleum_imports,Finland,16179.0
+2016,oil_petroleum_imports,Finland,18083.0
+2017,oil_petroleum_imports,Finland,17576.0
+2018,oil_petroleum_imports,Finland,17547.0
+2019,oil_petroleum_imports,Finland,17695.0
+2020,oil_petroleum_imports,Finland,16819.0
+total,oil_petroleum_imports,Finland,173241.0
+2011,oil_petroleum_imports,Sweden,27114.0
+2012,oil_petroleum_imports,Sweden,27494.0
+2013,oil_petroleum_imports,Sweden,23945.0
+2014,oil_petroleum_imports,Sweden,26583.0
+2015,oil_petroleum_imports,Sweden,27920.0
+2016,oil_petroleum_imports,Sweden,30452.0
+2017,oil_petroleum_imports,Sweden,29089.0
+2018,oil_petroleum_imports,Sweden,29092.0
+2019,oil_petroleum_imports,Sweden,24815.624
+2020,oil_petroleum_imports,Sweden,27010.199
+total,oil_petroleum_imports,Sweden,273514.823
+2011,oil_petroleum_imports,Iceland,695.0
+2012,oil_petroleum_imports,Iceland,688.0
+2013,oil_petroleum_imports,Iceland,705.0
+2014,oil_petroleum_imports,Iceland,746.0
+2015,oil_petroleum_imports,Iceland,836.0
+2016,oil_petroleum_imports,Iceland,928.515
+2017,oil_petroleum_imports,Iceland,963.198
+2018,oil_petroleum_imports,Iceland,1110.614
+2019,oil_petroleum_imports,Iceland,880.878
+2020,oil_petroleum_imports,Iceland,624.505
+total,oil_petroleum_imports,Iceland,8177.71
+2014,oil_petroleum_imports,Liechtenstein,0.0
+2015,oil_petroleum_imports,Liechtenstein,0.0
+2016,oil_petroleum_imports,Liechtenstein,0.0
+2017,oil_petroleum_imports,Liechtenstein,32.0
+2018,oil_petroleum_imports,Liechtenstein,0.0
+2019,oil_petroleum_imports,Liechtenstein,32.0
+2020,oil_petroleum_imports,Liechtenstein,30.0
+total,oil_petroleum_imports,Liechtenstein,94.0
+2011,oil_petroleum_imports,Norway,5588.0
+2012,oil_petroleum_imports,Norway,5824.0
+2013,oil_petroleum_imports,Norway,6778.0
+2014,oil_petroleum_imports,Norway,5515.0
+2015,oil_petroleum_imports,Norway,6497.0
+2016,oil_petroleum_imports,Norway,6250.0
+2017,oil_petroleum_imports,Norway,7835.0
+2018,oil_petroleum_imports,Norway,9032.171
+2019,oil_petroleum_imports,Norway,9107.795
+2020,oil_petroleum_imports,Norway,9054.238
+total,oil_petroleum_imports,Norway,71481.204
+2011,oil_petroleum_imports,United Kingdom,80624.0
+2012,oil_petroleum_imports,United Kingdom,86629.0
+2013,oil_petroleum_imports,United Kingdom,87009.0
+2014,oil_petroleum_imports,United Kingdom,83039.0
+2015,oil_petroleum_imports,United Kingdom,82833.528
+2016,oil_petroleum_imports,United Kingdom,83927.278
+2017,oil_petroleum_imports,United Kingdom,87745.83
+2018,oil_petroleum_imports,United Kingdom,87924.631
+2019,oil_petroleum_imports,United Kingdom,85632.096
+total,oil_petroleum_imports,United Kingdom,765364.363
+2011,oil_petroleum_imports,Montenegro,316.0
+2012,oil_petroleum_imports,Montenegro,294.0
+2013,oil_petroleum_imports,Montenegro,286.0
+2014,oil_petroleum_imports,Montenegro,294.0
+2015,oil_petroleum_imports,Montenegro,302.0
+2016,oil_petroleum_imports,Montenegro,357.0
+2017,oil_petroleum_imports,Montenegro,402.6
+2018,oil_petroleum_imports,Montenegro,420.3
+2019,oil_petroleum_imports,Montenegro,425.5
+2020,oil_petroleum_imports,Montenegro,324.6
+total,oil_petroleum_imports,Montenegro,3422.0
+2011,oil_petroleum_imports,North Macedonia,1331.0
+2012,oil_petroleum_imports,North Macedonia,1252.0
+2013,oil_petroleum_imports,North Macedonia,1063.0
+2014,oil_petroleum_imports,North Macedonia,1099.0
+2015,oil_petroleum_imports,North Macedonia,1142.0
+2016,oil_petroleum_imports,North Macedonia,1212.916
+2017,oil_petroleum_imports,North Macedonia,1117.123
+2018,oil_petroleum_imports,North Macedonia,1095.695
+2019,oil_petroleum_imports,North Macedonia,1251.111
+2020,oil_petroleum_imports,North Macedonia,1149.499
+total,oil_petroleum_imports,North Macedonia,11713.344
+2011,oil_petroleum_imports,Albania,1170.0
+2012,oil_petroleum_imports,Albania,982.0
+2013,oil_petroleum_imports,Albania,1498.0
+2014,oil_petroleum_imports,Albania,1485.0
+2015,oil_petroleum_imports,Albania,1193.0
+2016,oil_petroleum_imports,Albania,1208.0
+2017,oil_petroleum_imports,Albania,1142.24
+2018,oil_petroleum_imports,Albania,1075.33
+2019,oil_petroleum_imports,Albania,1130.388
+2020,oil_petroleum_imports,Albania,1103.694
+total,oil_petroleum_imports,Albania,11987.652
+2011,oil_petroleum_imports,Serbia,2951.0
+2012,oil_petroleum_imports,Serbia,2423.0
+2013,oil_petroleum_imports,Serbia,2535.0
+2014,oil_petroleum_imports,Serbia,2620.0
+2015,oil_petroleum_imports,Serbia,2889.0
+2016,oil_petroleum_imports,Serbia,3357.0
+2017,oil_petroleum_imports,Serbia,3581.823
+2018,oil_petroleum_imports,Serbia,3695.747
+2019,oil_petroleum_imports,Serbia,3597.091
+2020,oil_petroleum_imports,Serbia,3532.23
+total,oil_petroleum_imports,Serbia,31181.891
+2011,oil_petroleum_imports,Turkey,36081.0
+2012,oil_petroleum_imports,Turkey,39804.0
+2013,oil_petroleum_imports,Turkey,40074.0
+2014,oil_petroleum_imports,Turkey,39925.0
+2015,oil_petroleum_imports,Turkey,48475.0
+2016,oil_petroleum_imports,Turkey,49736.0
+2017,oil_petroleum_imports,Turkey,52304.0
+2018,oil_petroleum_imports,Turkey,48573.0
+2019,oil_petroleum_imports,Turkey,52010.0
+2020,oil_petroleum_imports,Turkey,47592.314
+total,oil_petroleum_imports,Turkey,454574.314
+2014,oil_petroleum_imports,Bosnia and Herzegovina,1691.0
+2015,oil_petroleum_imports,Bosnia and Herzegovina,1807.0
+2016,oil_petroleum_imports,Bosnia and Herzegovina,1999.0
+2017,oil_petroleum_imports,Bosnia and Herzegovina,1946.0
+2018,oil_petroleum_imports,Bosnia and Herzegovina,1825.219
+2019,oil_petroleum_imports,Bosnia and Herzegovina,1553.437
+2020,oil_petroleum_imports,Bosnia and Herzegovina,1520.592
+total,oil_petroleum_imports,Bosnia and Herzegovina,12342.248
+2011,oil_petroleum_imports,Kosovo (under United Nations Security Council Resolution 1244/99),637.0
+2012,oil_petroleum_imports,Kosovo (under United Nations Security Council Resolution 1244/99),587.0
+2013,oil_petroleum_imports,Kosovo (under United Nations Security Council Resolution 1244/99),599.0
+2014,oil_petroleum_imports,Kosovo (under United Nations Security Council Resolution 1244/99),558.0
+2015,oil_petroleum_imports,Kosovo (under United Nations Security Council Resolution 1244/99),704.0
+2016,oil_petroleum_imports,Kosovo (under United Nations Security Council Resolution 1244/99),683.0
+2017,oil_petroleum_imports,Kosovo (under United Nations Security Council Resolution 1244/99),759.711
+2018,oil_petroleum_imports,Kosovo (under United Nations Security Council Resolution 1244/99),763.946
+2019,oil_petroleum_imports,Kosovo (under United Nations Security Council Resolution 1244/99),800.672
+2020,oil_petroleum_imports,Kosovo (under United Nations Security Council Resolution 1244/99),774.81
+total,oil_petroleum_imports,Kosovo (under United Nations Security Council Resolution 1244/99),6867.139
+2011,oil_petroleum_imports,Moldova,803.0
+2012,oil_petroleum_imports,Moldova,745.0
+2013,oil_petroleum_imports,Moldova,790.0
+2014,oil_petroleum_imports,Moldova,781.0
+2015,oil_petroleum_imports,Moldova,831.0
+2016,oil_petroleum_imports,Moldova,899.0
+2017,oil_petroleum_imports,Moldova,937.0
+2018,oil_petroleum_imports,Moldova,1014.7
+2019,oil_petroleum_imports,Moldova,1014.6
+2020,oil_petroleum_imports,Moldova,958.3
+total,oil_petroleum_imports,Moldova,8773.6
+2011,oil_petroleum_imports,Ukraine,13350.0
+2012,oil_petroleum_imports,Ukraine,9796.0
+2013,oil_petroleum_imports,Ukraine,7910.0
+2014,oil_petroleum_imports,Ukraine,8111.0
+2015,oil_petroleum_imports,Ukraine,7976.0
+2016,oil_petroleum_imports,Ukraine,9461.0
+2017,oil_petroleum_imports,Ukraine,10625.0
+2018,oil_petroleum_imports,Ukraine,11310.75
+2019,oil_petroleum_imports,Ukraine,11501.9
+2020,oil_petroleum_imports,Ukraine,11716.2
+total,oil_petroleum_imports,Ukraine,101757.85
+2013,oil_petroleum_imports,Georgia,1064.0
+2014,oil_petroleum_imports,Georgia,1130.0
+2015,oil_petroleum_imports,Georgia,1479.0
+2016,oil_petroleum_imports,Georgia,1550.0
+2017,oil_petroleum_imports,Georgia,1590.2
+2018,oil_petroleum_imports,Georgia,1453.38
+2019,oil_petroleum_imports,Georgia,1433.488
+2020,oil_petroleum_imports,Georgia,1354.653
+total,oil_petroleum_imports,Georgia,11054.721
+2011,gas_imports,Belgium,21840.0
+2012,gas_imports,Belgium,18922.0
+2013,gas_imports,Belgium,19155.0
+2014,gas_imports,Belgium,16845.8
+2015,gas_imports,Belgium,18766.1
+2016,gas_imports,Belgium,18232.8
+2017,gas_imports,Belgium,17865.9
+2018,gas_imports,Belgium,19799.8
+2019,gas_imports,Belgium,23227.3
+2020,gas_imports,Belgium,21665.7
+total,gas_imports,Belgium,196320.4
+2011,gas_imports,Bulgaria,2764.0
+2012,gas_imports,Bulgaria,2485.0
+2013,gas_imports,Bulgaria,2698.0
+2014,gas_imports,Bulgaria,2683.0
+2015,gas_imports,Bulgaria,3010.0
+2016,gas_imports,Bulgaria,3094.0
+2017,gas_imports,Bulgaria,3268.781
+2018,gas_imports,Bulgaria,3115.07
+2019,gas_imports,Bulgaria,2949.968
+2020,gas_imports,Bulgaria,2925.938
+total,gas_imports,Bulgaria,28993.757
+2011,gas_imports,Czechia,9321.0
+2012,gas_imports,Czechia,7471.0
+2013,gas_imports,Czechia,8468.0
+2014,gas_imports,Czechia,7249.0
+2015,gas_imports,Czechia,7474.0
+2016,gas_imports,Czechia,8123.0
+2017,gas_imports,Czechia,8889.0
+2018,gas_imports,Czechia,8007.991
+2019,gas_imports,Czechia,9533.193
+2020,gas_imports,Czechia,7589.967
+total,gas_imports,Czechia,82126.151
+2011,gas_imports,Denmark,841.0
+2012,gas_imports,Denmark,918.0
+2013,gas_imports,Denmark,1363.0
+2014,gas_imports,Denmark,624.999
+2015,gas_imports,Denmark,661.672
+2016,gas_imports,Denmark,683.855
+2017,gas_imports,Denmark,520.291
+2018,gas_imports,Denmark,389.005
+2019,gas_imports,Denmark,1138.958
+2020,gas_imports,Denmark,2666.482
+total,gas_imports,Denmark,9807.262
+2011,gas_imports,Germany (until 1990 former territory of the FRG),89645.0
+2012,gas_imports,Germany (until 1990 former territory of the FRG),88401.0
+2013,gas_imports,Germany (until 1990 former territory of the FRG),97777.0
+2014,gas_imports,Germany (until 1990 former territory of the FRG),89896.0
+2015,gas_imports,Germany (until 1990 former territory of the FRG),102517.0
+2016,gas_imports,Germany (until 1990 former territory of the FRG),97379.0
+2017,gas_imports,Germany (until 1990 former territory of the FRG),118694.443
+2018,gas_imports,Germany (until 1990 former territory of the FRG),88347.545
+2019,gas_imports,Germany (until 1990 former territory of the FRG),94786.76
+2020,gas_imports,Germany (until 1990 former territory of the FRG),80439.019
+total,gas_imports,Germany (until 1990 former territory of the FRG),947882.767
+2011,gas_imports,Estonia,632.0
+2012,gas_imports,Estonia,657.0
+2013,gas_imports,Estonia,678.0
+2014,gas_imports,Estonia,530.0
+2015,gas_imports,Estonia,471.0
+2016,gas_imports,Estonia,518.0
+2017,gas_imports,Estonia,510.0
+2018,gas_imports,Estonia,524.0
+2019,gas_imports,Estonia,485.7
+2020,gas_imports,Estonia,447.0
+total,gas_imports,Estonia,5452.7
+2011,gas_imports,Ireland,4631.781
+2012,gas_imports,Ireland,4521.807
+2013,gas_imports,Ireland,4371.0
+2014,gas_imports,Ireland,4245.621
+2015,gas_imports,Ireland,4234.0
+2016,gas_imports,Ireland,2004.0
+2017,gas_imports,Ireland,1652.587
+2018,gas_imports,Ireland,2040.651
+2019,gas_imports,Ireland,2852.223
+2020,gas_imports,Ireland,3437.0
+total,gas_imports,Ireland,33990.67
+2011,gas_imports,Greece,4759.0
+2012,gas_imports,Greece,4377.0
+2013,gas_imports,Greece,3864.0
+2014,gas_imports,Greece,2931.0
+2015,gas_imports,Greece,3162.0
+2016,gas_imports,Greece,4067.0
+2017,gas_imports,Greece,4975.095
+2018,gas_imports,Greece,4902.13
+2019,gas_imports,Greece,5221.617
+2020,gas_imports,Greece,5902.732
+total,gas_imports,Greece,44161.574
+2011,gas_imports,Spain,35489.0
+2012,gas_imports,Spain,35062.0
+2013,gas_imports,Spain,35489.0
+2014,gas_imports,Spain,36384.0
+2015,gas_imports,Spain,32391.0
+2016,gas_imports,Spain,32405.0
+2017,gas_imports,Spain,34626.0
+2018,gas_imports,Spain,34817.0
+2019,gas_imports,Spain,37209.0
+2020,gas_imports,Spain,32485.0
+total,gas_imports,Spain,346357.0
+2011,gas_imports,France,50036.882
+2012,gas_imports,France,48060.439
+2013,gas_imports,France,48205.567
+2014,gas_imports,France,45436.533
+2015,gas_imports,France,44487.899
+2016,gas_imports,France,46536.484
+2017,gas_imports,France,48638.995
+2018,gas_imports,France,49442.32
+2019,gas_imports,France,54948.085
+2020,gas_imports,France,46321.129
+total,gas_imports,France,482114.333
+2011,gas_imports,Croatia,876.0
+2012,gas_imports,Croatia,1358.0
+2013,gas_imports,Croatia,1270.0
+2014,gas_imports,Croatia,1133.0
+2015,gas_imports,Croatia,1050.0
+2016,gas_imports,Croatia,1265.0
+2017,gas_imports,Croatia,1818.3
+2018,gas_imports,Croatia,1589.2
+2019,gas_imports,Croatia,2003.4
+2020,gas_imports,Croatia,2143.7
+total,gas_imports,Croatia,14506.6
+2011,gas_imports,Italy,70369.0
+2012,gas_imports,Italy,67725.0
+2013,gas_imports,Italy,61966.0
+2014,gas_imports,Italy,55757.0
+2015,gas_imports,Italy,61266.0
+2016,gas_imports,Italy,65284.0
+2017,gas_imports,Italy,69650.038
+2018,gas_imports,Italy,67872.446
+2019,gas_imports,Italy,71065.255
+2020,gas_imports,Italy,66392.83
+total,gas_imports,Italy,657347.569
+2011,gas_imports,Cyprus,0.0
+2012,gas_imports,Cyprus,0.0
+2013,gas_imports,Cyprus,0.0
+2014,gas_imports,Cyprus,0.0
+2015,gas_imports,Cyprus,0.0
+2016,gas_imports,Cyprus,0.0
+2017,gas_imports,Cyprus,0.0
+2018,gas_imports,Cyprus,0.0
+2019,gas_imports,Cyprus,0.0
+2020,gas_imports,Cyprus,0.0
+total,gas_imports,Cyprus,0.0
+2011,gas_imports,Latvia,1755.0
+2012,gas_imports,Latvia,1716.0
+2013,gas_imports,Latvia,1698.0
+2014,gas_imports,Latvia,947.0
+2015,gas_imports,Latvia,1306.0
+2016,gas_imports,Latvia,1132.0
+2017,gas_imports,Latvia,1242.66
+2018,gas_imports,Latvia,1414.807
+2019,gas_imports,Latvia,1353.952
+2020,gas_imports,Latvia,1114.949
+total,gas_imports,Latvia,13680.368
+2011,gas_imports,Lithuania,3349.0
+2012,gas_imports,Lithuania,3263.0
+2013,gas_imports,Lithuania,2661.0
+2014,gas_imports,Lithuania,2640.0
+2015,gas_imports,Lithuania,2588.0
+2016,gas_imports,Lithuania,2258.0
+2017,gas_imports,Lithuania,2501.0
+2018,gas_imports,Lithuania,2295.0
+2019,gas_imports,Lithuania,2749.0
+2020,gas_imports,Lithuania,2862.1
+total,gas_imports,Lithuania,27166.1
+2011,gas_imports,Luxembourg,1182.713
+2012,gas_imports,Luxembourg,1209.871
+2013,gas_imports,Luxembourg,1030.15
+2014,gas_imports,Luxembourg,972.772
+2015,gas_imports,Luxembourg,874.777
+2016,gas_imports,Luxembourg,803.881
+2017,gas_imports,Luxembourg,784.763
+2018,gas_imports,Luxembourg,778.526
+2019,gas_imports,Luxembourg,779.366
+2020,gas_imports,Luxembourg,703.545
+total,gas_imports,Luxembourg,9120.364
+2011,gas_imports,Hungary,8019.0
+2012,gas_imports,Hungary,8173.0
+2013,gas_imports,Hungary,8176.0
+2014,gas_imports,Hungary,8942.0
+2015,gas_imports,Hungary,6790.0
+2016,gas_imports,Hungary,8619.0
+2017,gas_imports,Hungary,13367.0
+2018,gas_imports,Hungary,12746.0
+2019,gas_imports,Hungary,18647.0
+2020,gas_imports,Hungary,12193.0
+total,gas_imports,Hungary,105672.0
+2011,gas_imports,Malta,0.0
+2012,gas_imports,Malta,0.0
+2013,gas_imports,Malta,0.0
+2014,gas_imports,Malta,0.0
+2015,gas_imports,Malta,0.0
+2016,gas_imports,Malta,0.0
+2017,gas_imports,Malta,301.825
+2018,gas_imports,Malta,378.707
+2019,gas_imports,Malta,379.422
+2020,gas_imports,Malta,364.182
+total,gas_imports,Malta,1424.136
+2011,gas_imports,Netherlands,23979.0
+2012,gas_imports,Netherlands,28042.0
+2013,gas_imports,Netherlands,30432.0
+2014,gas_imports,Netherlands,31151.0
+2015,gas_imports,Netherlands,40687.738
+2016,gas_imports,Netherlands,45901.02
+2017,gas_imports,Netherlands,54235.158
+2018,gas_imports,Netherlands,60893.798
+2019,gas_imports,Netherlands,59287.722
+2020,gas_imports,Netherlands,59800.177
+total,gas_imports,Netherlands,434409.613
+2011,gas_imports,Austria,13381.378
+2012,gas_imports,Austria,14171.632
+2013,gas_imports,Austria,10379.164
+2014,gas_imports,Austria,10119.522
+2015,gas_imports,Austria,11890.337
+2016,gas_imports,Austria,14434.033
+2017,gas_imports,Austria,13923.121
+2018,gas_imports,Austria,13055.236
+2019,gas_imports,Austria,14191.254
+2020,gas_imports,Austria,16455.858
+total,gas_imports,Austria,132001.535
+2011,gas_imports,Poland,11790.0
+2012,gas_imports,Poland,12248.0
+2013,gas_imports,Poland,12485.0
+2014,gas_imports,Poland,11819.0
+2015,gas_imports,Poland,12121.0
+2016,gas_imports,Poland,14679.0
+2017,gas_imports,Poland,15727.284
+2018,gas_imports,Poland,15766.858
+2019,gas_imports,Poland,17451.368
+2020,gas_imports,Poland,17415.952
+total,gas_imports,Poland,141503.462
+2011,gas_imports,Portugal,5184.0
+2012,gas_imports,Portugal,4508.0
+2013,gas_imports,Portugal,4401.0
+2014,gas_imports,Portugal,4070.0
+2015,gas_imports,Portugal,4713.0
+2016,gas_imports,Portugal,4945.0
+2017,gas_imports,Portugal,6274.734
+2018,gas_imports,Portugal,5817.658
+2019,gas_imports,Portugal,6069.167
+2020,gas_imports,Portugal,5904.762
+total,gas_imports,Portugal,51887.321
+2011,gas_imports,Romania,3092.0
+2012,gas_imports,Romania,2884.0
+2013,gas_imports,Romania,1463.0
+2014,gas_imports,Romania,584.0
+2015,gas_imports,Romania,203.0
+2016,gas_imports,Romania,1476.0
+2017,gas_imports,Romania,1195.694
+2018,gas_imports,Romania,1516.552
+2019,gas_imports,Romania,2681.072
+2020,gas_imports,Romania,2144.357
+total,gas_imports,Romania,17239.675
+2011,gas_imports,Slovenia,904.0
+2012,gas_imports,Slovenia,870.0
+2013,gas_imports,Slovenia,847.0
+2014,gas_imports,Slovenia,766.0
+2015,gas_imports,Slovenia,813.0
+2016,gas_imports,Slovenia,861.0
+2017,gas_imports,Slovenia,902.5
+2018,gas_imports,Slovenia,885.2
+2019,gas_imports,Slovenia,898.7
+2020,gas_imports,Slovenia,898.1
+total,gas_imports,Slovenia,8645.5
+2011,gas_imports,Slovakia,5907.0
+2012,gas_imports,Slovakia,4801.0
+2013,gas_imports,Slovakia,5269.0
+2014,gas_imports,Slovakia,4757.0
+2015,gas_imports,Slovakia,4407.0
+2016,gas_imports,Slovakia,4378.0
+2017,gas_imports,Slovakia,5248.0
+2018,gas_imports,Slovakia,4396.0
+2019,gas_imports,Slovakia,6707.0
+2020,gas_imports,Slovakia,4301.0
+total,gas_imports,Slovakia,50171.0
+2011,gas_imports,Finland,4121.0
+2012,gas_imports,Finland,3684.0
+2013,gas_imports,Finland,3488.0
+2014,gas_imports,Finland,3063.0
+2015,gas_imports,Finland,2713.0
+2016,gas_imports,Finland,2496.0
+2017,gas_imports,Finland,2322.0
+2018,gas_imports,Finland,2641.0
+2019,gas_imports,Finland,2594.0
+2020,gas_imports,Finland,2568.0
+total,gas_imports,Finland,29690.0
+2011,gas_imports,Sweden,1302.0
+2012,gas_imports,Sweden,1130.0
+2013,gas_imports,Sweden,1085.0
+2014,gas_imports,Sweden,891.0
+2015,gas_imports,Sweden,812.0
+2016,gas_imports,Sweden,917.0
+2017,gas_imports,Sweden,1067.0
+2018,gas_imports,Sweden,1139.0
+2019,gas_imports,Sweden,1088.537
+2020,gas_imports,Sweden,1446.88
+total,gas_imports,Sweden,10878.417
+2011,gas_imports,Iceland,0.0
+2012,gas_imports,Iceland,0.0
+2013,gas_imports,Iceland,0.0
+2014,gas_imports,Iceland,0.0
+2015,gas_imports,Iceland,0.0
+2016,gas_imports,Iceland,0.0
+2017,gas_imports,Iceland,0.0
+2018,gas_imports,Iceland,0.0
+2019,gas_imports,Iceland,0.0
+2020,gas_imports,Iceland,0.0
+total,gas_imports,Iceland,0.0
+2019,gas_imports,Liechtenstein,0.0
+2020,gas_imports,Liechtenstein,25.019
+total,gas_imports,Liechtenstein,25.019
+2011,gas_imports,Norway,1.4
+2012,gas_imports,Norway,0.6
+2013,gas_imports,Norway,0.0
+2014,gas_imports,Norway,0.0
+2015,gas_imports,Norway,0.0
+2016,gas_imports,Norway,0.0
+2017,gas_imports,Norway,0.0
+2018,gas_imports,Norway,9.191
+2019,gas_imports,Norway,26.913
+2020,gas_imports,Norway,33.822
+total,gas_imports,Norway,71.926
+2011,gas_imports,United Kingdom,54622.0
+2012,gas_imports,United Kingdom,50716.0
+2013,gas_imports,United Kingdom,49309.0
+2014,gas_imports,United Kingdom,43820.0
+2015,gas_imports,United Kingdom,45276.153
+2016,gas_imports,United Kingdom,48243.028
+2017,gas_imports,United Kingdom,47155.774
+2018,gas_imports,United Kingdom,47160.385
+2019,gas_imports,United Kingdom,47380.347
+total,gas_imports,United Kingdom,433682.687
+2011,gas_imports,Montenegro,0.0
+2012,gas_imports,Montenegro,0.0
+2013,gas_imports,Montenegro,0.0
+2014,gas_imports,Montenegro,0.0
+2015,gas_imports,Montenegro,0.0
+2016,gas_imports,Montenegro,0.0
+2017,gas_imports,Montenegro,0.0
+2018,gas_imports,Montenegro,0.0
+2019,gas_imports,Montenegro,0.0
+2020,gas_imports,Montenegro,0.0
+total,gas_imports,Montenegro,0.0
+2011,gas_imports,North Macedonia,134.0
+2012,gas_imports,North Macedonia,139.0
+2013,gas_imports,North Macedonia,157.0
+2014,gas_imports,North Macedonia,134.0
+2015,gas_imports,North Macedonia,135.0
+2016,gas_imports,North Macedonia,211.0
+2017,gas_imports,North Macedonia,271.0
+2018,gas_imports,North Macedonia,251.0
+2019,gas_imports,North Macedonia,292.0
+2020,gas_imports,North Macedonia,334.0
+total,gas_imports,North Macedonia,2058.0
+2011,gas_imports,Albania,0.0
+2012,gas_imports,Albania,0.0
+2013,gas_imports,Albania,0.0
+2014,gas_imports,Albania,0.0
+2015,gas_imports,Albania,0.0
+2016,gas_imports,Albania,0.0
+2017,gas_imports,Albania,0.0
+2018,gas_imports,Albania,0.0
+2019,gas_imports,Albania,0.0
+2020,gas_imports,Albania,0.0
+total,gas_imports,Albania,0.0
+2011,gas_imports,Serbia,1747.0
+2012,gas_imports,Serbia,1790.0
+2013,gas_imports,Serbia,1887.0
+2014,gas_imports,Serbia,1395.0
+2015,gas_imports,Serbia,1740.0
+2016,gas_imports,Serbia,1795.0
+2017,gas_imports,Serbia,2182.632
+2018,gas_imports,Serbia,2198.33
+2019,gas_imports,Serbia,2262.61
+2020,gas_imports,Serbia,1989.886
+total,gas_imports,Serbia,18987.458
+2011,gas_imports,Turkey,43878.0
+2012,gas_imports,Turkey,45922.0
+2013,gas_imports,Turkey,45270.0
+2014,gas_imports,Turkey,49262.0
+2015,gas_imports,Turkey,48427.0
+2016,gas_imports,Turkey,46352.0
+2017,gas_imports,Turkey,55250.0
+2018,gas_imports,Turkey,50282.0
+2019,gas_imports,Turkey,45212.0
+2020,gas_imports,Turkey,48125.771
+total,gas_imports,Turkey,477980.771
+2014,gas_imports,Bosnia and Herzegovina,186.0
+2015,gas_imports,Bosnia and Herzegovina,218.0
+2016,gas_imports,Bosnia and Herzegovina,227.0
+2017,gas_imports,Bosnia and Herzegovina,245.0
+2018,gas_imports,Bosnia and Herzegovina,244.604
+2019,gas_imports,Bosnia and Herzegovina,230.98
+2020,gas_imports,Bosnia and Herzegovina,210.686
+total,gas_imports,Bosnia and Herzegovina,1562.27
+2011,gas_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+2012,gas_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+2013,gas_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+2014,gas_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+2015,gas_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+2016,gas_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+2017,gas_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+2018,gas_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+2019,gas_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+2020,gas_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+total,gas_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+2011,gas_imports,Moldova,1152.0
+2012,gas_imports,Moldova,1095.0
+2013,gas_imports,Moldova,1031.0
+2014,gas_imports,Moldova,1053.0
+2015,gas_imports,Moldova,1008.0
+2016,gas_imports,Moldova,1038.0
+2017,gas_imports,Moldova,1033.482
+2018,gas_imports,Moldova,1129.7
+2019,gas_imports,Moldova,1039.6
+2020,gas_imports,Moldova,1056.0
+total,gas_imports,Moldova,10635.782
+2011,gas_imports,Ukraine,44037.0
+2012,gas_imports,Ukraine,32365.0
+2013,gas_imports,Ukraine,27495.0
+2014,gas_imports,Ukraine,19134.0
+2015,gas_imports,Ukraine,16174.0
+2016,gas_imports,Ukraine,10719.0
+2017,gas_imports,Ukraine,13705.0
+2018,gas_imports,Ukraine,10293.0
+2019,gas_imports,Ukraine,11567.481
+2020,gas_imports,Ukraine,8988.0
+total,gas_imports,Ukraine,194477.481
+2013,gas_imports,Georgia,1968.244
+2014,gas_imports,Georgia,2243.343
+2015,gas_imports,Georgia,2554.059
+2016,gas_imports,Georgia,2310.694
+2017,gas_imports,Georgia,2390.407
+2018,gas_imports,Georgia,2357.087
+2019,gas_imports,Georgia,2685.768
+2020,gas_imports,Georgia,2690.837
+total,gas_imports,Georgia,19200.439
+2011,Belgium,gas_exports,3959.0
+2012,Belgium,gas_exports,1268.0
+2013,Belgium,gas_exports,932.0
+2014,Belgium,gas_exports,817.8
+2015,Belgium,gas_exports,1671.0
+2016,Belgium,gas_exports,685.0
+2017,Belgium,gas_exports,313.0
+2018,Belgium,gas_exports,1338.3
+2019,Belgium,gas_exports,4399.5
+2020,Belgium,gas_exports,3423.5
+total,Belgium,gas_exports,18807.1
+2011,Bulgaria,gas_exports,0.0
+2012,Bulgaria,gas_exports,0.0
+2013,Bulgaria,gas_exports,0.0
+2014,Bulgaria,gas_exports,2.0
+2015,Bulgaria,gas_exports,2.0
+2016,Bulgaria,gas_exports,3.0
+2017,Bulgaria,gas_exports,31.931
+2018,Bulgaria,gas_exports,12.527
+2019,Bulgaria,gas_exports,7.626
+2020,Bulgaria,gas_exports,10.354
+total,Bulgaria,gas_exports,69.438
+2011,Czechia,gas_exports,167.0
+2012,Czechia,gas_exports,7.0
+2013,Czechia,gas_exports,8.0
+2014,Czechia,gas_exports,1.0
+2015,Czechia,gas_exports,0.0
+2016,Czechia,gas_exports,0.0
+2017,Czechia,gas_exports,0.0
+2018,Czechia,gas_exports,0.0
+2019,Czechia,gas_exports,0.0
+2020,Czechia,gas_exports,0.0
+total,Czechia,gas_exports,183.0
+2011,Denmark,gas_exports,3125.0
+2012,Denmark,gas_exports,2986.0
+2013,Denmark,gas_exports,2236.0
+2014,Denmark,gas_exports,2093.127
+2015,Denmark,gas_exports,2191.762
+2016,Denmark,gas_exports,2413.381
+2017,Denmark,gas_exports,2235.52
+2018,Denmark,gas_exports,1536.782
+2019,Denmark,gas_exports,1343.824
+2020,Denmark,gas_exports,1714.324
+total,Denmark,gas_exports,21875.72
+2011,Germany (until 1990 former territory of the FRG),gas_exports,17604.0
+2012,Germany (until 1990 former territory of the FRG),gas_exports,17017.0
+2013,Germany (until 1990 former territory of the FRG),gas_exports,21961.0
+2014,Germany (until 1990 former territory of the FRG),gas_exports,22274.0
+2015,Germany (until 1990 former territory of the FRG),gas_exports,32506.0
+2016,Germany (until 1990 former territory of the FRG),gas_exports,23062.0
+2017,Germany (until 1990 former territory of the FRG),gas_exports,32097.184
+2018,Germany (until 1990 former territory of the FRG),gas_exports,0.0
+2019,Germany (until 1990 former territory of the FRG),gas_exports,0.0
+2020,Germany (until 1990 former territory of the FRG),gas_exports,0.0
+total,Germany (until 1990 former territory of the FRG),gas_exports,166521.184
+2011,Estonia,gas_exports,0.0
+2012,Estonia,gas_exports,0.0
+2013,Estonia,gas_exports,0.0
+2014,Estonia,gas_exports,0.0
+2015,Estonia,gas_exports,0.0
+2016,Estonia,gas_exports,0.0
+2017,Estonia,gas_exports,0.0
+2018,Estonia,gas_exports,0.0
+2019,Estonia,gas_exports,0.0
+2020,Estonia,gas_exports,0.0
+total,Estonia,gas_exports,0.0
+2011,Ireland,gas_exports,0.0
+2012,Ireland,gas_exports,0.0
+2013,Ireland,gas_exports,0.0
+2014,Ireland,gas_exports,0.0
+2015,Ireland,gas_exports,0.0
+2016,Ireland,gas_exports,0.0
+2017,Ireland,gas_exports,0.0
+2018,Ireland,gas_exports,0.0
+2019,Ireland,gas_exports,0.0
+2020,Ireland,gas_exports,0.0
+total,Ireland,gas_exports,0.0
+2011,Greece,gas_exports,0.0
+2012,Greece,gas_exports,0.0
+2013,Greece,gas_exports,0.0
+2014,Greece,gas_exports,0.0
+2015,Greece,gas_exports,0.0
+2016,Greece,gas_exports,0.0
+2017,Greece,gas_exports,0.0
+2018,Greece,gas_exports,0.0
+2019,Greece,gas_exports,15.864
+2020,Greece,gas_exports,33.24
+total,Greece,gas_exports,49.104
+2011,Spain,gas_exports,1698.0
+2012,Spain,gas_exports,2795.0
+2013,Spain,gas_exports,5832.0
+2014,Spain,gas_exports,8219.0
+2015,Spain,gas_exports,5060.0
+2016,Spain,gas_exports,3986.0
+2017,Spain,gas_exports,2880.0
+2018,Spain,gas_exports,3247.0
+2019,Spain,gas_exports,1124.0
+2020,Spain,gas_exports,1171.0
+total,Spain,gas_exports,36012.0
+2011,France,gas_exports,6466.429
+2012,France,gas_exports,5975.172
+2013,France,gas_exports,5026.314
+2014,France,gas_exports,7076.531
+2015,France,gas_exports,5419.458
+2016,France,gas_exports,3716.586
+2017,France,gas_exports,6040.521
+2018,France,gas_exports,5925.811
+2019,France,gas_exports,10788.652
+2020,France,gas_exports,9101.766
+total,France,gas_exports,65537.24
+2011,Croatia,gas_exports,259.0
+2012,Croatia,gas_exports,257.0
+2013,Croatia,gas_exports,376.0
+2014,Croatia,gas_exports,434.0
+2015,Croatia,gas_exports,367.0
+2016,Croatia,gas_exports,389.0
+2017,Croatia,gas_exports,199.7
+2018,Croatia,gas_exports,113.3
+2019,Croatia,gas_exports,72.3
+2020,Croatia,gas_exports,52.5
+total,Croatia,gas_exports,2519.8
+2011,Italy,gas_exports,124.0
+2012,Italy,gas_exports,139.0
+2013,Italy,gas_exports,228.0
+2014,Italy,gas_exports,237.0
+2015,Italy,gas_exports,221.0
+2016,Italy,gas_exports,212.0
+2017,Italy,gas_exports,272.576
+2018,Italy,gas_exports,390.504
+2019,Italy,gas_exports,325.44
+2020,Italy,gas_exports,315.56
+total,Italy,gas_exports,2465.08
+2011,Cyprus,gas_exports,0.0
+2012,Cyprus,gas_exports,0.0
+2013,Cyprus,gas_exports,0.0
+2014,Cyprus,gas_exports,0.0
+2015,Cyprus,gas_exports,0.0
+2016,Cyprus,gas_exports,0.0
+2017,Cyprus,gas_exports,0.0
+2018,Cyprus,gas_exports,0.0
+2019,Cyprus,gas_exports,0.0
+2020,Cyprus,gas_exports,0.0
+total,Cyprus,gas_exports,0.0
+2011,Latvia,gas_exports,0.0
+2012,Latvia,gas_exports,0.0
+2013,Latvia,gas_exports,0.0
+2014,Latvia,gas_exports,0.0
+2015,Latvia,gas_exports,0.0
+2016,Latvia,gas_exports,0.0
+2017,Latvia,gas_exports,0.0
+2018,Latvia,gas_exports,0.0
+2019,Latvia,gas_exports,0.0
+2020,Latvia,gas_exports,0.0
+total,Latvia,gas_exports,0.0
+2011,Lithuania,gas_exports,0.0
+2012,Lithuania,gas_exports,0.0
+2013,Lithuania,gas_exports,0.0
+2014,Lithuania,gas_exports,1.0
+2015,Lithuania,gas_exports,96.0
+2016,Lithuania,gas_exports,44.0
+2017,Lithuania,gas_exports,206.0
+2018,Lithuania,gas_exports,181.0
+2019,Lithuania,gas_exports,518.0
+2020,Lithuania,gas_exports,518.8
+total,Lithuania,gas_exports,1564.8
+2011,Luxembourg,gas_exports,0.0
+2012,Luxembourg,gas_exports,0.0
+2013,Luxembourg,gas_exports,0.0
+2014,Luxembourg,gas_exports,0.0
+2015,Luxembourg,gas_exports,0.0
+2016,Luxembourg,gas_exports,0.0
+2017,Luxembourg,gas_exports,0.0
+2018,Luxembourg,gas_exports,0.0
+2019,Luxembourg,gas_exports,0.0
+2020,Luxembourg,gas_exports,0.0
+total,Luxembourg,gas_exports,0.0
+2011,Hungary,gas_exports,567.0
+2012,Hungary,gas_exports,835.0
+2013,Hungary,gas_exports,1462.0
+2014,Hungary,gas_exports,740.0
+2015,Hungary,gas_exports,545.0
+2016,Hungary,gas_exports,1067.0
+2017,Hungary,gas_exports,3522.0
+2018,Hungary,gas_exports,5006.0
+2019,Hungary,gas_exports,6978.0
+2020,Hungary,gas_exports,4257.0
+total,Hungary,gas_exports,24979.0
+2011,Malta,gas_exports,0.0
+2012,Malta,gas_exports,0.0
+2013,Malta,gas_exports,0.0
+2014,Malta,gas_exports,0.0
+2015,Malta,gas_exports,0.0
+2016,Malta,gas_exports,0.0
+2017,Malta,gas_exports,0.0
+2018,Malta,gas_exports,0.0
+2019,Malta,gas_exports,0.0
+2020,Malta,gas_exports,0.0
+total,Malta,gas_exports,0.0
+2011,Netherlands,gas_exports,57300.0
+2012,Netherlands,gas_exports,63539.0
+2013,Netherlands,gas_exports,70925.0
+2014,Netherlands,gas_exports,61546.0
+2015,Netherlands,gas_exports,55331.049
+2016,Netherlands,gas_exports,59645.747
+2017,Netherlands,gas_exports,56125.234
+2018,Netherlands,gas_exports,54475.855
+2019,Netherlands,gas_exports,47663.21
+2020,Netherlands,gas_exports,39974.469
+total,Netherlands,gas_exports,566525.564
+2011,Austria,gas_exports,3637.61
+2012,Austria,gas_exports,6379.451
+2013,Austria,gas_exports,3958.145
+2014,Austria,gas_exports,2410.402
+2015,Austria,gas_exports,5817.787
+2016,Austria,gas_exports,6935.148
+2017,Austria,gas_exports,5458.672
+2018,Austria,gas_exports,5224.279
+2019,Austria,gas_exports,2813.622
+2020,Austria,gas_exports,10037.315
+total,Austria,gas_exports,52672.431
+2011,Poland,gas_exports,29.0
+2012,Poland,gas_exports,3.0
+2013,Poland,gas_exports,94.0
+2014,Poland,gas_exports,76.0
+2015,Poland,gas_exports,56.0
+2016,Poland,gas_exports,886.0
+2017,Poland,gas_exports,1237.537
+2018,Poland,gas_exports,687.333
+2019,Poland,gas_exports,1328.496
+2020,Poland,gas_exports,1395.833
+total,Poland,gas_exports,5793.199
+2011,Portugal,gas_exports,0.0
+2012,Portugal,gas_exports,0.0
+2013,Portugal,gas_exports,0.0
+2014,Portugal,gas_exports,0.0
+2015,Portugal,gas_exports,0.0
+2016,Portugal,gas_exports,0.0
+2017,Portugal,gas_exports,0.0
+2018,Portugal,gas_exports,0.0
+2019,Portugal,gas_exports,0.0
+2020,Portugal,gas_exports,0.0
+total,Portugal,gas_exports,0.0
+2011,Romania,gas_exports,0.0
+2012,Romania,gas_exports,0.0
+2013,Romania,gas_exports,0.0
+2014,Romania,gas_exports,0.0
+2015,Romania,gas_exports,1.0
+2016,Romania,gas_exports,1.0
+2017,Romania,gas_exports,26.094
+2018,Romania,gas_exports,29.925
+2019,Romania,gas_exports,12.814
+2020,Romania,gas_exports,139.848
+total,Romania,gas_exports,210.681
+2011,Slovenia,gas_exports,0.0
+2012,Slovenia,gas_exports,0.0
+2013,Slovenia,gas_exports,0.0
+2014,Slovenia,gas_exports,0.0
+2015,Slovenia,gas_exports,0.0
+2016,Slovenia,gas_exports,0.0
+2017,Slovenia,gas_exports,3.599
+2018,Slovenia,gas_exports,11.021
+2019,Slovenia,gas_exports,2.01
+2020,Slovenia,gas_exports,0.0
+total,Slovenia,gas_exports,16.63
+2011,Slovakia,gas_exports,3.0
+2012,Slovakia,gas_exports,47.0
+2013,Slovakia,gas_exports,15.0
+2014,Slovakia,gas_exports,3.0
+2015,Slovakia,gas_exports,0.0
+2016,Slovakia,gas_exports,0.0
+2017,Slovakia,gas_exports,0.0
+2018,Slovakia,gas_exports,0.0
+2019,Slovakia,gas_exports,0.0
+2020,Slovakia,gas_exports,0.0
+total,Slovakia,gas_exports,68.0
+2011,Finland,gas_exports,0.0
+2012,Finland,gas_exports,0.0
+2013,Finland,gas_exports,1.0
+2014,Finland,gas_exports,0.0
+2015,Finland,gas_exports,0.0
+2016,Finland,gas_exports,0.0
+2017,Finland,gas_exports,0.0
+2018,Finland,gas_exports,0.0
+2019,Finland,gas_exports,0.0
+2020,Finland,gas_exports,0.0
+total,Finland,gas_exports,1.0
+2011,Sweden,gas_exports,0.0
+2012,Sweden,gas_exports,0.0
+2013,Sweden,gas_exports,0.0
+2014,Sweden,gas_exports,0.0
+2015,Sweden,gas_exports,0.0
+2016,Sweden,gas_exports,0.0
+2017,Sweden,gas_exports,5.0
+2018,Sweden,gas_exports,14.0
+2019,Sweden,gas_exports,23.238
+2020,Sweden,gas_exports,25.989
+total,Sweden,gas_exports,68.227
+2011,Iceland,gas_exports,0.0
+2012,Iceland,gas_exports,0.0
+2013,Iceland,gas_exports,0.0
+2014,Iceland,gas_exports,0.0
+2015,Iceland,gas_exports,0.0
+2016,Iceland,gas_exports,0.0
+2017,Iceland,gas_exports,0.0
+2018,Iceland,gas_exports,0.0
+2019,Iceland,gas_exports,0.0
+2020,Iceland,gas_exports,0.0
+total,Iceland,gas_exports,0.0
+2019,Liechtenstein,gas_exports,0.0
+2020,Liechtenstein,gas_exports,0.0
+total,Liechtenstein,gas_exports,0.0
+2011,Norway,gas_exports,100303.0
+2012,Norway,gas_exports,113383.0
+2013,Norway,gas_exports,107192.0
+2014,Norway,gas_exports,106679.0
+2015,Norway,gas_exports,114696.0
+2016,Norway,gas_exports,114644.0
+2017,Norway,gas_exports,123233.0
+2018,Norway,gas_exports,120086.43
+2019,Norway,gas_exports,113582.306
+2020,Norway,gas_exports,110921.73
+total,Norway,gas_exports,1124720.466
+2011,United Kingdom,gas_exports,15964.0
+2012,United Kingdom,gas_exports,11966.0
+2013,United Kingdom,gas_exports,8986.0
+2014,United Kingdom,gas_exports,10561.0
+2015,United Kingdom,gas_exports,13942.698
+2016,United Kingdom,gas_exports,10289.979
+2017,United Kingdom,gas_exports,11335.707
+2018,United Kingdom,gas_exports,7630.79
+2019,United Kingdom,gas_exports,8032.966
+total,United Kingdom,gas_exports,98709.14
+2011,Montenegro,gas_exports,0.0
+2012,Montenegro,gas_exports,0.0
+2013,Montenegro,gas_exports,0.0
+2014,Montenegro,gas_exports,0.0
+2015,Montenegro,gas_exports,0.0
+2016,Montenegro,gas_exports,0.0
+2017,Montenegro,gas_exports,0.0
+2018,Montenegro,gas_exports,0.0
+2019,Montenegro,gas_exports,0.0
+2020,Montenegro,gas_exports,0.0
+total,Montenegro,gas_exports,0.0
+2011,North Macedonia,gas_exports,0.0
+2012,North Macedonia,gas_exports,0.0
+2013,North Macedonia,gas_exports,0.0
+2014,North Macedonia,gas_exports,0.0
+2015,North Macedonia,gas_exports,0.0
+2016,North Macedonia,gas_exports,0.0
+2017,North Macedonia,gas_exports,0.0
+2018,North Macedonia,gas_exports,0.0
+2019,North Macedonia,gas_exports,0.0
+2020,North Macedonia,gas_exports,0.0
+total,North Macedonia,gas_exports,0.0
+2011,Albania,gas_exports,0.0
+2012,Albania,gas_exports,0.0
+2013,Albania,gas_exports,0.0
+2014,Albania,gas_exports,0.0
+2015,Albania,gas_exports,0.0
+2016,Albania,gas_exports,0.0
+2017,Albania,gas_exports,0.0
+2018,Albania,gas_exports,0.0
+2019,Albania,gas_exports,0.0
+2020,Albania,gas_exports,0.0
+total,Albania,gas_exports,0.0
+2011,Serbia,gas_exports,0.0
+2012,Serbia,gas_exports,0.0
+2013,Serbia,gas_exports,0.0
+2014,Serbia,gas_exports,0.0
+2015,Serbia,gas_exports,0.0
+2016,Serbia,gas_exports,0.0
+2017,Serbia,gas_exports,0.0
+2018,Serbia,gas_exports,0.0
+2019,Serbia,gas_exports,0.0
+2020,Serbia,gas_exports,0.0
+total,Serbia,gas_exports,0.0
+2011,Turkey,gas_exports,713.0
+2012,Turkey,gas_exports,615.0
+2013,Turkey,gas_exports,683.0
+2014,Turkey,gas_exports,633.0
+2015,Turkey,gas_exports,624.0
+2016,Turkey,gas_exports,675.0
+2017,Turkey,gas_exports,630.0
+2018,Turkey,gas_exports,674.0
+2019,Turkey,gas_exports,763.0
+2020,Turkey,gas_exports,577.31
+total,Turkey,gas_exports,6587.31
+2014,Bosnia and Herzegovina,gas_exports,0.0
+2015,Bosnia and Herzegovina,gas_exports,0.0
+2016,Bosnia and Herzegovina,gas_exports,0.0
+2017,Bosnia and Herzegovina,gas_exports,0.0
+2018,Bosnia and Herzegovina,gas_exports,0.0
+2019,Bosnia and Herzegovina,gas_exports,0.0
+2020,Bosnia and Herzegovina,gas_exports,0.0
+total,Bosnia and Herzegovina,gas_exports,0.0
+2011,Kosovo (under United Nations Security Council Resolution 1244/99),gas_exports,0.0
+2012,Kosovo (under United Nations Security Council Resolution 1244/99),gas_exports,0.0
+2013,Kosovo (under United Nations Security Council Resolution 1244/99),gas_exports,0.0
+2014,Kosovo (under United Nations Security Council Resolution 1244/99),gas_exports,0.0
+2015,Kosovo (under United Nations Security Council Resolution 1244/99),gas_exports,0.0
+2016,Kosovo (under United Nations Security Council Resolution 1244/99),gas_exports,0.0
+2017,Kosovo (under United Nations Security Council Resolution 1244/99),gas_exports,0.0
+2018,Kosovo (under United Nations Security Council Resolution 1244/99),gas_exports,0.0
+2019,Kosovo (under United Nations Security Council Resolution 1244/99),gas_exports,0.0
+2020,Kosovo (under United Nations Security Council Resolution 1244/99),gas_exports,0.0
+total,Kosovo (under United Nations Security Council Resolution 1244/99),gas_exports,0.0
+2011,Moldova,gas_exports,0.0
+2012,Moldova,gas_exports,0.0
+2013,Moldova,gas_exports,0.0
+2014,Moldova,gas_exports,0.0
+2015,Moldova,gas_exports,0.0
+2016,Moldova,gas_exports,0.0
+2017,Moldova,gas_exports,0.0
+2018,Moldova,gas_exports,0.0
+2019,Moldova,gas_exports,0.0
+2020,Moldova,gas_exports,0.0
+total,Moldova,gas_exports,0.0
+2011,Ukraine,gas_exports,0.0
+2012,Ukraine,gas_exports,0.0
+2013,Ukraine,gas_exports,0.0
+2014,Ukraine,gas_exports,0.0
+2015,Ukraine,gas_exports,0.0
+2016,Ukraine,gas_exports,0.0
+2017,Ukraine,gas_exports,0.0
+2018,Ukraine,gas_exports,0.0
+2019,Ukraine,gas_exports,0.0
+2020,Ukraine,gas_exports,0.0
+total,Ukraine,gas_exports,0.0
+2013,Georgia,gas_exports,0.0
+2014,Georgia,gas_exports,0.0
+2015,Georgia,gas_exports,98.301
+2016,Georgia,gas_exports,0.0
+2017,Georgia,gas_exports,0.0
+2018,Georgia,gas_exports,0.0
+2019,Georgia,gas_exports,0.0
+2020,Georgia,gas_exports,0.0
+total,Georgia,gas_exports,98.301
+2011,solid_fossil_fuelsl_imports,Belgium,6558.0
+2012,solid_fossil_fuelsl_imports,Belgium,5968.0
+2013,solid_fossil_fuelsl_imports,Belgium,6070.0
+2014,solid_fossil_fuelsl_imports,Belgium,5925.0
+2015,solid_fossil_fuelsl_imports,Belgium,4920.7
+2016,solid_fossil_fuelsl_imports,Belgium,4425.2
+2017,solid_fossil_fuelsl_imports,Belgium,4320.7
+2018,solid_fossil_fuelsl_imports,Belgium,4730.2
+2019,solid_fossil_fuelsl_imports,Belgium,4619.4
+2020,solid_fossil_fuelsl_imports,Belgium,3727.2
+total,solid_fossil_fuelsl_imports,Belgium,51264.4
+2011,solid_fossil_fuelsl_imports,Bulgaria,3362.0
+2012,solid_fossil_fuelsl_imports,Bulgaria,2506.0
+2013,solid_fossil_fuelsl_imports,Bulgaria,1618.0
+2014,solid_fossil_fuelsl_imports,Bulgaria,1461.0
+2015,solid_fossil_fuelsl_imports,Bulgaria,1137.0
+2016,solid_fossil_fuelsl_imports,Bulgaria,859.0
+2017,solid_fossil_fuelsl_imports,Bulgaria,960.401
+2018,solid_fossil_fuelsl_imports,Bulgaria,897.079
+2019,solid_fossil_fuelsl_imports,Bulgaria,620.281
+2020,solid_fossil_fuelsl_imports,Bulgaria,661.034
+total,solid_fossil_fuelsl_imports,Bulgaria,14081.795
+2011,solid_fossil_fuelsl_imports,Czechia,3769.0
+2012,solid_fossil_fuelsl_imports,Czechia,3501.0
+2013,solid_fossil_fuelsl_imports,Czechia,3635.0
+2014,solid_fossil_fuelsl_imports,Czechia,5585.0
+2015,solid_fossil_fuelsl_imports,Czechia,5046.0
+2016,solid_fossil_fuelsl_imports,Czechia,4718.0
+2017,solid_fossil_fuelsl_imports,Czechia,4796.189
+2018,solid_fossil_fuelsl_imports,Czechia,4758.695
+2019,solid_fossil_fuelsl_imports,Czechia,4449.049
+2020,solid_fossil_fuelsl_imports,Czechia,4318.885
+total,solid_fossil_fuelsl_imports,Czechia,44576.818
+2011,solid_fossil_fuelsl_imports,Denmark,6159.0
+2012,solid_fossil_fuelsl_imports,Denmark,4000.0
+2013,solid_fossil_fuelsl_imports,Denmark,4973.0
+2014,solid_fossil_fuelsl_imports,Denmark,4554.0
+2015,solid_fossil_fuelsl_imports,Denmark,2772.426
+2016,solid_fossil_fuelsl_imports,Denmark,2897.384
+2017,solid_fossil_fuelsl_imports,Denmark,3085.752
+2018,solid_fossil_fuelsl_imports,Denmark,2770.486
+2019,solid_fossil_fuelsl_imports,Denmark,2396.234
+2020,solid_fossil_fuelsl_imports,Denmark,1122.166
+total,solid_fossil_fuelsl_imports,Denmark,34730.448
+2011,solid_fossil_fuelsl_imports,Germany (until 1990 former territory of the FRG),51916.0
+2012,solid_fossil_fuelsl_imports,Germany (until 1990 former territory of the FRG),52479.0
+2013,solid_fossil_fuelsl_imports,Germany (until 1990 former territory of the FRG),58034.0
+2014,solid_fossil_fuelsl_imports,Germany (until 1990 former territory of the FRG),57453.0
+2015,solid_fossil_fuelsl_imports,Germany (until 1990 former territory of the FRG),57637.0
+2016,solid_fossil_fuelsl_imports,Germany (until 1990 former territory of the FRG),60327.0
+2017,solid_fossil_fuelsl_imports,Germany (until 1990 former territory of the FRG),52935.0
+2018,solid_fossil_fuelsl_imports,Germany (until 1990 former territory of the FRG),47259.772
+2019,solid_fossil_fuelsl_imports,Germany (until 1990 former territory of the FRG),43007.711
+2020,solid_fossil_fuelsl_imports,Germany (until 1990 former territory of the FRG),31280.775
+total,solid_fossil_fuelsl_imports,Germany (until 1990 former territory of the FRG),512329.258
+2011,solid_fossil_fuelsl_imports,Estonia,67.0
+2012,solid_fossil_fuelsl_imports,Estonia,82.0
+2013,solid_fossil_fuelsl_imports,Estonia,59.0
+2014,solid_fossil_fuelsl_imports,Estonia,82.0
+2015,solid_fossil_fuelsl_imports,Estonia,7.0
+2016,solid_fossil_fuelsl_imports,Estonia,23.0
+2017,solid_fossil_fuelsl_imports,Estonia,45.0
+2018,solid_fossil_fuelsl_imports,Estonia,44.0
+2019,solid_fossil_fuelsl_imports,Estonia,48.695
+2020,solid_fossil_fuelsl_imports,Estonia,3.5
+total,solid_fossil_fuelsl_imports,Estonia,461.195
+2011,solid_fossil_fuelsl_imports,Ireland,2299.244
+2012,solid_fossil_fuelsl_imports,Ireland,2242.108
+2013,solid_fossil_fuelsl_imports,Ireland,2419.634
+2014,solid_fossil_fuelsl_imports,Ireland,2023.712
+2015,solid_fossil_fuelsl_imports,Ireland,2483.368
+2016,solid_fossil_fuelsl_imports,Ireland,2043.413
+2017,solid_fossil_fuelsl_imports,Ireland,2057.261
+2018,solid_fossil_fuelsl_imports,Ireland,1428.275
+2019,solid_fossil_fuelsl_imports,Ireland,421.652
+2020,solid_fossil_fuelsl_imports,Ireland,441.615
+total,solid_fossil_fuelsl_imports,Ireland,17860.282
+2011,solid_fossil_fuelsl_imports,Greece,506.0
+2012,solid_fossil_fuelsl_imports,Greece,413.0
+2013,solid_fossil_fuelsl_imports,Greece,441.0
+2014,solid_fossil_fuelsl_imports,Greece,336.0
+2015,solid_fossil_fuelsl_imports,Greece,257.0
+2016,solid_fossil_fuelsl_imports,Greece,312.0
+2017,solid_fossil_fuelsl_imports,Greece,411.305
+2018,solid_fossil_fuelsl_imports,Greece,379.265
+2019,solid_fossil_fuelsl_imports,Greece,326.51
+2020,solid_fossil_fuelsl_imports,Greece,304.352
+total,solid_fossil_fuelsl_imports,Greece,3686.432
+2011,solid_fossil_fuelsl_imports,Spain,16333.0
+2012,solid_fossil_fuelsl_imports,Spain,22582.0
+2013,solid_fossil_fuelsl_imports,Spain,13852.0
+2014,solid_fossil_fuelsl_imports,Spain,16642.0
+2015,solid_fossil_fuelsl_imports,Spain,19072.0
+2016,solid_fossil_fuelsl_imports,Spain,14016.0
+2017,solid_fossil_fuelsl_imports,Spain,19350.0
+2018,solid_fossil_fuelsl_imports,Spain,16543.0
+2019,solid_fossil_fuelsl_imports,Spain,9427.0
+2020,solid_fossil_fuelsl_imports,Spain,4856.0
+total,solid_fossil_fuelsl_imports,Spain,152673.0
+2011,solid_fossil_fuelsl_imports,France,17502.0
+2012,solid_fossil_fuelsl_imports,France,18508.0
+2013,solid_fossil_fuelsl_imports,France,18915.0
+2014,solid_fossil_fuelsl_imports,France,14834.0
+2015,solid_fossil_fuelsl_imports,France,13984.0
+2016,solid_fossil_fuelsl_imports,France,13108.0
+2017,solid_fossil_fuelsl_imports,France,15593.812
+2018,solid_fossil_fuelsl_imports,France,14095.619
+2019,solid_fossil_fuelsl_imports,France,10984.974
+2020,solid_fossil_fuelsl_imports,France,7703.882
+total,solid_fossil_fuelsl_imports,France,145229.287
+2011,solid_fossil_fuelsl_imports,Croatia,1206.0
+2012,solid_fossil_fuelsl_imports,Croatia,949.0
+2013,solid_fossil_fuelsl_imports,Croatia,1251.0
+2014,solid_fossil_fuelsl_imports,Croatia,1019.0
+2015,solid_fossil_fuelsl_imports,Croatia,1056.0
+2016,solid_fossil_fuelsl_imports,Croatia,1119.0
+2017,solid_fossil_fuelsl_imports,Croatia,669.8
+2018,solid_fossil_fuelsl_imports,Croatia,564.2
+2019,solid_fossil_fuelsl_imports,Croatia,768.2
+2020,solid_fossil_fuelsl_imports,Croatia,639.6
+total,solid_fossil_fuelsl_imports,Croatia,9241.8
+2011,solid_fossil_fuelsl_imports,Italy,23504.0
+2012,solid_fossil_fuelsl_imports,Italy,24501.0
+2013,solid_fossil_fuelsl_imports,Italy,21066.0
+2014,solid_fossil_fuelsl_imports,Italy,21147.0
+2015,solid_fossil_fuelsl_imports,Italy,20316.0
+2016,solid_fossil_fuelsl_imports,Italy,17693.0
+2017,solid_fossil_fuelsl_imports,Italy,15920.448
+2018,solid_fossil_fuelsl_imports,Italy,14804.231
+2019,solid_fossil_fuelsl_imports,Italy,10844.556
+2020,solid_fossil_fuelsl_imports,Italy,7607.659
+total,solid_fossil_fuelsl_imports,Italy,177403.894
+2011,solid_fossil_fuelsl_imports,Cyprus,1.0
+2012,solid_fossil_fuelsl_imports,Cyprus,1.0
+2013,solid_fossil_fuelsl_imports,Cyprus,1.0
+2014,solid_fossil_fuelsl_imports,Cyprus,5.0
+2015,solid_fossil_fuelsl_imports,Cyprus,6.0
+2016,solid_fossil_fuelsl_imports,Cyprus,0.0
+2017,solid_fossil_fuelsl_imports,Cyprus,16.5
+2018,solid_fossil_fuelsl_imports,Cyprus,22.0
+2019,solid_fossil_fuelsl_imports,Cyprus,32.454
+2020,solid_fossil_fuelsl_imports,Cyprus,23.643
+total,solid_fossil_fuelsl_imports,Cyprus,108.597
+2011,solid_fossil_fuelsl_imports,Latvia,186.0
+2012,solid_fossil_fuelsl_imports,Latvia,150.0
+2013,solid_fossil_fuelsl_imports,Latvia,120.0
+2014,solid_fossil_fuelsl_imports,Latvia,85.0
+2015,solid_fossil_fuelsl_imports,Latvia,71.0
+2016,solid_fossil_fuelsl_imports,Latvia,67.0
+2017,solid_fossil_fuelsl_imports,Latvia,67.905
+2018,solid_fossil_fuelsl_imports,Latvia,81.612
+2019,solid_fossil_fuelsl_imports,Latvia,79.463
+2020,solid_fossil_fuelsl_imports,Latvia,39.767
+total,solid_fossil_fuelsl_imports,Latvia,947.747
+2011,solid_fossil_fuelsl_imports,Lithuania,414.0
+2012,solid_fossil_fuelsl_imports,Lithuania,340.0
+2013,solid_fossil_fuelsl_imports,Lithuania,440.0
+2014,solid_fossil_fuelsl_imports,Lithuania,318.0
+2015,solid_fossil_fuelsl_imports,Lithuania,240.0
+2016,solid_fossil_fuelsl_imports,Lithuania,241.0
+2017,solid_fossil_fuelsl_imports,Lithuania,290.8
+2018,solid_fossil_fuelsl_imports,Lithuania,282.4
+2019,solid_fossil_fuelsl_imports,Lithuania,302.3
+2020,solid_fossil_fuelsl_imports,Lithuania,194.1
+total,solid_fossil_fuelsl_imports,Lithuania,3062.6
+2011,solid_fossil_fuelsl_imports,Luxembourg,99.195
+2012,solid_fossil_fuelsl_imports,Luxembourg,91.738
+2013,solid_fossil_fuelsl_imports,Luxembourg,84.571
+2014,solid_fossil_fuelsl_imports,Luxembourg,94.9
+2015,solid_fossil_fuelsl_imports,Luxembourg,83.86
+2016,solid_fossil_fuelsl_imports,Luxembourg,93.136
+2017,solid_fossil_fuelsl_imports,Luxembourg,78.03
+2018,solid_fossil_fuelsl_imports,Luxembourg,72.536
+2019,solid_fossil_fuelsl_imports,Luxembourg,73.365
+2020,solid_fossil_fuelsl_imports,Luxembourg,74.408
+total,solid_fossil_fuelsl_imports,Luxembourg,845.739
+2011,solid_fossil_fuelsl_imports,Hungary,1891.0
+2012,solid_fossil_fuelsl_imports,Hungary,1796.0
+2013,solid_fossil_fuelsl_imports,Hungary,1581.0
+2014,solid_fossil_fuelsl_imports,Hungary,1596.0
+2015,solid_fossil_fuelsl_imports,Hungary,1649.0
+2016,solid_fossil_fuelsl_imports,Hungary,1608.0
+2017,solid_fossil_fuelsl_imports,Hungary,1874.0
+2018,solid_fossil_fuelsl_imports,Hungary,1838.0
+2019,solid_fossil_fuelsl_imports,Hungary,1563.0
+2020,solid_fossil_fuelsl_imports,Hungary,1343.0
+total,solid_fossil_fuelsl_imports,Hungary,16739.0
+2011,solid_fossil_fuelsl_imports,Malta,0.0
+2012,solid_fossil_fuelsl_imports,Malta,0.0
+2013,solid_fossil_fuelsl_imports,Malta,0.0
+2014,solid_fossil_fuelsl_imports,Malta,0.0
+2015,solid_fossil_fuelsl_imports,Malta,0.0
+2016,solid_fossil_fuelsl_imports,Malta,0.0
+2017,solid_fossil_fuelsl_imports,Malta,0.0
+2018,solid_fossil_fuelsl_imports,Malta,0.0
+2019,solid_fossil_fuelsl_imports,Malta,0.0
+2020,solid_fossil_fuelsl_imports,Malta,0.0
+total,solid_fossil_fuelsl_imports,Malta,0.0
+2011,solid_fossil_fuelsl_imports,Netherlands,12081.756
+2012,solid_fossil_fuelsl_imports,Netherlands,13104.988
+2013,solid_fossil_fuelsl_imports,Netherlands,13150.59
+2014,solid_fossil_fuelsl_imports,Netherlands,15600.113
+2015,solid_fossil_fuelsl_imports,Netherlands,17483.644
+2016,solid_fossil_fuelsl_imports,Netherlands,16476.983
+2017,solid_fossil_fuelsl_imports,Netherlands,15011.545
+2018,solid_fossil_fuelsl_imports,Netherlands,13160.453
+2019,solid_fossil_fuelsl_imports,Netherlands,10464.334
+2020,solid_fossil_fuelsl_imports,Netherlands,6103.283
+total,solid_fossil_fuelsl_imports,Netherlands,132637.689
+2011,solid_fossil_fuelsl_imports,Austria,4637.746
+2012,solid_fossil_fuelsl_imports,Austria,4952.506
+2013,solid_fossil_fuelsl_imports,Austria,4594.823
+2014,solid_fossil_fuelsl_imports,Austria,4548.633
+2015,solid_fossil_fuelsl_imports,Austria,4142.823
+2016,solid_fossil_fuelsl_imports,Austria,4303.615
+2017,solid_fossil_fuelsl_imports,Austria,4647.085
+2018,solid_fossil_fuelsl_imports,Austria,4031.04
+2019,solid_fossil_fuelsl_imports,Austria,4108.781
+2020,solid_fossil_fuelsl_imports,Austria,3601.244
+total,solid_fossil_fuelsl_imports,Austria,43568.296
+2011,solid_fossil_fuelsl_imports,Poland,15215.0
+2012,solid_fossil_fuelsl_imports,Poland,10482.0
+2013,solid_fossil_fuelsl_imports,Poland,10941.0
+2014,solid_fossil_fuelsl_imports,Poland,10872.0
+2015,solid_fossil_fuelsl_imports,Poland,8721.0
+2016,solid_fossil_fuelsl_imports,Poland,8734.0
+2017,solid_fossil_fuelsl_imports,Poland,13385.213
+2018,solid_fossil_fuelsl_imports,Poland,19740.816
+2019,solid_fossil_fuelsl_imports,Poland,17165.953
+2020,solid_fossil_fuelsl_imports,Poland,13129.897
+total,solid_fossil_fuelsl_imports,Poland,128386.879
+2011,solid_fossil_fuelsl_imports,Portugal,3598.0
+2012,solid_fossil_fuelsl_imports,Portugal,5036.0
+2013,solid_fossil_fuelsl_imports,Portugal,4246.0
+2014,solid_fossil_fuelsl_imports,Portugal,4388.0
+2015,solid_fossil_fuelsl_imports,Portugal,5428.0
+2016,solid_fossil_fuelsl_imports,Portugal,4924.0
+2017,solid_fossil_fuelsl_imports,Portugal,5722.683
+2018,solid_fossil_fuelsl_imports,Portugal,4505.572
+2019,solid_fossil_fuelsl_imports,Portugal,2584.372
+2020,solid_fossil_fuelsl_imports,Portugal,15.467
+total,solid_fossil_fuelsl_imports,Portugal,40448.094
+2011,solid_fossil_fuelsl_imports,Romania,1794.0
+2012,solid_fossil_fuelsl_imports,Romania,2031.0
+2013,solid_fossil_fuelsl_imports,Romania,1820.0
+2014,solid_fossil_fuelsl_imports,Romania,1822.0
+2015,solid_fossil_fuelsl_imports,Romania,1941.0
+2016,solid_fossil_fuelsl_imports,Romania,1819.0
+2017,solid_fossil_fuelsl_imports,Romania,1623.972
+2018,solid_fossil_fuelsl_imports,Romania,1494.215
+2019,solid_fossil_fuelsl_imports,Romania,1837.099
+2020,solid_fossil_fuelsl_imports,Romania,1289.266
+total,solid_fossil_fuelsl_imports,Romania,17471.552
+2011,solid_fossil_fuelsl_imports,Slovenia,558.0
+2012,solid_fossil_fuelsl_imports,Slovenia,658.0
+2013,solid_fossil_fuelsl_imports,Slovenia,586.0
+2014,solid_fossil_fuelsl_imports,Slovenia,486.0
+2015,solid_fossil_fuelsl_imports,Slovenia,434.0
+2016,solid_fossil_fuelsl_imports,Slovenia,413.0
+2017,solid_fossil_fuelsl_imports,Slovenia,413.793
+2018,solid_fossil_fuelsl_imports,Slovenia,450.738
+2019,solid_fossil_fuelsl_imports,Slovenia,459.297
+2020,solid_fossil_fuelsl_imports,Slovenia,387.617
+total,solid_fossil_fuelsl_imports,Slovenia,4846.445
+2011,solid_fossil_fuelsl_imports,Slovakia,5063.0
+2012,solid_fossil_fuelsl_imports,Slovakia,5140.0
+2013,solid_fossil_fuelsl_imports,Slovakia,4500.0
+2014,solid_fossil_fuelsl_imports,Slovakia,4500.0
+2015,solid_fossil_fuelsl_imports,Slovakia,4317.0
+2016,solid_fossil_fuelsl_imports,Slovakia,4244.0
+2017,solid_fossil_fuelsl_imports,Slovakia,4665.0
+2018,solid_fossil_fuelsl_imports,Slovakia,4890.0
+2019,solid_fossil_fuelsl_imports,Slovakia,4133.0
+2020,solid_fossil_fuelsl_imports,Slovakia,3221.0
+total,solid_fossil_fuelsl_imports,Slovakia,44673.0
+2011,solid_fossil_fuelsl_imports,Finland,7414.0
+2012,solid_fossil_fuelsl_imports,Finland,4229.0
+2013,solid_fossil_fuelsl_imports,Finland,5440.0
+2014,solid_fossil_fuelsl_imports,Finland,5865.0
+2015,solid_fossil_fuelsl_imports,Finland,4047.0
+2016,solid_fossil_fuelsl_imports,Finland,4335.0
+2017,solid_fossil_fuelsl_imports,Finland,4225.0
+2018,solid_fossil_fuelsl_imports,Finland,4420.0
+2019,solid_fossil_fuelsl_imports,Finland,3478.0
+2020,solid_fossil_fuelsl_imports,Finland,2733.0
+total,solid_fossil_fuelsl_imports,Finland,46186.0
+2011,solid_fossil_fuelsl_imports,Sweden,3290.0
+2012,solid_fossil_fuelsl_imports,Sweden,2373.0
+2013,solid_fossil_fuelsl_imports,Sweden,2638.0
+2014,solid_fossil_fuelsl_imports,Sweden,2872.0
+2015,solid_fossil_fuelsl_imports,Sweden,2878.0
+2016,solid_fossil_fuelsl_imports,Sweden,3203.0
+2017,solid_fossil_fuelsl_imports,Sweden,2827.0
+2018,solid_fossil_fuelsl_imports,Sweden,2952.0
+2019,solid_fossil_fuelsl_imports,Sweden,2824.0
+2020,solid_fossil_fuelsl_imports,Sweden,2154.0
+total,solid_fossil_fuelsl_imports,Sweden,28011.0
+2011,solid_fossil_fuelsl_imports,Iceland,134.0
+2012,solid_fossil_fuelsl_imports,Iceland,147.0
+2013,solid_fossil_fuelsl_imports,Iceland,147.0
+2014,solid_fossil_fuelsl_imports,Iceland,131.0
+2015,solid_fossil_fuelsl_imports,Iceland,140.0
+2016,solid_fossil_fuelsl_imports,Iceland,145.615
+2017,solid_fossil_fuelsl_imports,Iceland,146.169
+2018,solid_fossil_fuelsl_imports,Iceland,169.839
+2019,solid_fossil_fuelsl_imports,Iceland,160.24
+2020,solid_fossil_fuelsl_imports,Iceland,140.128
+total,solid_fossil_fuelsl_imports,Iceland,1460.991
+2014,solid_fossil_fuelsl_imports,Liechtenstein,0.0
+2015,solid_fossil_fuelsl_imports,Liechtenstein,0.0
+2016,solid_fossil_fuelsl_imports,Liechtenstein,0.0
+2017,solid_fossil_fuelsl_imports,Liechtenstein,0.0
+2018,solid_fossil_fuelsl_imports,Liechtenstein,0.0
+2019,solid_fossil_fuelsl_imports,Liechtenstein,0.0
+2020,solid_fossil_fuelsl_imports,Liechtenstein,0.0
+total,solid_fossil_fuelsl_imports,Liechtenstein,0.0
+2011,solid_fossil_fuelsl_imports,Norway,1164.0
+2012,solid_fossil_fuelsl_imports,Norway,1192.0
+2013,solid_fossil_fuelsl_imports,Norway,1061.0
+2014,solid_fossil_fuelsl_imports,Norway,1216.0
+2015,solid_fossil_fuelsl_imports,Norway,1120.0
+2016,solid_fossil_fuelsl_imports,Norway,1086.0
+2017,solid_fossil_fuelsl_imports,Norway,1192.0
+2018,solid_fossil_fuelsl_imports,Norway,1162.02
+2019,solid_fossil_fuelsl_imports,Norway,1153.499
+2020,solid_fossil_fuelsl_imports,Norway,1172.414
+total,solid_fossil_fuelsl_imports,Norway,11518.933
+2011,solid_fossil_fuelsl_imports,United Kingdom,32576.0
+2012,solid_fossil_fuelsl_imports,United Kingdom,45022.0
+2013,solid_fossil_fuelsl_imports,United Kingdom,51445.0
+2014,solid_fossil_fuelsl_imports,United Kingdom,43164.0
+2015,solid_fossil_fuelsl_imports,United Kingdom,23651.0
+2016,solid_fossil_fuelsl_imports,United Kingdom,10166.0
+2017,solid_fossil_fuelsl_imports,United Kingdom,9497.0
+2018,solid_fossil_fuelsl_imports,United Kingdom,11124.0
+2019,solid_fossil_fuelsl_imports,United Kingdom,7404.0
+total,solid_fossil_fuelsl_imports,United Kingdom,234049.0
+2011,solid_fossil_fuelsl_imports,Montenegro,0.0
+2012,solid_fossil_fuelsl_imports,Montenegro,1.0
+2013,solid_fossil_fuelsl_imports,Montenegro,3.0
+2014,solid_fossil_fuelsl_imports,Montenegro,3.0
+2015,solid_fossil_fuelsl_imports,Montenegro,5.0
+2016,solid_fossil_fuelsl_imports,Montenegro,5.0
+2017,solid_fossil_fuelsl_imports,Montenegro,5.0
+2018,solid_fossil_fuelsl_imports,Montenegro,5.1
+2019,solid_fossil_fuelsl_imports,Montenegro,5.3
+2020,solid_fossil_fuelsl_imports,Montenegro,5.7
+total,solid_fossil_fuelsl_imports,Montenegro,38.1
+2011,solid_fossil_fuelsl_imports,North Macedonia,296.0
+2012,solid_fossil_fuelsl_imports,North Macedonia,292.0
+2013,solid_fossil_fuelsl_imports,North Macedonia,287.0
+2014,solid_fossil_fuelsl_imports,North Macedonia,282.0
+2015,solid_fossil_fuelsl_imports,North Macedonia,190.0
+2016,solid_fossil_fuelsl_imports,North Macedonia,218.331
+2017,solid_fossil_fuelsl_imports,North Macedonia,165.531
+2018,solid_fossil_fuelsl_imports,North Macedonia,213.803
+2019,solid_fossil_fuelsl_imports,North Macedonia,228.464
+2020,solid_fossil_fuelsl_imports,North Macedonia,174.411
+total,solid_fossil_fuelsl_imports,North Macedonia,2347.54
+2011,solid_fossil_fuelsl_imports,Albania,212.0
+2012,solid_fossil_fuelsl_imports,Albania,117.0
+2013,solid_fossil_fuelsl_imports,Albania,102.0
+2014,solid_fossil_fuelsl_imports,Albania,133.0
+2015,solid_fossil_fuelsl_imports,Albania,102.0
+2016,solid_fossil_fuelsl_imports,Albania,81.0
+2017,solid_fossil_fuelsl_imports,Albania,80.45
+2018,solid_fossil_fuelsl_imports,Albania,131.972
+2019,solid_fossil_fuelsl_imports,Albania,121.026
+2020,solid_fossil_fuelsl_imports,Albania,137.43
+total,solid_fossil_fuelsl_imports,Albania,1217.878
+2011,solid_fossil_fuelsl_imports,Serbia,1470.0
+2012,solid_fossil_fuelsl_imports,Serbia,837.0
+2013,solid_fossil_fuelsl_imports,Serbia,598.0
+2014,solid_fossil_fuelsl_imports,Serbia,914.0
+2015,solid_fossil_fuelsl_imports,Serbia,1502.0
+2016,solid_fossil_fuelsl_imports,Serbia,1190.0
+2017,solid_fossil_fuelsl_imports,Serbia,1362.38
+2018,solid_fossil_fuelsl_imports,Serbia,1405.988
+2019,solid_fossil_fuelsl_imports,Serbia,1445.298
+2020,solid_fossil_fuelsl_imports,Serbia,1011.717
+total,solid_fossil_fuelsl_imports,Serbia,11736.383
+2011,solid_fossil_fuelsl_imports,Turkey,23987.0
+2012,solid_fossil_fuelsl_imports,Turkey,29573.0
+2013,solid_fossil_fuelsl_imports,Turkey,27164.0
+2014,solid_fossil_fuelsl_imports,Turkey,30168.0
+2015,solid_fossil_fuelsl_imports,Turkey,34547.0
+2016,solid_fossil_fuelsl_imports,Turkey,36806.0
+2017,solid_fossil_fuelsl_imports,Turkey,39085.114
+2018,solid_fossil_fuelsl_imports,Turkey,39143.0
+2019,solid_fossil_fuelsl_imports,Turkey,38806.585
+2020,solid_fossil_fuelsl_imports,Turkey,40785.182
+total,solid_fossil_fuelsl_imports,Turkey,340064.881
+2014,solid_fossil_fuelsl_imports,Bosnia and Herzegovina,1437.0
+2015,solid_fossil_fuelsl_imports,Bosnia and Herzegovina,1415.0
+2016,solid_fossil_fuelsl_imports,Bosnia and Herzegovina,1406.0
+2017,solid_fossil_fuelsl_imports,Bosnia and Herzegovina,1517.0
+2018,solid_fossil_fuelsl_imports,Bosnia and Herzegovina,1601.638
+2019,solid_fossil_fuelsl_imports,Bosnia and Herzegovina,1693.769
+2020,solid_fossil_fuelsl_imports,Bosnia and Herzegovina,1361.368
+total,solid_fossil_fuelsl_imports,Bosnia and Herzegovina,10431.775
+2011,solid_fossil_fuelsl_imports,Kosovo (under United Nations Security Council Resolution 1244/99),84.0
+2012,solid_fossil_fuelsl_imports,Kosovo (under United Nations Security Council Resolution 1244/99),122.0
+2013,solid_fossil_fuelsl_imports,Kosovo (under United Nations Security Council Resolution 1244/99),24.0
+2014,solid_fossil_fuelsl_imports,Kosovo (under United Nations Security Council Resolution 1244/99),16.0
+2015,solid_fossil_fuelsl_imports,Kosovo (under United Nations Security Council Resolution 1244/99),14.0
+2016,solid_fossil_fuelsl_imports,Kosovo (under United Nations Security Council Resolution 1244/99),4.0
+2017,solid_fossil_fuelsl_imports,Kosovo (under United Nations Security Council Resolution 1244/99),10.754
+2018,solid_fossil_fuelsl_imports,Kosovo (under United Nations Security Council Resolution 1244/99),10.024
+2019,solid_fossil_fuelsl_imports,Kosovo (under United Nations Security Council Resolution 1244/99),11.349
+2020,solid_fossil_fuelsl_imports,Kosovo (under United Nations Security Council Resolution 1244/99),24.809
+total,solid_fossil_fuelsl_imports,Kosovo (under United Nations Security Council Resolution 1244/99),320.936
+2011,solid_fossil_fuelsl_imports,Moldova,207.0
+2012,solid_fossil_fuelsl_imports,Moldova,185.0
+2013,solid_fossil_fuelsl_imports,Moldova,259.0
+2014,solid_fossil_fuelsl_imports,Moldova,148.0
+2015,solid_fossil_fuelsl_imports,Moldova,166.0
+2016,solid_fossil_fuelsl_imports,Moldova,99.0
+2017,solid_fossil_fuelsl_imports,Moldova,200.0
+2018,solid_fossil_fuelsl_imports,Moldova,144.0
+2019,solid_fossil_fuelsl_imports,Moldova,147.0
+2020,solid_fossil_fuelsl_imports,Moldova,133.0
+total,solid_fossil_fuelsl_imports,Moldova,1688.0
+2011,solid_fossil_fuelsl_imports,Ukraine,12886.0
+2012,solid_fossil_fuelsl_imports,Ukraine,15265.0
+2013,solid_fossil_fuelsl_imports,Ukraine,14910.0
+2014,solid_fossil_fuelsl_imports,Ukraine,16332.0
+2015,solid_fossil_fuelsl_imports,Ukraine,16637.0
+2016,solid_fossil_fuelsl_imports,Ukraine,17259.0
+2017,solid_fossil_fuelsl_imports,Ukraine,21328.0
+2018,solid_fossil_fuelsl_imports,Ukraine,22227.0
+2019,solid_fossil_fuelsl_imports,Ukraine,21959.3
+2020,solid_fossil_fuelsl_imports,Ukraine,17333.2
+total,solid_fossil_fuelsl_imports,Ukraine,176136.5
+2013,solid_fossil_fuelsl_imports,Georgia,233.0
+2014,solid_fossil_fuelsl_imports,Georgia,257.0
+2015,solid_fossil_fuelsl_imports,Georgia,232.0
+2016,solid_fossil_fuelsl_imports,Georgia,251.0
+2017,solid_fossil_fuelsl_imports,Georgia,297.1
+2018,solid_fossil_fuelsl_imports,Georgia,420.0
+2019,solid_fossil_fuelsl_imports,Georgia,398.885
+2020,solid_fossil_fuelsl_imports,Georgia,279.016
+total,solid_fossil_fuelsl_imports,Georgia,2368.001
+2011,Belgium,biofuel_exports,0.0
+2012,Belgium,biofuel_exports,0.0
+2013,Belgium,biofuel_exports,0.0
+2014,Belgium,biofuel_exports,0.0
+2015,Belgium,biofuel_exports,0.0
+2016,Belgium,biofuel_exports,0.0
+2017,Belgium,biofuel_exports,0.0
+2018,Belgium,biofuel_exports,0.0
+2019,Belgium,biofuel_exports,0.0
+2020,Belgium,biofuel_exports,0.0
+total,Belgium,biofuel_exports,0.0
+2011,Bulgaria,biofuel_exports,0.0
+2012,Bulgaria,biofuel_exports,37.766
+2013,Bulgaria,biofuel_exports,70.371
+2014,Bulgaria,biofuel_exports,154.896
+2015,Bulgaria,biofuel_exports,156.565
+2016,Bulgaria,biofuel_exports,127.686
+2017,Bulgaria,biofuel_exports,153.706
+2018,Bulgaria,biofuel_exports,161.393
+2019,Bulgaria,biofuel_exports,185.319
+2020,Bulgaria,biofuel_exports,175.16
+total,Bulgaria,biofuel_exports,1222.862
+2011,Czechia,biofuel_exports,111.0
+2012,Czechia,biofuel_exports,128.0
+2013,Czechia,biofuel_exports,131.0
+2014,Czechia,biofuel_exports,138.161
+2015,Czechia,biofuel_exports,214.597
+2016,Czechia,biofuel_exports,276.776
+2017,Czechia,biofuel_exports,294.278
+2018,Czechia,biofuel_exports,319.773
+2019,Czechia,biofuel_exports,292.608
+2020,Czechia,biofuel_exports,352.175
+total,Czechia,biofuel_exports,2258.368
+2011,Denmark,biofuel_exports,0.0
+2012,Denmark,biofuel_exports,0.0
+2013,Denmark,biofuel_exports,0.0
+2014,Denmark,biofuel_exports,0.0
+2015,Denmark,biofuel_exports,0.0
+2016,Denmark,biofuel_exports,0.0
+2017,Denmark,biofuel_exports,0.0
+2018,Denmark,biofuel_exports,0.0
+2019,Denmark,biofuel_exports,0.0
+2020,Denmark,biofuel_exports,0.0
+total,Denmark,biofuel_exports,0.0
+2011,Germany (until 1990 former territory of the FRG),biofuel_exports,692.0
+2012,Germany (until 1990 former territory of the FRG),biofuel_exports,849.0
+2013,Germany (until 1990 former territory of the FRG),biofuel_exports,720.0
+2014,Germany (until 1990 former territory of the FRG),biofuel_exports,683.0
+2015,Germany (until 1990 former territory of the FRG),biofuel_exports,688.0
+2016,Germany (until 1990 former territory of the FRG),biofuel_exports,365.0
+2017,Germany (until 1990 former territory of the FRG),biofuel_exports,490.0
+2018,Germany (until 1990 former territory of the FRG),biofuel_exports,641.0
+2019,Germany (until 1990 former territory of the FRG),biofuel_exports,771.0
+2020,Germany (until 1990 former territory of the FRG),biofuel_exports,801.0
+total,Germany (until 1990 former territory of the FRG),biofuel_exports,6700.0
+2011,Estonia,biofuel_exports,362.834
+2012,Estonia,biofuel_exports,361.655
+2013,Estonia,biofuel_exports,622.173
+2014,Estonia,biofuel_exports,784.265
+2015,Estonia,biofuel_exports,883.291
+2016,Estonia,biofuel_exports,1142.466
+2017,Estonia,biofuel_exports,1119.9
+2018,Estonia,biofuel_exports,1308.927
+2019,Estonia,biofuel_exports,1472.3
+2020,Estonia,biofuel_exports,1085.0
+total,Estonia,biofuel_exports,9142.811
+2011,Ireland,biofuel_exports,0.0
+2012,Ireland,biofuel_exports,0.0
+2013,Ireland,biofuel_exports,0.0
+2014,Ireland,biofuel_exports,0.0
+2015,Ireland,biofuel_exports,0.0
+2016,Ireland,biofuel_exports,0.0
+2017,Ireland,biofuel_exports,0.0
+2018,Ireland,biofuel_exports,0.0
+2019,Ireland,biofuel_exports,0.0
+2020,Ireland,biofuel_exports,0.0
+total,Ireland,biofuel_exports,0.0
+2011,Greece,biofuel_exports,0.018
+2012,Greece,biofuel_exports,0.0
+2013,Greece,biofuel_exports,0.217
+2014,Greece,biofuel_exports,0.67
+2015,Greece,biofuel_exports,0.85
+2016,Greece,biofuel_exports,0.184
+2017,Greece,biofuel_exports,12.521
+2018,Greece,biofuel_exports,8.97
+2019,Greece,biofuel_exports,3.588
+2020,Greece,biofuel_exports,2.547
+total,Greece,biofuel_exports,29.565
+2011,Spain,biofuel_exports,0.0
+2012,Spain,biofuel_exports,0.0
+2013,Spain,biofuel_exports,0.0
+2014,Spain,biofuel_exports,39.711
+2015,Spain,biofuel_exports,0.0
+2016,Spain,biofuel_exports,0.0
+2017,Spain,biofuel_exports,0.0
+2018,Spain,biofuel_exports,0.0
+2019,Spain,biofuel_exports,0.0
+2020,Spain,biofuel_exports,0.0
+total,Spain,biofuel_exports,39.711
+2011,France,biofuel_exports,0.0
+2012,France,biofuel_exports,101.27
+2013,France,biofuel_exports,151.866
+2014,France,biofuel_exports,123.748
+2015,France,biofuel_exports,199.098
+2016,France,biofuel_exports,191.934
+2017,France,biofuel_exports,185.743
+2018,France,biofuel_exports,196.61
+2019,France,biofuel_exports,123.566
+2020,France,biofuel_exports,96.536
+total,France,biofuel_exports,1370.371
+2011,Croatia,biofuel_exports,0.0
+2012,Croatia,biofuel_exports,136.144
+2013,Croatia,biofuel_exports,159.25
+2014,Croatia,biofuel_exports,139.195
+2015,Croatia,biofuel_exports,188.847
+2016,Croatia,biofuel_exports,198.238
+2017,Croatia,biofuel_exports,234.882
+2018,Croatia,biofuel_exports,217.5
+2019,Croatia,biofuel_exports,235.1
+2020,Croatia,biofuel_exports,246.3
+total,Croatia,biofuel_exports,1755.456
+2011,Italy,biofuel_exports,3.289
+2012,Italy,biofuel_exports,2.559
+2013,Italy,biofuel_exports,5.977
+2014,Italy,biofuel_exports,8.272
+2015,Italy,biofuel_exports,9.546
+2016,Italy,biofuel_exports,13.732
+2017,Italy,biofuel_exports,21.531
+2018,Italy,biofuel_exports,11.861
+2019,Italy,biofuel_exports,9.029
+2020,Italy,biofuel_exports,7.85
+total,Italy,biofuel_exports,93.646
+2011,Cyprus,biofuel_exports,0.0
+2012,Cyprus,biofuel_exports,0.0
+2013,Cyprus,biofuel_exports,0.0
+2014,Cyprus,biofuel_exports,0.0
+2015,Cyprus,biofuel_exports,0.0
+2016,Cyprus,biofuel_exports,0.0
+2017,Cyprus,biofuel_exports,0.0
+2018,Cyprus,biofuel_exports,0.0
+2019,Cyprus,biofuel_exports,0.0
+2020,Cyprus,biofuel_exports,0.0
+total,Cyprus,biofuel_exports,0.0
+2011,Latvia,biofuel_exports,664.005
+2012,Latvia,biofuel_exports,901.959
+2013,Latvia,biofuel_exports,1055.755
+2014,Latvia,biofuel_exports,1290.348
+2015,Latvia,biofuel_exports,1553.238
+2016,Latvia,biofuel_exports,1626.602
+2017,Latvia,biofuel_exports,1605.965
+2018,Latvia,biofuel_exports,1764.434
+2019,Latvia,biofuel_exports,2230.981
+2020,Latvia,biofuel_exports,2303.859
+total,Latvia,biofuel_exports,14997.146
+2011,Lithuania,biofuel_exports,0.0
+2012,Lithuania,biofuel_exports,264.996
+2013,Lithuania,biofuel_exports,321.479
+2014,Lithuania,biofuel_exports,298.202
+2015,Lithuania,biofuel_exports,310.303
+2016,Lithuania,biofuel_exports,307.004
+2017,Lithuania,biofuel_exports,403.23
+2018,Lithuania,biofuel_exports,476.3
+2019,Lithuania,biofuel_exports,581.0
+2020,Lithuania,biofuel_exports,379.4
+total,Lithuania,biofuel_exports,3341.914
+2011,Luxembourg,biofuel_exports,4.181
+2012,Luxembourg,biofuel_exports,4.566
+2013,Luxembourg,biofuel_exports,7.373
+2014,Luxembourg,biofuel_exports,3.773
+2015,Luxembourg,biofuel_exports,12.592
+2016,Luxembourg,biofuel_exports,31.978
+2017,Luxembourg,biofuel_exports,27.63
+2018,Luxembourg,biofuel_exports,25.885
+2019,Luxembourg,biofuel_exports,19.842
+2020,Luxembourg,biofuel_exports,28.346
+total,Luxembourg,biofuel_exports,166.166
+2011,Hungary,biofuel_exports,0.0
+2012,Hungary,biofuel_exports,0.0
+2013,Hungary,biofuel_exports,0.0
+2014,Hungary,biofuel_exports,0.0
+2015,Hungary,biofuel_exports,0.0
+2016,Hungary,biofuel_exports,0.0
+2017,Hungary,biofuel_exports,0.0
+2018,Hungary,biofuel_exports,0.0
+2019,Hungary,biofuel_exports,0.0
+2020,Hungary,biofuel_exports,0.0
+total,Hungary,biofuel_exports,0.0
+2011,Malta,biofuel_exports,0.0
+2012,Malta,biofuel_exports,0.0
+2013,Malta,biofuel_exports,0.0
+2014,Malta,biofuel_exports,0.0
+2015,Malta,biofuel_exports,0.0
+2016,Malta,biofuel_exports,0.0
+2017,Malta,biofuel_exports,0.0
+2018,Malta,biofuel_exports,0.0
+2019,Malta,biofuel_exports,0.0
+2020,Malta,biofuel_exports,0.0
+total,Malta,biofuel_exports,0.0
+2011,Netherlands,biofuel_exports,0.0
+2012,Netherlands,biofuel_exports,54.0
+2013,Netherlands,biofuel_exports,141.0
+2014,Netherlands,biofuel_exports,198.0
+2015,Netherlands,biofuel_exports,184.0
+2016,Netherlands,biofuel_exports,158.0
+2017,Netherlands,biofuel_exports,157.0
+2018,Netherlands,biofuel_exports,185.0
+2019,Netherlands,biofuel_exports,187.0
+2020,Netherlands,biofuel_exports,239.001
+total,Netherlands,biofuel_exports,1503.001
+2011,Austria,biofuel_exports,712.009
+2012,Austria,biofuel_exports,662.846
+2013,Austria,biofuel_exports,717.707
+2014,Austria,biofuel_exports,487.488
+2015,Austria,biofuel_exports,559.126
+2016,Austria,biofuel_exports,609.525
+2017,Austria,biofuel_exports,671.129
+2018,Austria,biofuel_exports,840.124
+2019,Austria,biofuel_exports,819.762
+2020,Austria,biofuel_exports,872.228
+total,Austria,biofuel_exports,6951.944
+2011,Poland,biofuel_exports,0.0
+2012,Poland,biofuel_exports,0.0
+2013,Poland,biofuel_exports,0.0
+2014,Poland,biofuel_exports,0.0
+2015,Poland,biofuel_exports,0.0
+2016,Poland,biofuel_exports,0.0
+2017,Poland,biofuel_exports,0.0
+2018,Poland,biofuel_exports,0.0
+2019,Poland,biofuel_exports,0.0
+2020,Poland,biofuel_exports,0.0
+total,Poland,biofuel_exports,0.0
+2011,Portugal,biofuel_exports,535.457
+2012,Portugal,biofuel_exports,603.0
+2013,Portugal,biofuel_exports,818.981
+2014,Portugal,biofuel_exports,797.422
+2015,Portugal,biofuel_exports,693.694
+2016,Portugal,biofuel_exports,621.282
+2017,Portugal,biofuel_exports,513.862
+2018,Portugal,biofuel_exports,611.613
+2019,Portugal,biofuel_exports,729.351
+2020,Portugal,biofuel_exports,698.948
+total,Portugal,biofuel_exports,6623.61
+2011,Romania,biofuel_exports,0.0
+2012,Romania,biofuel_exports,563.175
+2013,Romania,biofuel_exports,457.49
+2014,Romania,biofuel_exports,412.941
+2015,Romania,biofuel_exports,323.325
+2016,Romania,biofuel_exports,261.106
+2017,Romania,biofuel_exports,154.258
+2018,Romania,biofuel_exports,139.453
+2019,Romania,biofuel_exports,240.201
+2020,Romania,biofuel_exports,388.883
+total,Romania,biofuel_exports,2940.832
+2011,Slovenia,biofuel_exports,0.0
+2012,Slovenia,biofuel_exports,0.0
+2013,Slovenia,biofuel_exports,0.0
+2014,Slovenia,biofuel_exports,0.0
+2015,Slovenia,biofuel_exports,0.0
+2016,Slovenia,biofuel_exports,0.0
+2017,Slovenia,biofuel_exports,0.0
+2018,Slovenia,biofuel_exports,0.0
+2019,Slovenia,biofuel_exports,0.0
+2020,Slovenia,biofuel_exports,0.0
+total,Slovenia,biofuel_exports,0.0
+2011,Slovakia,biofuel_exports,0.0
+2012,Slovakia,biofuel_exports,0.0
+2013,Slovakia,biofuel_exports,0.0
+2014,Slovakia,biofuel_exports,0.0
+2015,Slovakia,biofuel_exports,0.0
+2016,Slovakia,biofuel_exports,0.0
+2017,Slovakia,biofuel_exports,0.0
+2018,Slovakia,biofuel_exports,0.0
+2019,Slovakia,biofuel_exports,0.0
+2020,Slovakia,biofuel_exports,167.0
+total,Slovakia,biofuel_exports,167.0
+2011,Finland,biofuel_exports,135.785
+2012,Finland,biofuel_exports,61.184
+2013,Finland,biofuel_exports,78.239
+2014,Finland,biofuel_exports,55.968
+2015,Finland,biofuel_exports,59.812
+2016,Finland,biofuel_exports,34.466
+2017,Finland,biofuel_exports,37.339
+2018,Finland,biofuel_exports,43.215
+2019,Finland,biofuel_exports,29.85
+2020,Finland,biofuel_exports,7.185
+total,Finland,biofuel_exports,543.043
+2011,Sweden,biofuel_exports,0.0
+2012,Sweden,biofuel_exports,200.902
+2013,Sweden,biofuel_exports,168.949
+2014,Sweden,biofuel_exports,253.056
+2015,Sweden,biofuel_exports,248.098
+2016,Sweden,biofuel_exports,239.71
+2017,Sweden,biofuel_exports,200.0
+2018,Sweden,biofuel_exports,154.0
+2019,Sweden,biofuel_exports,115.0
+2020,Sweden,biofuel_exports,138.0
+total,Sweden,biofuel_exports,1717.715
+2011,Iceland,biofuel_exports,0.0
+2012,Iceland,biofuel_exports,0.0
+2013,Iceland,biofuel_exports,0.0
+2014,Iceland,biofuel_exports,0.0
+2015,Iceland,biofuel_exports,0.0
+2016,Iceland,biofuel_exports,0.0
+2017,Iceland,biofuel_exports,0.0
+2018,Iceland,biofuel_exports,0.0
+2019,Iceland,biofuel_exports,0.0
+2020,Iceland,biofuel_exports,0.0
+total,Iceland,biofuel_exports,0.0
+2014,Liechtenstein,biofuel_exports,0.0
+2015,Liechtenstein,biofuel_exports,0.0
+2016,Liechtenstein,biofuel_exports,0.0
+2017,Liechtenstein,biofuel_exports,0.0
+2018,Liechtenstein,biofuel_exports,0.0
+2019,Liechtenstein,biofuel_exports,0.0
+2020,Liechtenstein,biofuel_exports,0.0
+total,Liechtenstein,biofuel_exports,0.0
+2011,Norway,biofuel_exports,0.0
+2012,Norway,biofuel_exports,0.0
+2013,Norway,biofuel_exports,0.0
+2014,Norway,biofuel_exports,0.0
+2015,Norway,biofuel_exports,0.0
+2016,Norway,biofuel_exports,0.0
+2017,Norway,biofuel_exports,0.0
+2018,Norway,biofuel_exports,0.0
+2019,Norway,biofuel_exports,0.0
+2020,Norway,biofuel_exports,0.0
+total,Norway,biofuel_exports,0.0
+2011,United Kingdom,biofuel_exports,41.3
+2012,United Kingdom,biofuel_exports,53.621
+2013,United Kingdom,biofuel_exports,105.756
+2014,United Kingdom,biofuel_exports,98.284
+2015,United Kingdom,biofuel_exports,88.141
+2016,United Kingdom,biofuel_exports,21.703
+2017,United Kingdom,biofuel_exports,127.0
+2018,United Kingdom,biofuel_exports,62.0
+2019,United Kingdom,biofuel_exports,32.0
+total,United Kingdom,biofuel_exports,629.805
+2011,Montenegro,biofuel_exports,0.0
+2012,Montenegro,biofuel_exports,0.0
+2013,Montenegro,biofuel_exports,0.0
+2014,Montenegro,biofuel_exports,2.911
+2015,Montenegro,biofuel_exports,12.314
+2016,Montenegro,biofuel_exports,17.955
+2017,Montenegro,biofuel_exports,37.154
+2018,Montenegro,biofuel_exports,47.5
+2019,Montenegro,biofuel_exports,71.3
+2020,Montenegro,biofuel_exports,69.6
+total,Montenegro,biofuel_exports,258.734
+2011,North Macedonia,biofuel_exports,0.0
+2012,North Macedonia,biofuel_exports,0.0
+2013,North Macedonia,biofuel_exports,0.0
+2014,North Macedonia,biofuel_exports,0.0
+2015,North Macedonia,biofuel_exports,0.0
+2016,North Macedonia,biofuel_exports,0.0
+2017,North Macedonia,biofuel_exports,0.0
+2018,North Macedonia,biofuel_exports,0.0
+2019,North Macedonia,biofuel_exports,0.0
+2020,North Macedonia,biofuel_exports,0.0
+total,North Macedonia,biofuel_exports,0.0
+2011,Albania,biofuel_exports,0.0
+2012,Albania,biofuel_exports,0.0
+2013,Albania,biofuel_exports,0.0
+2014,Albania,biofuel_exports,0.0
+2015,Albania,biofuel_exports,26.526
+2016,Albania,biofuel_exports,2.3
+2017,Albania,biofuel_exports,0.0
+2018,Albania,biofuel_exports,0.0
+2019,Albania,biofuel_exports,0.0
+2020,Albania,biofuel_exports,27.06
+total,Albania,biofuel_exports,55.886
+2011,Serbia,biofuel_exports,49.038
+2012,Serbia,biofuel_exports,50.241
+2013,Serbia,biofuel_exports,100.765
+2014,Serbia,biofuel_exports,89.587
+2015,Serbia,biofuel_exports,86.028
+2016,Serbia,biofuel_exports,87.183
+2017,Serbia,biofuel_exports,82.978
+2018,Serbia,biofuel_exports,108.261
+2019,Serbia,biofuel_exports,80.1
+2020,Serbia,biofuel_exports,78.782
+total,Serbia,biofuel_exports,812.963
+2011,Turkey,biofuel_exports,0.0
+2012,Turkey,biofuel_exports,0.0
+2013,Turkey,biofuel_exports,0.0
+2014,Turkey,biofuel_exports,0.0
+2015,Turkey,biofuel_exports,0.0
+2016,Turkey,biofuel_exports,0.0
+2017,Turkey,biofuel_exports,0.0
+2018,Turkey,biofuel_exports,0.0
+2019,Turkey,biofuel_exports,0.0
+2020,Turkey,biofuel_exports,0.0
+total,Turkey,biofuel_exports,0.0
+2014,Bosnia and Herzegovina,biofuel_exports,172.0
+2015,Bosnia and Herzegovina,biofuel_exports,137.0
+2016,Bosnia and Herzegovina,biofuel_exports,135.0
+2017,Bosnia and Herzegovina,biofuel_exports,94.0
+2018,Bosnia and Herzegovina,biofuel_exports,82.0
+2019,Bosnia and Herzegovina,biofuel_exports,70.0
+2020,Bosnia and Herzegovina,biofuel_exports,61.0
+total,Bosnia and Herzegovina,biofuel_exports,751.0
+2011,Kosovo (under United Nations Security Council Resolution 1244/99),biofuel_exports,0.0
+2012,Kosovo (under United Nations Security Council Resolution 1244/99),biofuel_exports,0.0
+2013,Kosovo (under United Nations Security Council Resolution 1244/99),biofuel_exports,0.0
+2014,Kosovo (under United Nations Security Council Resolution 1244/99),biofuel_exports,0.0
+2015,Kosovo (under United Nations Security Council Resolution 1244/99),biofuel_exports,0.0
+2016,Kosovo (under United Nations Security Council Resolution 1244/99),biofuel_exports,0.0
+2017,Kosovo (under United Nations Security Council Resolution 1244/99),biofuel_exports,0.0
+2018,Kosovo (under United Nations Security Council Resolution 1244/99),biofuel_exports,0.0
+2019,Kosovo (under United Nations Security Council Resolution 1244/99),biofuel_exports,0.0
+2020,Kosovo (under United Nations Security Council Resolution 1244/99),biofuel_exports,0.0
+total,Kosovo (under United Nations Security Council Resolution 1244/99),biofuel_exports,0.0
+2011,Moldova,biofuel_exports,0.0
+2012,Moldova,biofuel_exports,0.0
+2013,Moldova,biofuel_exports,0.001
+2014,Moldova,biofuel_exports,0.009
+2015,Moldova,biofuel_exports,0.005
+2016,Moldova,biofuel_exports,0.0
+2017,Moldova,biofuel_exports,0.0
+2018,Moldova,biofuel_exports,0.0
+2019,Moldova,biofuel_exports,1.0
+2020,Moldova,biofuel_exports,53.0
+total,Moldova,biofuel_exports,54.015
+2011,Ukraine,biofuel_exports,0.0
+2012,Ukraine,biofuel_exports,0.0
+2013,Ukraine,biofuel_exports,0.0
+2014,Ukraine,biofuel_exports,245.971
+2015,Ukraine,biofuel_exports,263.979
+2016,Ukraine,biofuel_exports,303.353
+2017,Ukraine,biofuel_exports,389.0
+2018,Ukraine,biofuel_exports,570.0
+2019,Ukraine,biofuel_exports,695.692
+2020,Ukraine,biofuel_exports,639.1
+total,Ukraine,biofuel_exports,3107.095
+2013,Georgia,biofuel_exports,0.0
+2014,Georgia,biofuel_exports,0.0
+2015,Georgia,biofuel_exports,0.0
+2016,Georgia,biofuel_exports,0.0
+2017,Georgia,biofuel_exports,0.0
+2018,Georgia,biofuel_exports,0.0
+2019,Georgia,biofuel_exports,0.0
+2020,Georgia,biofuel_exports,0.0
+total,Georgia,biofuel_exports,0.0
+2011,Belgium,oil_petroleum_exports,24267.0
+2012,Belgium,oil_petroleum_exports,26767.0
+2013,Belgium,oil_petroleum_exports,27328.0
+2014,Belgium,oil_petroleum_exports,29542.0
+2015,Belgium,oil_petroleum_exports,29223.0
+2016,Belgium,oil_petroleum_exports,29369.0
+2017,Belgium,oil_petroleum_exports,33809.0
+2018,Belgium,oil_petroleum_exports,32560.0
+2019,Belgium,oil_petroleum_exports,32364.3
+2020,Belgium,oil_petroleum_exports,26671.5
+total,Belgium,oil_petroleum_exports,291900.8
+2011,Bulgaria,oil_petroleum_exports,3539.0
+2012,Bulgaria,oil_petroleum_exports,4130.0
+2013,Bulgaria,oil_petroleum_exports,4430.0
+2014,Bulgaria,oil_petroleum_exports,4020.0
+2015,Bulgaria,oil_petroleum_exports,4452.0
+2016,Bulgaria,oil_petroleum_exports,4571.0
+2017,Bulgaria,oil_petroleum_exports,4799.85
+2018,Bulgaria,oil_petroleum_exports,3537.367
+2019,Bulgaria,oil_petroleum_exports,4268.074
+2020,Bulgaria,oil_petroleum_exports,2849.446
+total,Bulgaria,oil_petroleum_exports,40596.737
+2011,Czechia,oil_petroleum_exports,1592.0
+2012,Czechia,oil_petroleum_exports,1706.0
+2013,Czechia,oil_petroleum_exports,1784.0
+2014,Czechia,oil_petroleum_exports,2039.0
+2015,Czechia,oil_petroleum_exports,2493.0
+2016,Czechia,oil_petroleum_exports,2253.0
+2017,Czechia,oil_petroleum_exports,2454.0
+2018,Czechia,oil_petroleum_exports,2287.0
+2019,Czechia,oil_petroleum_exports,2286.0
+2020,Czechia,oil_petroleum_exports,1854.0
+total,Czechia,oil_petroleum_exports,20748.0
+2011,Denmark,oil_petroleum_exports,13179.0
+2012,Denmark,oil_petroleum_exports,12553.0
+2013,Denmark,oil_petroleum_exports,13362.0
+2014,Denmark,oil_petroleum_exports,12530.0
+2015,Denmark,oil_petroleum_exports,13477.668
+2016,Denmark,oil_petroleum_exports,12881.724
+2017,Denmark,oil_petroleum_exports,10844.473
+2018,Denmark,oil_petroleum_exports,9423.453
+2019,Denmark,oil_petroleum_exports,8829.198
+2020,Denmark,oil_petroleum_exports,8199.536
+total,Denmark,oil_petroleum_exports,115280.052
+2011,Germany (until 1990 former territory of the FRG),oil_petroleum_exports,18410.0
+2012,Germany (until 1990 former territory of the FRG),oil_petroleum_exports,18882.0
+2013,Germany (until 1990 former territory of the FRG),oil_petroleum_exports,20231.0
+2014,Germany (until 1990 former territory of the FRG),oil_petroleum_exports,21266.0
+2015,Germany (until 1990 former territory of the FRG),oil_petroleum_exports,22635.0
+2016,Germany (until 1990 former territory of the FRG),oil_petroleum_exports,22934.0
+2017,Germany (until 1990 former territory of the FRG),oil_petroleum_exports,23497.0
+2018,Germany (until 1990 former territory of the FRG),oil_petroleum_exports,22641.0
+2019,Germany (until 1990 former territory of the FRG),oil_petroleum_exports,22156.0
+2020,Germany (until 1990 former territory of the FRG),oil_petroleum_exports,22345.0
+total,Germany (until 1990 former territory of the FRG),oil_petroleum_exports,214997.0
+2011,Estonia,oil_petroleum_exports,432.0
+2012,Estonia,oil_petroleum_exports,1336.0
+2013,Estonia,oil_petroleum_exports,746.0
+2014,Estonia,oil_petroleum_exports,1147.6
+2015,Estonia,oil_petroleum_exports,1101.0
+2016,Estonia,oil_petroleum_exports,1115.38
+2017,Estonia,oil_petroleum_exports,1340.71
+2018,Estonia,oil_petroleum_exports,1749.79
+2019,Estonia,oil_petroleum_exports,1639.53
+2020,Estonia,oil_petroleum_exports,1922.1
+total,Estonia,oil_petroleum_exports,12530.11
+2011,Ireland,oil_petroleum_exports,1628.841
+2012,Ireland,oil_petroleum_exports,1772.286
+2013,Ireland,oil_petroleum_exports,1241.109
+2014,Ireland,oil_petroleum_exports,1287.117
+2015,Ireland,oil_petroleum_exports,1771.577
+2016,Ireland,oil_petroleum_exports,1634.076
+2017,Ireland,oil_petroleum_exports,1856.755
+2018,Ireland,oil_petroleum_exports,1692.736
+2019,Ireland,oil_petroleum_exports,1493.637
+2020,Ireland,oil_petroleum_exports,1518.723
+total,Ireland,oil_petroleum_exports,15896.857
+2011,Greece,oil_petroleum_exports,9564.0
+2012,Greece,oil_petroleum_exports,12407.0
+2013,Greece,oil_petroleum_exports,14182.0
+2014,Greece,oil_petroleum_exports,15553.0
+2015,Greece,oil_petroleum_exports,16236.0
+2016,Greece,oil_petroleum_exports,18223.0
+2017,Greece,oil_petroleum_exports,19136.377
+2018,Greece,oil_petroleum_exports,20189.359
+2019,Greece,oil_petroleum_exports,18362.069
+2020,Greece,oil_petroleum_exports,18808.987
+total,Greece,oil_petroleum_exports,162661.792
+2011,Spain,oil_petroleum_exports,13054.0
+2012,Spain,oil_petroleum_exports,19539.0
+2013,Spain,oil_petroleum_exports,22278.0
+2014,Spain,oil_petroleum_exports,21666.0
+2015,Spain,oil_petroleum_exports,23243.0
+2016,Spain,oil_petroleum_exports,25130.0
+2017,Spain,oil_petroleum_exports,27578.0
+2018,Spain,oil_petroleum_exports,25500.0
+2019,Spain,oil_petroleum_exports,23879.0
+2020,Spain,oil_petroleum_exports,22920.0
+total,Spain,oil_petroleum_exports,224787.0
+2011,France,oil_petroleum_exports,21367.0
+2012,France,oil_petroleum_exports,19787.0
+2013,France,oil_petroleum_exports,19028.0
+2014,France,oil_petroleum_exports,19187.0
+2015,France,oil_petroleum_exports,21203.0
+2016,France,oil_petroleum_exports,20595.0
+2017,France,oil_petroleum_exports,20333.0
+2018,France,oil_petroleum_exports,20007.438
+2019,France,oil_petroleum_exports,17301.554
+2020,France,oil_petroleum_exports,12996.151
+total,France,oil_petroleum_exports,191805.143
+2011,Croatia,oil_petroleum_exports,1572.0
+2012,Croatia,oil_petroleum_exports,1554.0
+2013,Croatia,oil_petroleum_exports,1536.0
+2014,Croatia,oil_petroleum_exports,1544.0
+2015,Croatia,oil_petroleum_exports,1854.0
+2016,Croatia,oil_petroleum_exports,2076.0
+2017,Croatia,oil_petroleum_exports,2484.0
+2018,Croatia,oil_petroleum_exports,2425.5
+2019,Croatia,oil_petroleum_exports,2288.1
+2020,Croatia,oil_petroleum_exports,2328.7
+total,Croatia,oil_petroleum_exports,19662.3
+2011,Italy,oil_petroleum_exports,27068.0
+2012,Italy,oil_petroleum_exports,29862.0
+2013,Italy,oil_petroleum_exports,24452.0
+2014,Italy,oil_petroleum_exports,20896.0
+2015,Italy,oil_petroleum_exports,27924.0
+2016,Italy,oil_petroleum_exports,29505.0
+2017,Italy,oil_petroleum_exports,31743.706
+2018,Italy,oil_petroleum_exports,29519.629
+2019,Italy,oil_petroleum_exports,27747.757
+2020,Italy,oil_petroleum_exports,23432.843
+total,Italy,oil_petroleum_exports,272150.935
+2011,Cyprus,oil_petroleum_exports,0.0
+2012,Cyprus,oil_petroleum_exports,0.0
+2013,Cyprus,oil_petroleum_exports,0.0
+2014,Cyprus,oil_petroleum_exports,0.0
+2015,Cyprus,oil_petroleum_exports,23.0
+2016,Cyprus,oil_petroleum_exports,16.0
+2017,Cyprus,oil_petroleum_exports,0.0
+2018,Cyprus,oil_petroleum_exports,0.0
+2019,Cyprus,oil_petroleum_exports,0.0
+2020,Cyprus,oil_petroleum_exports,0.0
+total,Cyprus,oil_petroleum_exports,39.0
+2011,Latvia,oil_petroleum_exports,457.0
+2012,Latvia,oil_petroleum_exports,517.0
+2013,Latvia,oil_petroleum_exports,676.0
+2014,Latvia,oil_petroleum_exports,818.0
+2015,Latvia,oil_petroleum_exports,949.0
+2016,Latvia,oil_petroleum_exports,807.0
+2017,Latvia,oil_petroleum_exports,749.949
+2018,Latvia,oil_petroleum_exports,868.604
+2019,Latvia,oil_petroleum_exports,479.113
+2020,Latvia,oil_petroleum_exports,287.66
+total,Latvia,oil_petroleum_exports,6609.326
+2011,Lithuania,oil_petroleum_exports,7827.0
+2012,Lithuania,oil_petroleum_exports,7681.0
+2013,Lithuania,oil_petroleum_exports,8305.0
+2014,Lithuania,oil_petroleum_exports,6970.0
+2015,Lithuania,oil_petroleum_exports,8340.0
+2016,Lithuania,oil_petroleum_exports,8536.0
+2017,Lithuania,oil_petroleum_exports,8257.9
+2018,Lithuania,oil_petroleum_exports,7577.0
+2019,Lithuania,oil_petroleum_exports,7502.3
+2020,Lithuania,oil_petroleum_exports,5800.7
+total,Lithuania,oil_petroleum_exports,76796.9
+2011,Luxembourg,oil_petroleum_exports,6.333
+2012,Luxembourg,oil_petroleum_exports,9.133
+2013,Luxembourg,oil_petroleum_exports,8.354
+2014,Luxembourg,oil_petroleum_exports,5.866
+2015,Luxembourg,oil_petroleum_exports,6.686
+2016,Luxembourg,oil_petroleum_exports,11.195
+2017,Luxembourg,oil_petroleum_exports,25.239
+2018,Luxembourg,oil_petroleum_exports,3.345
+2019,Luxembourg,oil_petroleum_exports,4.726
+2020,Luxembourg,oil_petroleum_exports,2.983
+total,Luxembourg,oil_petroleum_exports,83.86
+2011,Hungary,oil_petroleum_exports,2985.0
+2012,Hungary,oil_petroleum_exports,2887.0
+2013,Hungary,oil_petroleum_exports,2982.0
+2014,Hungary,oil_petroleum_exports,3259.0
+2015,Hungary,oil_petroleum_exports,2877.0
+2016,Hungary,oil_petroleum_exports,3003.0
+2017,Hungary,oil_petroleum_exports,3263.0
+2018,Hungary,oil_petroleum_exports,3948.0
+2019,Hungary,oil_petroleum_exports,3478.0
+2020,Hungary,oil_petroleum_exports,3109.0
+total,Hungary,oil_petroleum_exports,31791.0
+2011,Malta,oil_petroleum_exports,3.0
+2012,Malta,oil_petroleum_exports,8.0
+2013,Malta,oil_petroleum_exports,151.0
+2014,Malta,oil_petroleum_exports,206.0
+2015,Malta,oil_petroleum_exports,532.0
+2016,Malta,oil_petroleum_exports,273.0
+2017,Malta,oil_petroleum_exports,152.068
+2018,Malta,oil_petroleum_exports,354.189
+2019,Malta,oil_petroleum_exports,382.794
+2020,Malta,oil_petroleum_exports,194.969
+total,Malta,oil_petroleum_exports,2257.02
+2011,Netherlands,oil_petroleum_exports,99112.273
+2012,Netherlands,oil_petroleum_exports,102351.0
+2013,Netherlands,oil_petroleum_exports,101752.273
+2014,Netherlands,oil_petroleum_exports,101254.273
+2015,Netherlands,oil_petroleum_exports,111290.63
+2016,Netherlands,oil_petroleum_exports,113902.476
+2017,Netherlands,oil_petroleum_exports,112385.041
+2018,Netherlands,oil_petroleum_exports,110396.227
+2019,Netherlands,oil_petroleum_exports,106181.462
+2020,Netherlands,oil_petroleum_exports,91938.093
+total,Netherlands,oil_petroleum_exports,1050563.748
+2011,Austria,oil_petroleum_exports,2278.771
+2012,Austria,oil_petroleum_exports,2503.777
+2013,Austria,oil_petroleum_exports,2574.633
+2014,Austria,oil_petroleum_exports,2720.456
+2015,Austria,oil_petroleum_exports,2833.114
+2016,Austria,oil_petroleum_exports,2757.742
+2017,Austria,oil_petroleum_exports,2757.759
+2018,Austria,oil_petroleum_exports,3182.797
+2019,Austria,oil_petroleum_exports,2944.041
+2020,Austria,oil_petroleum_exports,2878.558
+total,Austria,oil_petroleum_exports,27431.648
+2011,Poland,oil_petroleum_exports,4872.0
+2012,Poland,oil_petroleum_exports,5982.0
+2013,Poland,oil_petroleum_exports,6974.0
+2014,Poland,oil_petroleum_exports,7535.0
+2015,Poland,oil_petroleum_exports,8501.0
+2016,Poland,oil_petroleum_exports,7349.0
+2017,Poland,oil_petroleum_exports,5414.755
+2018,Poland,oil_petroleum_exports,6211.698
+2019,Poland,oil_petroleum_exports,5485.06
+2020,Poland,oil_petroleum_exports,4804.457
+total,Poland,oil_petroleum_exports,63128.97
+2011,Portugal,oil_petroleum_exports,2856.0
+2012,Portugal,oil_petroleum_exports,3703.0
+2013,Portugal,oil_petroleum_exports,5526.0
+2014,Portugal,oil_petroleum_exports,4734.0
+2015,Portugal,oil_petroleum_exports,6802.0
+2016,Portugal,oil_petroleum_exports,6681.0
+2017,Portugal,oil_petroleum_exports,6915.292
+2018,Portugal,oil_petroleum_exports,5290.461
+2019,Portugal,oil_petroleum_exports,4802.271
+2020,Portugal,oil_petroleum_exports,5245.365
+total,Portugal,oil_petroleum_exports,52555.389
+2011,Romania,oil_petroleum_exports,3708.0
+2012,Romania,oil_petroleum_exports,3407.0
+2013,Romania,oil_petroleum_exports,3848.0
+2014,Romania,oil_petroleum_exports,4665.0
+2015,Romania,oil_petroleum_exports,4769.0
+2016,Romania,oil_petroleum_exports,5176.448
+2017,Romania,oil_petroleum_exports,5057.598
+2018,Romania,oil_petroleum_exports,5330.796
+2019,Romania,oil_petroleum_exports,5432.038
+2020,Romania,oil_petroleum_exports,4343.689
+total,Romania,oil_petroleum_exports,45737.569
+2011,Slovenia,oil_petroleum_exports,710.0
+2012,Slovenia,oil_petroleum_exports,812.0
+2013,Slovenia,oil_petroleum_exports,935.0
+2014,Slovenia,oil_petroleum_exports,1393.0
+2015,Slovenia,oil_petroleum_exports,1717.0
+2016,Slovenia,oil_petroleum_exports,2045.0
+2017,Slovenia,oil_petroleum_exports,2080.889
+2018,Slovenia,oil_petroleum_exports,2112.389
+2019,Slovenia,oil_petroleum_exports,2306.308
+2020,Slovenia,oil_petroleum_exports,1919.421
+total,Slovenia,oil_petroleum_exports,16031.007
+2011,Slovakia,oil_petroleum_exports,3938.0
+2012,Slovakia,oil_petroleum_exports,3518.0
+2013,Slovakia,oil_petroleum_exports,4122.0
+2014,Slovakia,oil_petroleum_exports,3653.0
+2015,Slovakia,oil_petroleum_exports,4391.0
+2016,Slovakia,oil_petroleum_exports,4125.0
+2017,Slovakia,oil_petroleum_exports,3951.0
+2018,Slovakia,oil_petroleum_exports,3545.0
+2019,Slovakia,oil_petroleum_exports,3354.0
+2020,Slovakia,oil_petroleum_exports,3623.0
+total,Slovakia,oil_petroleum_exports,38220.0
+2011,Finland,oil_petroleum_exports,7184.0
+2012,Finland,oil_petroleum_exports,7597.0
+2013,Finland,oil_petroleum_exports,9051.0
+2014,Finland,oil_petroleum_exports,8502.0
+2015,Finland,oil_petroleum_exports,6847.0
+2016,Finland,oil_petroleum_exports,9065.0
+2017,Finland,oil_petroleum_exports,9000.0
+2018,Finland,oil_petroleum_exports,8807.0
+2019,Finland,oil_petroleum_exports,9490.0
+2020,Finland,oil_petroleum_exports,8732.0
+total,Finland,oil_petroleum_exports,84275.0
+2011,Sweden,oil_petroleum_exports,11507.0
+2012,Sweden,oil_petroleum_exports,13408.0
+2013,Sweden,oil_petroleum_exports,9916.0
+2014,Sweden,oil_petroleum_exports,12565.0
+2015,Sweden,oil_petroleum_exports,15061.0
+2016,Sweden,oil_petroleum_exports,16839.0
+2017,Sweden,oil_petroleum_exports,17884.0
+2018,Sweden,oil_petroleum_exports,17096.0
+2019,Sweden,oil_petroleum_exports,11609.43
+2020,Sweden,oil_petroleum_exports,13214.847
+total,Sweden,oil_petroleum_exports,139100.277
+2011,Iceland,oil_petroleum_exports,0.0
+2012,Iceland,oil_petroleum_exports,0.0
+2013,Iceland,oil_petroleum_exports,0.0
+2014,Iceland,oil_petroleum_exports,0.0
+2015,Iceland,oil_petroleum_exports,0.0
+2016,Iceland,oil_petroleum_exports,0.0
+2017,Iceland,oil_petroleum_exports,0.0
+2018,Iceland,oil_petroleum_exports,0.0
+2019,Iceland,oil_petroleum_exports,0.0
+2020,Iceland,oil_petroleum_exports,0.0
+total,Iceland,oil_petroleum_exports,0.0
+2014,Liechtenstein,oil_petroleum_exports,0.0
+2015,Liechtenstein,oil_petroleum_exports,0.0
+2016,Liechtenstein,oil_petroleum_exports,0.0
+2017,Liechtenstein,oil_petroleum_exports,0.0
+2018,Liechtenstein,oil_petroleum_exports,0.0
+2019,Liechtenstein,oil_petroleum_exports,0.0
+2020,Liechtenstein,oil_petroleum_exports,0.0
+total,Liechtenstein,oil_petroleum_exports,0.0
+2011,Norway,oil_petroleum_exports,87718.0
+2012,Norway,oil_petroleum_exports,79803.0
+2013,Norway,oil_petroleum_exports,75146.0
+2014,Norway,oil_petroleum_exports,79413.0
+2015,Norway,oil_petroleum_exports,83132.0
+2016,Norway,oil_petroleum_exports,86200.286
+2017,Norway,oil_petroleum_exports,86168.0
+2018,Norway,oil_petroleum_exports,80928.061
+2019,Norway,oil_petroleum_exports,79426.092
+2020,Norway,oil_petroleum_exports,91956.251
+total,Norway,oil_petroleum_exports,829890.69
+2011,United Kingdom,oil_petroleum_exports,61424.0
+2012,United Kingdom,oil_petroleum_exports,60850.0
+2013,United Kingdom,oil_petroleum_exports,60004.0
+2014,United Kingdom,oil_petroleum_exports,53697.0
+2015,United Kingdom,oil_petroleum_exports,56585.0
+2016,United Kingdom,oil_petroleum_exports,59105.088
+2017,United Kingdom,oil_petroleum_exports,61446.096
+2018,United Kingdom,oil_petroleum_exports,66868.681
+2019,United Kingdom,oil_petroleum_exports,65561.001
+total,United Kingdom,oil_petroleum_exports,545540.866
+2011,Montenegro,oil_petroleum_exports,15.0
+2012,Montenegro,oil_petroleum_exports,12.0
+2013,Montenegro,oil_petroleum_exports,14.0
+2014,Montenegro,oil_petroleum_exports,11.0
+2015,Montenegro,oil_petroleum_exports,16.0
+2016,Montenegro,oil_petroleum_exports,15.0
+2017,Montenegro,oil_petroleum_exports,32.9
+2018,Montenegro,oil_petroleum_exports,31.2
+2019,Montenegro,oil_petroleum_exports,31.1
+2020,Montenegro,oil_petroleum_exports,9.4
+total,Montenegro,oil_petroleum_exports,187.6
+2011,North Macedonia,oil_petroleum_exports,383.0
+2012,North Macedonia,oil_petroleum_exports,274.0
+2013,North Macedonia,oil_petroleum_exports,202.0
+2014,North Macedonia,oil_petroleum_exports,187.0
+2015,North Macedonia,oil_petroleum_exports,173.0
+2016,North Macedonia,oil_petroleum_exports,109.975
+2017,North Macedonia,oil_petroleum_exports,98.504
+2018,North Macedonia,oil_petroleum_exports,124.381
+2019,North Macedonia,oil_petroleum_exports,159.064
+2020,North Macedonia,oil_petroleum_exports,103.364
+total,North Macedonia,oil_petroleum_exports,1814.288
+2011,Albania,oil_petroleum_exports,800.0
+2012,Albania,oil_petroleum_exports,977.0
+2013,Albania,oil_petroleum_exports,1202.0
+2014,Albania,oil_petroleum_exports,1209.0
+2015,Albania,oil_petroleum_exports,1158.0
+2016,Albania,oil_petroleum_exports,907.0
+2017,Albania,oil_petroleum_exports,643.37
+2018,Albania,oil_petroleum_exports,728.258
+2019,Albania,oil_petroleum_exports,815.369
+2020,Albania,oil_petroleum_exports,727.568
+total,Albania,oil_petroleum_exports,9167.565
+2011,Serbia,oil_petroleum_exports,284.0
+2012,Serbia,oil_petroleum_exports,292.0
+2013,Serbia,oil_petroleum_exports,567.0
+2014,Serbia,oil_petroleum_exports,662.0
+2015,Serbia,oil_petroleum_exports,771.0
+2016,Serbia,oil_petroleum_exports,744.0
+2017,Serbia,oil_petroleum_exports,859.911
+2018,Serbia,oil_petroleum_exports,936.243
+2019,Serbia,oil_petroleum_exports,795.389
+2020,Serbia,oil_petroleum_exports,896.503
+total,Serbia,oil_petroleum_exports,6808.046
+2011,Turkey,oil_petroleum_exports,7365.0
+2012,Turkey,oil_petroleum_exports,7626.0
+2013,Turkey,oil_petroleum_exports,8085.0
+2014,Turkey,oil_petroleum_exports,6951.0
+2015,Turkey,oil_petroleum_exports,7588.0
+2016,Turkey,oil_petroleum_exports,6489.0
+2017,Turkey,oil_petroleum_exports,6760.0
+2018,Turkey,oil_petroleum_exports,5004.0
+2019,Turkey,oil_petroleum_exports,8491.0
+2020,Turkey,oil_petroleum_exports,7595.49
+total,Turkey,oil_petroleum_exports,71954.49
+2014,Bosnia and Herzegovina,oil_petroleum_exports,306.0
+2015,Bosnia and Herzegovina,oil_petroleum_exports,243.0
+2016,Bosnia and Herzegovina,oil_petroleum_exports,221.0
+2017,Bosnia and Herzegovina,oil_petroleum_exports,258.0
+2018,Bosnia and Herzegovina,oil_petroleum_exports,227.877
+2019,Bosnia and Herzegovina,oil_petroleum_exports,41.188
+2020,Bosnia and Herzegovina,oil_petroleum_exports,10.742
+total,Bosnia and Herzegovina,oil_petroleum_exports,1307.807
+2011,Kosovo (under United Nations Security Council Resolution 1244/99),oil_petroleum_exports,0.0
+2012,Kosovo (under United Nations Security Council Resolution 1244/99),oil_petroleum_exports,1.0
+2013,Kosovo (under United Nations Security Council Resolution 1244/99),oil_petroleum_exports,1.0
+2014,Kosovo (under United Nations Security Council Resolution 1244/99),oil_petroleum_exports,2.0
+2015,Kosovo (under United Nations Security Council Resolution 1244/99),oil_petroleum_exports,10.0
+2016,Kosovo (under United Nations Security Council Resolution 1244/99),oil_petroleum_exports,11.0
+2017,Kosovo (under United Nations Security Council Resolution 1244/99),oil_petroleum_exports,2.998
+2018,Kosovo (under United Nations Security Council Resolution 1244/99),oil_petroleum_exports,12.03
+2019,Kosovo (under United Nations Security Council Resolution 1244/99),oil_petroleum_exports,15.158
+2020,Kosovo (under United Nations Security Council Resolution 1244/99),oil_petroleum_exports,8.211
+total,Kosovo (under United Nations Security Council Resolution 1244/99),oil_petroleum_exports,63.397
+2011,Moldova,oil_petroleum_exports,15.0
+2012,Moldova,oil_petroleum_exports,18.0
+2013,Moldova,oil_petroleum_exports,33.0
+2014,Moldova,oil_petroleum_exports,18.0
+2015,Moldova,oil_petroleum_exports,14.0
+2016,Moldova,oil_petroleum_exports,16.0
+2017,Moldova,oil_petroleum_exports,34.932
+2018,Moldova,oil_petroleum_exports,27.0
+2019,Moldova,oil_petroleum_exports,9.8
+2020,Moldova,oil_petroleum_exports,13.9
+total,Moldova,oil_petroleum_exports,199.632
+2011,Ukraine,oil_petroleum_exports,4183.0
+2012,Ukraine,oil_petroleum_exports,1725.0
+2013,Ukraine,oil_petroleum_exports,1007.0
+2014,Ukraine,oil_petroleum_exports,827.0
+2015,Ukraine,oil_petroleum_exports,121.0
+2016,Ukraine,oil_petroleum_exports,48.0
+2017,Ukraine,oil_petroleum_exports,375.0
+2018,Ukraine,oil_petroleum_exports,329.64
+2019,Ukraine,oil_petroleum_exports,817.2
+2020,Ukraine,oil_petroleum_exports,347.7
+total,Ukraine,oil_petroleum_exports,9780.54
+2013,Georgia,oil_petroleum_exports,70.0
+2014,Georgia,oil_petroleum_exports,66.0
+2015,Georgia,oil_petroleum_exports,265.0
+2016,Georgia,oil_petroleum_exports,136.0
+2017,Georgia,oil_petroleum_exports,265.0
+2018,Georgia,oil_petroleum_exports,114.0
+2019,Georgia,oil_petroleum_exports,23.536
+2020,Georgia,oil_petroleum_exports,16.651
+total,Georgia,oil_petroleum_exports,956.187
+2011,biofuel_imports,Belgium,0.0
+2012,biofuel_imports,Belgium,0.0
+2013,biofuel_imports,Belgium,0.0
+2014,biofuel_imports,Belgium,0.0
+2015,biofuel_imports,Belgium,0.0
+2016,biofuel_imports,Belgium,0.0
+2017,biofuel_imports,Belgium,0.0
+2018,biofuel_imports,Belgium,0.0
+2019,biofuel_imports,Belgium,0.0
+2020,biofuel_imports,Belgium,0.0
+total,biofuel_imports,Belgium,0.0
+2011,biofuel_imports,Bulgaria,0.0
+2012,biofuel_imports,Bulgaria,22.255
+2013,biofuel_imports,Bulgaria,8.096
+2014,biofuel_imports,Bulgaria,20.238
+2015,biofuel_imports,Bulgaria,47.259
+2016,biofuel_imports,Bulgaria,59.288
+2017,biofuel_imports,Bulgaria,34.524
+2018,biofuel_imports,Bulgaria,49.323
+2019,biofuel_imports,Bulgaria,84.924
+2020,biofuel_imports,Bulgaria,98.384
+total,biofuel_imports,Bulgaria,424.291
+2011,biofuel_imports,Czechia,19.0
+2012,biofuel_imports,Czechia,18.0
+2013,biofuel_imports,Czechia,36.0
+2014,biofuel_imports,Czechia,25.117
+2015,biofuel_imports,Czechia,24.087
+2016,biofuel_imports,Czechia,23.599
+2017,biofuel_imports,Czechia,27.082
+2018,biofuel_imports,Czechia,27.487
+2019,biofuel_imports,Czechia,21.747
+2020,biofuel_imports,Czechia,21.657
+total,biofuel_imports,Czechia,243.776
+2011,biofuel_imports,Denmark,1588.836
+2012,biofuel_imports,Denmark,1813.891
+2013,biofuel_imports,Denmark,1893.0
+2014,biofuel_imports,Denmark,1987.58
+2015,biofuel_imports,Denmark,1956.76
+2016,biofuel_imports,Denmark,2390.739
+2017,biofuel_imports,Denmark,3144.702
+2018,biofuel_imports,Denmark,3025.058
+2019,biofuel_imports,Denmark,2956.956
+2020,biofuel_imports,Denmark,2555.402
+total,biofuel_imports,Denmark,23312.924
+2011,biofuel_imports,Germany (until 1990 former territory of the FRG),261.0
+2012,biofuel_imports,Germany (until 1990 former territory of the FRG),348.0
+2013,biofuel_imports,Germany (until 1990 former territory of the FRG),548.0
+2014,biofuel_imports,Germany (until 1990 former territory of the FRG),419.0
+2015,biofuel_imports,Germany (until 1990 former territory of the FRG),447.0
+2016,biofuel_imports,Germany (until 1990 former territory of the FRG),443.0
+2017,biofuel_imports,Germany (until 1990 former territory of the FRG),433.0
+2018,biofuel_imports,Germany (until 1990 former territory of the FRG),377.0
+2019,biofuel_imports,Germany (until 1990 former territory of the FRG),317.0
+2020,biofuel_imports,Germany (until 1990 former territory of the FRG),293.0
+total,biofuel_imports,Germany (until 1990 former territory of the FRG),3886.0
+2011,biofuel_imports,Estonia,0.0
+2012,biofuel_imports,Estonia,14.621
+2013,biofuel_imports,Estonia,4.672
+2014,biofuel_imports,Estonia,61.576
+2015,biofuel_imports,Estonia,17.284
+2016,biofuel_imports,Estonia,9.19
+2017,biofuel_imports,Estonia,9.0
+2018,biofuel_imports,Estonia,11.971
+2019,biofuel_imports,Estonia,10.274
+2020,biofuel_imports,Estonia,0.0
+total,biofuel_imports,Estonia,138.588
+2011,biofuel_imports,Ireland,0.0
+2012,biofuel_imports,Ireland,0.0
+2013,biofuel_imports,Ireland,0.0
+2014,biofuel_imports,Ireland,0.0
+2015,biofuel_imports,Ireland,0.0
+2016,biofuel_imports,Ireland,0.0
+2017,biofuel_imports,Ireland,0.0
+2018,biofuel_imports,Ireland,0.0
+2019,biofuel_imports,Ireland,0.0
+2020,biofuel_imports,Ireland,0.0
+total,biofuel_imports,Ireland,0.0
+2011,biofuel_imports,Greece,0.028
+2012,biofuel_imports,Greece,17.912
+2013,biofuel_imports,Greece,16.273
+2014,biofuel_imports,Greece,20.885
+2015,biofuel_imports,Greece,26.669
+2016,biofuel_imports,Greece,31.741
+2017,biofuel_imports,Greece,43.154
+2018,biofuel_imports,Greece,46.176
+2019,biofuel_imports,Greece,40.266
+2020,biofuel_imports,Greece,43.715
+total,biofuel_imports,Greece,286.819
+2011,biofuel_imports,Spain,0.0
+2012,biofuel_imports,Spain,0.0
+2013,biofuel_imports,Spain,0.0
+2014,biofuel_imports,Spain,37.46
+2015,biofuel_imports,Spain,0.0
+2016,biofuel_imports,Spain,0.0
+2017,biofuel_imports,Spain,0.0
+2018,biofuel_imports,Spain,0.0
+2019,biofuel_imports,Spain,0.0
+2020,biofuel_imports,Spain,0.0
+total,biofuel_imports,Spain,37.46
+2011,biofuel_imports,France,0.0
+2012,biofuel_imports,France,25.885
+2013,biofuel_imports,France,92.556
+2014,biofuel_imports,France,172.088
+2015,biofuel_imports,France,157.256
+2016,biofuel_imports,France,249.259
+2017,biofuel_imports,France,271.183
+2018,biofuel_imports,France,276.66
+2019,biofuel_imports,France,407.69
+2020,biofuel_imports,France,411.599
+total,biofuel_imports,France,2064.176
+2011,biofuel_imports,Croatia,0.0
+2012,biofuel_imports,Croatia,0.868
+2013,biofuel_imports,Croatia,2.36
+2014,biofuel_imports,Croatia,3.993
+2015,biofuel_imports,Croatia,6.681
+2016,biofuel_imports,Croatia,13.838
+2017,biofuel_imports,Croatia,14.06
+2018,biofuel_imports,Croatia,22.3
+2019,biofuel_imports,Croatia,33.3
+2020,biofuel_imports,Croatia,42.5
+total,biofuel_imports,Croatia,139.9
+2011,biofuel_imports,Italy,1012.37
+2012,biofuel_imports,Italy,1197.209
+2013,biofuel_imports,Italy,1748.729
+2014,biofuel_imports,Italy,1935.964
+2015,biofuel_imports,Italy,1653.602
+2016,biofuel_imports,Italy,1663.82
+2017,biofuel_imports,Italy,1792.547
+2018,biofuel_imports,Italy,2241.54
+2019,biofuel_imports,Italy,2461.437
+2020,biofuel_imports,Italy,2227.193
+total,biofuel_imports,Italy,17934.411
+2011,biofuel_imports,Cyprus,0.0
+2012,biofuel_imports,Cyprus,2.236
+2013,biofuel_imports,Cyprus,2.28
+2014,biofuel_imports,Cyprus,2.568
+2015,biofuel_imports,Cyprus,3.854
+2016,biofuel_imports,Cyprus,2.13
+2017,biofuel_imports,Cyprus,3.367
+2018,biofuel_imports,Cyprus,1.907
+2019,biofuel_imports,Cyprus,3.275
+2020,biofuel_imports,Cyprus,4.3
+total,biofuel_imports,Cyprus,25.917
+2011,biofuel_imports,Latvia,3.0
+2012,biofuel_imports,Latvia,34.016
+2013,biofuel_imports,Latvia,40.776
+2014,biofuel_imports,Latvia,87.661
+2015,biofuel_imports,Latvia,126.76
+2016,biofuel_imports,Latvia,171.29
+2017,biofuel_imports,Latvia,187.289
+2018,biofuel_imports,Latvia,239.289
+2019,biofuel_imports,Latvia,295.183
+2020,biofuel_imports,Latvia,423.827
+total,biofuel_imports,Latvia,1609.091
+2011,biofuel_imports,Lithuania,0.0
+2012,biofuel_imports,Lithuania,39.591
+2013,biofuel_imports,Lithuania,58.031
+2014,biofuel_imports,Lithuania,72.445
+2015,biofuel_imports,Lithuania,83.204
+2016,biofuel_imports,Lithuania,85.929
+2017,biofuel_imports,Lithuania,117.99
+2018,biofuel_imports,Lithuania,196.0
+2019,biofuel_imports,Lithuania,241.1
+2020,biofuel_imports,Lithuania,277.0
+total,biofuel_imports,Lithuania,1171.29
+2011,biofuel_imports,Luxembourg,1.564
+2012,biofuel_imports,Luxembourg,2.429
+2013,biofuel_imports,Luxembourg,8.199
+2014,biofuel_imports,Luxembourg,5.693
+2015,biofuel_imports,Luxembourg,6.994
+2016,biofuel_imports,Luxembourg,6.052
+2017,biofuel_imports,Luxembourg,7.815
+2018,biofuel_imports,Luxembourg,7.914
+2019,biofuel_imports,Luxembourg,6.421
+2020,biofuel_imports,Luxembourg,10.854
+total,biofuel_imports,Luxembourg,63.935
+2011,biofuel_imports,Hungary,0.0
+2012,biofuel_imports,Hungary,0.0
+2013,biofuel_imports,Hungary,0.0
+2014,biofuel_imports,Hungary,0.0
+2015,biofuel_imports,Hungary,0.0
+2016,biofuel_imports,Hungary,0.0
+2017,biofuel_imports,Hungary,0.0
+2018,biofuel_imports,Hungary,0.0
+2019,biofuel_imports,Hungary,0.0
+2020,biofuel_imports,Hungary,0.0
+total,biofuel_imports,Hungary,0.0
+2011,biofuel_imports,Malta,0.0
+2012,biofuel_imports,Malta,0.0
+2013,biofuel_imports,Malta,0.0
+2014,biofuel_imports,Malta,0.0
+2015,biofuel_imports,Malta,0.0
+2016,biofuel_imports,Malta,0.0
+2017,biofuel_imports,Malta,0.0
+2018,biofuel_imports,Malta,0.0
+2019,biofuel_imports,Malta,0.0
+2020,biofuel_imports,Malta,0.0
+total,biofuel_imports,Malta,0.0
+2011,biofuel_imports,Netherlands,0.0
+2012,biofuel_imports,Netherlands,1020.0
+2013,biofuel_imports,Netherlands,610.0
+2014,biofuel_imports,Netherlands,179.0
+2015,biofuel_imports,Netherlands,0.0
+2016,biofuel_imports,Netherlands,0.0
+2017,biofuel_imports,Netherlands,0.0
+2018,biofuel_imports,Netherlands,164.0
+2019,biofuel_imports,Netherlands,798.0
+2020,biofuel_imports,Netherlands,2168.001
+total,biofuel_imports,Netherlands,4939.001
+2011,biofuel_imports,Austria,784.059
+2012,biofuel_imports,Austria,626.226
+2013,biofuel_imports,Austria,1037.396
+2014,biofuel_imports,Austria,343.846
+2015,biofuel_imports,Austria,367.842
+2016,biofuel_imports,Austria,392.201
+2017,biofuel_imports,Austria,405.745
+2018,biofuel_imports,Austria,467.093
+2019,biofuel_imports,Austria,336.792
+2020,biofuel_imports,Austria,145.636
+total,biofuel_imports,Austria,4906.836
+2011,biofuel_imports,Poland,0.0
+2012,biofuel_imports,Poland,0.0
+2013,biofuel_imports,Poland,0.0
+2014,biofuel_imports,Poland,0.0
+2015,biofuel_imports,Poland,0.0
+2016,biofuel_imports,Poland,0.0
+2017,biofuel_imports,Poland,0.0
+2018,biofuel_imports,Poland,0.0
+2019,biofuel_imports,Poland,0.0
+2020,biofuel_imports,Poland,0.0
+total,biofuel_imports,Poland,0.0
+2011,biofuel_imports,Portugal,0.0
+2012,biofuel_imports,Portugal,0.0
+2013,biofuel_imports,Portugal,0.0
+2014,biofuel_imports,Portugal,60.121
+2015,biofuel_imports,Portugal,66.0
+2016,biofuel_imports,Portugal,130.919
+2017,biofuel_imports,Portugal,35.595
+2018,biofuel_imports,Portugal,68.603
+2019,biofuel_imports,Portugal,21.669
+2020,biofuel_imports,Portugal,41.208
+total,biofuel_imports,Portugal,424.115
+2011,biofuel_imports,Romania,0.0
+2012,biofuel_imports,Romania,4.783
+2013,biofuel_imports,Romania,6.217
+2014,biofuel_imports,Romania,2.816
+2015,biofuel_imports,Romania,8.147
+2016,biofuel_imports,Romania,13.83
+2017,biofuel_imports,Romania,15.904
+2018,biofuel_imports,Romania,206.141
+2019,biofuel_imports,Romania,37.28
+2020,biofuel_imports,Romania,41.848
+total,biofuel_imports,Romania,336.966
+2011,biofuel_imports,Slovenia,0.0
+2012,biofuel_imports,Slovenia,0.0
+2013,biofuel_imports,Slovenia,0.0
+2014,biofuel_imports,Slovenia,0.0
+2015,biofuel_imports,Slovenia,0.0
+2016,biofuel_imports,Slovenia,0.0
+2017,biofuel_imports,Slovenia,0.0
+2018,biofuel_imports,Slovenia,0.0
+2019,biofuel_imports,Slovenia,0.0
+2020,biofuel_imports,Slovenia,0.0
+total,biofuel_imports,Slovenia,0.0
+2011,biofuel_imports,Slovakia,0.0
+2012,biofuel_imports,Slovakia,0.0
+2013,biofuel_imports,Slovakia,0.0
+2014,biofuel_imports,Slovakia,0.0
+2015,biofuel_imports,Slovakia,0.0
+2016,biofuel_imports,Slovakia,0.0
+2017,biofuel_imports,Slovakia,0.0
+2018,biofuel_imports,Slovakia,0.0
+2019,biofuel_imports,Slovakia,0.0
+2020,biofuel_imports,Slovakia,0.0
+total,biofuel_imports,Slovakia,0.0
+2011,biofuel_imports,Finland,14.412
+2012,biofuel_imports,Finland,28.271
+2013,biofuel_imports,Finland,60.137
+2014,biofuel_imports,Finland,45.966
+2015,biofuel_imports,Finland,59.495
+2016,biofuel_imports,Finland,49.992
+2017,biofuel_imports,Finland,86.785
+2018,biofuel_imports,Finland,94.519
+2019,biofuel_imports,Finland,100.079
+2020,biofuel_imports,Finland,106.964
+total,biofuel_imports,Finland,646.62
+2011,biofuel_imports,Sweden,0.0
+2012,biofuel_imports,Sweden,500.068
+2013,biofuel_imports,Sweden,715.462
+2014,biofuel_imports,Sweden,526.801
+2015,biofuel_imports,Sweden,364.593
+2016,biofuel_imports,Sweden,280.134
+2017,biofuel_imports,Sweden,269.0
+2018,biofuel_imports,Sweden,380.0
+2019,biofuel_imports,Sweden,435.0
+2020,biofuel_imports,Sweden,119.0
+total,biofuel_imports,Sweden,3590.058
+2011,biofuel_imports,Iceland,0.0
+2012,biofuel_imports,Iceland,0.0
+2013,biofuel_imports,Iceland,0.0
+2014,biofuel_imports,Iceland,0.0
+2015,biofuel_imports,Iceland,0.0
+2016,biofuel_imports,Iceland,0.0
+2017,biofuel_imports,Iceland,0.0
+2018,biofuel_imports,Iceland,0.0
+2019,biofuel_imports,Iceland,0.0
+2020,biofuel_imports,Iceland,0.0
+total,biofuel_imports,Iceland,0.0
+2014,biofuel_imports,Liechtenstein,0.0
+2015,biofuel_imports,Liechtenstein,0.0
+2016,biofuel_imports,Liechtenstein,0.0
+2017,biofuel_imports,Liechtenstein,1.0
+2018,biofuel_imports,Liechtenstein,2.0
+2019,biofuel_imports,Liechtenstein,2.0
+2020,biofuel_imports,Liechtenstein,2.0
+total,biofuel_imports,Liechtenstein,7.0
+2011,biofuel_imports,Norway,0.0
+2012,biofuel_imports,Norway,0.0
+2013,biofuel_imports,Norway,0.0
+2014,biofuel_imports,Norway,0.0
+2015,biofuel_imports,Norway,0.0
+2016,biofuel_imports,Norway,0.0
+2017,biofuel_imports,Norway,0.0
+2018,biofuel_imports,Norway,0.0
+2019,biofuel_imports,Norway,0.0
+2020,biofuel_imports,Norway,0.0
+total,biofuel_imports,Norway,0.0
+2011,biofuel_imports,United Kingdom,997.369
+2012,biofuel_imports,United Kingdom,1452.716
+2013,biofuel_imports,United Kingdom,3432.436
+2014,biofuel_imports,United Kingdom,4757.134
+2015,biofuel_imports,United Kingdom,6548.0
+2016,biofuel_imports,United Kingdom,7085.0
+2017,biofuel_imports,United Kingdom,6888.0
+2018,biofuel_imports,United Kingdom,8011.0
+2019,biofuel_imports,United Kingdom,8847.0
+total,biofuel_imports,United Kingdom,48018.655
+2011,biofuel_imports,Montenegro,0.0
+2012,biofuel_imports,Montenegro,0.0
+2013,biofuel_imports,Montenegro,0.0
+2014,biofuel_imports,Montenegro,4.132
+2015,biofuel_imports,Montenegro,1.738
+2016,biofuel_imports,Montenegro,1.635
+2017,biofuel_imports,Montenegro,1.328
+2018,biofuel_imports,Montenegro,1.3
+2019,biofuel_imports,Montenegro,1.9
+2020,biofuel_imports,Montenegro,1.75
+total,biofuel_imports,Montenegro,13.783
+2011,biofuel_imports,North Macedonia,0.0
+2012,biofuel_imports,North Macedonia,0.0
+2013,biofuel_imports,North Macedonia,0.0
+2014,biofuel_imports,North Macedonia,0.0
+2015,biofuel_imports,North Macedonia,0.0
+2016,biofuel_imports,North Macedonia,0.0
+2017,biofuel_imports,North Macedonia,0.0
+2018,biofuel_imports,North Macedonia,0.0
+2019,biofuel_imports,North Macedonia,0.0
+2020,biofuel_imports,North Macedonia,0.0
+total,biofuel_imports,North Macedonia,0.0
+2011,biofuel_imports,Albania,0.0
+2012,biofuel_imports,Albania,0.0
+2013,biofuel_imports,Albania,0.0
+2014,biofuel_imports,Albania,0.0
+2015,biofuel_imports,Albania,0.0
+2016,biofuel_imports,Albania,0.0
+2017,biofuel_imports,Albania,990.4
+2018,biofuel_imports,Albania,0.0
+2019,biofuel_imports,Albania,0.0
+2020,biofuel_imports,Albania,42.6
+total,biofuel_imports,Albania,1033.0
+2011,biofuel_imports,Serbia,0.722
+2012,biofuel_imports,Serbia,3.918
+2013,biofuel_imports,Serbia,2.648
+2014,biofuel_imports,Serbia,2.561
+2015,biofuel_imports,Serbia,7.19
+2016,biofuel_imports,Serbia,18.245
+2017,biofuel_imports,Serbia,68.228
+2018,biofuel_imports,Serbia,26.571
+2019,biofuel_imports,Serbia,23.401
+2020,biofuel_imports,Serbia,40.574
+total,biofuel_imports,Serbia,194.058
+2011,biofuel_imports,Turkey,0.0
+2012,biofuel_imports,Turkey,0.0
+2013,biofuel_imports,Turkey,0.0
+2014,biofuel_imports,Turkey,0.0
+2015,biofuel_imports,Turkey,0.0
+2016,biofuel_imports,Turkey,0.0
+2017,biofuel_imports,Turkey,0.0
+2018,biofuel_imports,Turkey,0.0
+2019,biofuel_imports,Turkey,0.0
+2020,biofuel_imports,Turkey,0.0
+total,biofuel_imports,Turkey,0.0
+2014,biofuel_imports,Bosnia and Herzegovina,0.0
+2015,biofuel_imports,Bosnia and Herzegovina,0.0
+2016,biofuel_imports,Bosnia and Herzegovina,0.0
+2017,biofuel_imports,Bosnia and Herzegovina,14.0
+2018,biofuel_imports,Bosnia and Herzegovina,10.0
+2019,biofuel_imports,Bosnia and Herzegovina,1.0
+2020,biofuel_imports,Bosnia and Herzegovina,1.0
+total,biofuel_imports,Bosnia and Herzegovina,26.0
+2011,biofuel_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+2012,biofuel_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+2013,biofuel_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+2014,biofuel_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+2015,biofuel_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+2016,biofuel_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+2017,biofuel_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+2018,biofuel_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+2019,biofuel_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+2020,biofuel_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+total,biofuel_imports,Kosovo (under United Nations Security Council Resolution 1244/99),0.0
+2011,biofuel_imports,Moldova,0.0
+2012,biofuel_imports,Moldova,0.0
+2013,biofuel_imports,Moldova,0.0
+2014,biofuel_imports,Moldova,0.0
+2015,biofuel_imports,Moldova,0.0
+2016,biofuel_imports,Moldova,0.0
+2017,biofuel_imports,Moldova,85.0
+2018,biofuel_imports,Moldova,2.0
+2019,biofuel_imports,Moldova,19.0
+2020,biofuel_imports,Moldova,33.0
+total,biofuel_imports,Moldova,139.0
+2011,biofuel_imports,Ukraine,0.0
+2012,biofuel_imports,Ukraine,0.0
+2013,biofuel_imports,Ukraine,0.0
+2014,biofuel_imports,Ukraine,0.0
+2015,biofuel_imports,Ukraine,0.0
+2016,biofuel_imports,Ukraine,0.0
+2017,biofuel_imports,Ukraine,0.0
+2018,biofuel_imports,Ukraine,0.0
+2019,biofuel_imports,Ukraine,0.0
+2020,biofuel_imports,Ukraine,0.2
+total,biofuel_imports,Ukraine,0.2
+2013,biofuel_imports,Georgia,0.0
+2014,biofuel_imports,Georgia,0.0
+2015,biofuel_imports,Georgia,0.0
+2016,biofuel_imports,Georgia,0.0
+2017,biofuel_imports,Georgia,0.0
+2018,biofuel_imports,Georgia,0.0
+2019,biofuel_imports,Georgia,0.0
+2020,biofuel_imports,Georgia,0.0
+total,biofuel_imports,Georgia,0.0
+2011,Belgium,electricity_exports,10652.0
+2012,Belgium,electricity_exports,6912.0
+2013,Belgium,electricity_exports,7603.0
+2014,Belgium,electricity_exports,4188.0
+2015,Belgium,electricity_exports,2715.0
+2016,Belgium,electricity_exports,8465.0
+2017,Belgium,electricity_exports,8167.8
+2018,Belgium,electricity_exports,4308.4
+2019,Belgium,electricity_exports,14589.0
+2020,Belgium,electricity_exports,14054.8
+total,Belgium,electricity_exports,81655.0
+2011,Bulgaria,electricity_exports,12110.0
+2012,Bulgaria,electricity_exports,10661.0
+2013,Bulgaria,electricity_exports,9532.0
+2014,Bulgaria,electricity_exports,13774.0
+2015,Bulgaria,electricity_exports,14826.0
+2016,Bulgaria,electricity_exports,10940.0
+2017,Bulgaria,electricity_exports,9185.794
+2018,Bulgaria,electricity_exports,10030.05
+2019,Bulgaria,electricity_exports,8855.135
+2020,Bulgaria,electricity_exports,7114.842
+total,Bulgaria,electricity_exports,107028.821
+2011,Czechia,electricity_exports,27501.0
+2012,Czechia,electricity_exports,28707.0
+2013,Czechia,electricity_exports,27458.0
+2014,Czechia,electricity_exports,28142.0
+2015,Czechia,electricity_exports,28661.0
+2016,Czechia,electricity_exports,24791.0
+2017,Czechia,electricity_exports,28108.937
+2018,Czechia,electricity_exports,25480.503
+2019,Czechia,electricity_exports,24122.817
+2020,Czechia,electricity_exports,23520.911
+total,Czechia,electricity_exports,266493.168
+2011,Denmark,electricity_exports,10374.0
+2012,Denmark,electricity_exports,10706.0
+2013,Denmark,electricity_exports,10377.0
+2014,Denmark,electricity_exports,9847.0
+2015,Denmark,electricity_exports,9733.185
+2016,Denmark,electricity_exports,9919.365
+2017,Denmark,electricity_exports,10655.394
+2018,Denmark,electricity_exports,10409.267
+2019,Denmark,electricity_exports,10171.042
+2020,Denmark,electricity_exports,11711.401
+total,Denmark,electricity_exports,103903.654
+2011,Germany (until 1990 former territory of the FRG),electricity_exports,54768.0
+2012,Germany (until 1990 former territory of the FRG),electricity_exports,66810.0
+2013,Germany (until 1990 former territory of the FRG),electricity_exports,71415.0
+2014,Germany (until 1990 former territory of the FRG),electricity_exports,74320.0
+2015,Germany (until 1990 former territory of the FRG),electricity_exports,85290.0
+2016,Germany (until 1990 former territory of the FRG),electricity_exports,78863.0
+2017,Germany (until 1990 former territory of the FRG),electricity_exports,80301.0
+2018,Germany (until 1990 former territory of the FRG),electricity_exports,80463.0
+2019,Germany (until 1990 former territory of the FRG),electricity_exports,72793.0
+2020,Germany (until 1990 former territory of the FRG),electricity_exports,66882.0
+total,Germany (until 1990 former territory of the FRG),electricity_exports,731905.0
+2011,Estonia,electricity_exports,5252.0
+2012,Estonia,electricity_exports,4950.0
+2013,Estonia,electricity_exports,6300.0
+2014,Estonia,electricity_exports,6484.0
+2015,Estonia,electricity_exports,6377.0
+2016,Estonia,electricity_exports,5614.0
+2017,Estonia,electricity_exports,5015.0
+2018,Estonia,electricity_exports,4950.0
+2019,Estonia,electricity_exports,2704.0
+2020,Estonia,electricity_exports,3723.0
+total,Estonia,electricity_exports,51369.0
+2011,Ireland,electricity_exports,241.527
+2012,Ireland,electricity_exports,370.13
+2013,Ireland,electricity_exports,382.971
+2014,Ireland,electricity_exports,703.958
+2015,Ireland,electricity_exports,1078.605
+2016,Ireland,electricity_exports,1583.011
+2017,Ireland,electricity_exports,1794.91
+2018,Ireland,electricity_exports,1649.249
+2019,Ireland,electricity_exports,1535.039
+2020,Ireland,electricity_exports,1912.966
+total,Ireland,electricity_exports,11252.366
+2011,Greece,electricity_exports,3948.0
+2012,Greece,electricity_exports,4169.0
+2013,Greece,electricity_exports,3901.0
+2014,Greece,electricity_exports,642.0
+2015,Greece,electricity_exports,1473.0
+2016,Greece,electricity_exports,1037.0
+2017,Greece,electricity_exports,2459.0
+2018,Greece,electricity_exports,2272.0
+2019,Greece,electricity_exports,1123.0
+2020,Greece,electricity_exports,967.0
+total,Greece,electricity_exports,21991.0
+2011,Spain,electricity_exports,14023.0
+2012,Spain,electricity_exports,18986.0
+2013,Spain,electricity_exports,16638.0
+2014,Spain,electricity_exports,15716.0
+2015,Spain,electricity_exports,15089.0
+2016,Spain,electricity_exports,14178.0
+2017,Spain,electricity_exports,14593.0
+2018,Spain,electricity_exports,12916.0
+2019,Spain,electricity_exports,11858.514
+2020,Spain,electricity_exports,14648.78
+total,Spain,electricity_exports,148646.294
+2011,France,electricity_exports,65914.0
+2012,France,electricity_exports,56734.0
+2013,France,electricity_exports,60148.0
+2014,France,electricity_exports,75063.0
+2015,France,electricity_exports,74024.0
+2016,France,electricity_exports,61404.0
+2017,France,electricity_exports,61248.042
+2018,France,electricity_exports,76478.785
+2019,France,electricity_exports,73298.799
+2020,France,electricity_exports,64575.296
+total,France,electricity_exports,668887.922
+2011,Croatia,electricity_exports,6830.0
+2012,Croatia,electricity_exports,5743.0
+2013,Croatia,electricity_exports,7391.0
+2014,Croatia,electricity_exports,6945.0
+2015,Croatia,electricity_exports,6369.0
+2016,Croatia,electricity_exports,6867.0
+2017,Croatia,electricity_exports,5204.2
+2018,Croatia,electricity_exports,7305.8
+2019,Croatia,electricity_exports,5267.8
+2020,Croatia,electricity_exports,5851.7
+total,Croatia,electricity_exports,63774.5
+2011,Italy,electricity_exports,1787.0
+2012,Italy,electricity_exports,2304.0
+2013,Italy,electricity_exports,2200.0
+2014,Italy,electricity_exports,3031.0
+2015,Italy,electricity_exports,4471.0
+2016,Italy,electricity_exports,6154.0
+2017,Italy,electricity_exports,5134.231
+2018,Italy,electricity_exports,3271.415
+2019,Italy,electricity_exports,5833.707
+2020,Italy,electricity_exports,7589.555
+total,Italy,electricity_exports,41775.908
+2011,Cyprus,electricity_exports,0.0
+2012,Cyprus,electricity_exports,0.0
+2013,Cyprus,electricity_exports,0.0
+2014,Cyprus,electricity_exports,0.0
+2015,Cyprus,electricity_exports,0.0
+2016,Cyprus,electricity_exports,0.0
+2017,Cyprus,electricity_exports,0.0
+2018,Cyprus,electricity_exports,0.0
+2019,Cyprus,electricity_exports,0.0
+2020,Cyprus,electricity_exports,0.0
+total,Cyprus,electricity_exports,0.0
+2011,Latvia,electricity_exports,2764.0
+2012,Latvia,electricity_exports,3244.0
+2013,Latvia,electricity_exports,3650.0
+2014,Latvia,electricity_exports,3023.0
+2015,Latvia,electricity_exports,3425.0
+2016,Latvia,electricity_exports,3795.0
+2017,Latvia,electricity_exports,4137.077
+2018,Latvia,electricity_exports,4264.801
+2019,Latvia,electricity_exports,3492.683
+2020,Latvia,electricity_exports,2547.73
+total,Latvia,electricity_exports,34343.291
+2011,Lithuania,electricity_exports,1347.0
+2012,Lithuania,electricity_exports,1441.0
+2013,Lithuania,electricity_exports,1127.0
+2014,Lithuania,electricity_exports,898.0
+2015,Lithuania,electricity_exports,730.0
+2016,Lithuania,electricity_exports,2831.0
+2017,Lithuania,electricity_exports,3249.0
+2018,Lithuania,electricity_exports,3215.0
+2019,Lithuania,electricity_exports,3924.3
+2020,Lithuania,electricity_exports,4104.9
+total,Lithuania,electricity_exports,22867.2
+2011,Luxembourg,electricity_exports,2614.385
+2012,Luxembourg,electricity_exports,2621.781
+2013,Luxembourg,electricity_exports,1907.517
+2014,Luxembourg,electricity_exports,2067.391
+2015,Luxembourg,electricity_exports,1919.441
+2016,Luxembourg,electricity_exports,1419.691
+2017,Luxembourg,electricity_exports,1388.648
+2018,Luxembourg,electricity_exports,1391.676
+2019,Luxembourg,electricity_exports,938.722
+2020,Luxembourg,electricity_exports,1078.612
+total,Luxembourg,electricity_exports,17347.864
+2011,Hungary,electricity_exports,8021.0
+2012,Hungary,electricity_exports,9003.0
+2013,Hungary,electricity_exports,4758.0
+2014,Hungary,electricity_exports,5689.0
+2015,Hungary,electricity_exports,6249.0
+2016,Hungary,electricity_exports,5240.0
+2017,Hungary,electricity_exports,6925.0
+2018,Hungary,electricity_exports,4265.0
+2019,Hungary,electricity_exports,7269.0
+2020,Hungary,electricity_exports,7499.0
+total,Hungary,electricity_exports,64918.0
+2011,Malta,electricity_exports,0.0
+2012,Malta,electricity_exports,0.0
+2013,Malta,electricity_exports,0.0
+2014,Malta,electricity_exports,0.0
+2015,Malta,electricity_exports,0.0
+2016,Malta,electricity_exports,0.0
+2017,Malta,electricity_exports,35.695
+2018,Malta,electricity_exports,10.549
+2019,Malta,electricity_exports,20.451
+2020,Malta,electricity_exports,4.233
+total,Malta,electricity_exports,70.928
+2011,Netherlands,electricity_exports,11531.0
+2012,Netherlands,electricity_exports,15046.0
+2013,Netherlands,electricity_exports,15015.0
+2014,Netherlands,electricity_exports,18128.0
+2015,Netherlands,electricity_exports,22011.878
+2016,Netherlands,electricity_exports,19343.255
+2017,Netherlands,electricity_exports,18951.503
+2018,Netherlands,electricity_exports,18784.664
+2019,Netherlands,electricity_exports,19547.62
+2020,Netherlands,electricity_exports,22432.831
+total,Netherlands,electricity_exports,180791.751
+2011,Austria,electricity_exports,16777.353
+2012,Austria,electricity_exports,20626.749
+2013,Austria,electricity_exports,17689.116
+2014,Austria,electricity_exports,17436.999
+2015,Austria,electricity_exports,19327.646
+2016,Austria,electricity_exports,19206.889
+2017,Austria,electricity_exports,22816.512
+2018,Austria,electricity_exports,19129.331
+2019,Austria,electricity_exports,22918.264
+2020,Austria,electricity_exports,22326.68
+total,Austria,electricity_exports,198255.539
+2011,Poland,electricity_exports,12022.0
+2012,Poland,electricity_exports,12643.0
+2013,Poland,electricity_exports,12322.0
+2014,Poland,electricity_exports,11342.0
+2015,Poland,electricity_exports,14793.0
+2016,Poland,electricity_exports,12018.0
+2017,Poland,electricity_exports,10984.0
+2018,Poland,electricity_exports,8121.301
+2019,Poland,electricity_exports,7245.352
+2020,Poland,electricity_exports,7357.075
+total,Poland,electricity_exports,108847.728
+2011,Portugal,electricity_exports,3929.0
+2012,Portugal,electricity_exports,2871.0
+2013,Portugal,electricity_exports,5324.0
+2014,Portugal,electricity_exports,6344.0
+2015,Portugal,electricity_exports,5811.0
+2016,Portugal,electricity_exports,9701.0
+2017,Portugal,electricity_exports,8189.704
+2018,Portugal,electricity_exports,8324.536
+2019,Portugal,electricity_exports,4700.037
+2020,Portugal,electricity_exports,6096.853
+total,Portugal,electricity_exports,61291.13
+2011,Romania,electricity_exports,5316.0
+2012,Romania,electricity_exports,3650.0
+2013,Romania,electricity_exports,4753.0
+2014,Romania,electricity_exports,9937.0
+2015,Romania,electricity_exports,11220.0
+2016,Romania,electricity_exports,9194.0
+2017,Romania,electricity_exports,7735.38
+2018,Romania,electricity_exports,6241.025
+2019,Romania,electricity_exports,3974.614
+2020,Romania,electricity_exports,5459.332
+total,Romania,electricity_exports,67480.351
+2011,Slovenia,electricity_exports,8408.0
+2012,Slovenia,electricity_exports,8491.0
+2013,Slovenia,electricity_exports,8811.0
+2014,Slovenia,electricity_exports,9997.0
+2015,Slovenia,electricity_exports,9093.0
+2016,Slovenia,electricity_exports,9535.0
+2017,Slovenia,electricity_exports,9648.192
+2018,Slovenia,electricity_exports,9432.402
+2019,Slovenia,electricity_exports,9339.829
+2020,Slovenia,electricity_exports,9123.056
+total,Slovenia,electricity_exports,91878.479
+2011,Slovakia,electricity_exports,10500.0
+2012,Slovakia,electricity_exports,13079.0
+2013,Slovakia,electricity_exports,10628.0
+2014,Slovakia,electricity_exports,11862.0
+2015,Slovakia,electricity_exports,12611.0
+2016,Slovakia,electricity_exports,10598.0
+2017,Slovakia,electricity_exports,12535.0
+2018,Slovakia,electricity_exports,8746.0
+2019,Slovakia,electricity_exports,11838.0
+2020,Slovakia,electricity_exports,12970.0
+total,Slovakia,electricity_exports,115367.0
+2011,Finland,electricity_exports,3804.0
+2012,Finland,electricity_exports,1645.0
+2013,Finland,electricity_exports,1876.0
+2014,Finland,electricity_exports,3655.0
+2015,Finland,electricity_exports,5122.0
+2016,Finland,electricity_exports,3159.0
+2017,Finland,electricity_exports,1779.0
+2018,Finland,electricity_exports,2612.0
+2019,Finland,electricity_exports,3896.0
+2020,Finland,electricity_exports,6671.0
+total,Finland,electricity_exports,34219.0
+2011,Sweden,electricity_exports,19714.0
+2012,Sweden,electricity_exports,31255.0
+2013,Sweden,electricity_exports,22676.0
+2014,Sweden,electricity_exports,29475.0
+2015,Sweden,electricity_exports,31894.0
+2016,Sweden,electricity_exports,26022.0
+2017,Sweden,electricity_exports,30888.0
+2018,Sweden,electricity_exports,29425.0
+2019,Sweden,electricity_exports,35231.0
+2020,Sweden,electricity_exports,36824.0
+total,Sweden,electricity_exports,293404.0
+2011,Iceland,electricity_exports,0.0
+2012,Iceland,electricity_exports,0.0
+2013,Iceland,electricity_exports,0.0
+2014,Iceland,electricity_exports,0.0
+2015,Iceland,electricity_exports,0.0
+2016,Iceland,electricity_exports,0.0
+2017,Iceland,electricity_exports,0.0
+2018,Iceland,electricity_exports,0.0
+2019,Iceland,electricity_exports,0.0
+2020,Iceland,electricity_exports,0.0
+total,Iceland,electricity_exports,0.0
+2014,Liechtenstein,electricity_exports,0.0
+2015,Liechtenstein,electricity_exports,0.0
+2016,Liechtenstein,electricity_exports,0.0
+2017,Liechtenstein,electricity_exports,0.0
+2018,Liechtenstein,electricity_exports,0.0
+2019,Liechtenstein,electricity_exports,0.0
+2020,Liechtenstein,electricity_exports,0.0
+total,Liechtenstein,electricity_exports,0.0
+2011,Norway,electricity_exports,14329.0
+2012,Norway,electricity_exports,22006.0
+2013,Norway,electricity_exports,15141.0
+2014,Norway,electricity_exports,21932.0
+2015,Norway,electricity_exports,22016.0
+2016,Norway,electricity_exports,22151.0
+2017,Norway,electricity_exports,21276.0
+2018,Norway,electricity_exports,18488.902
+2019,Norway,electricity_exports,12309.0
+2020,Norway,electricity_exports,24968.265
+total,Norway,electricity_exports,194617.167
+2011,United Kingdom,electricity_exports,2467.0
+2012,United Kingdom,electricity_exports,1911.0
+2013,United Kingdom,electricity_exports,3101.0
+2014,United Kingdom,electricity_exports,2723.0
+2015,United Kingdom,electricity_exports,1855.313
+2016,United Kingdom,electricity_exports,2272.867
+2017,United Kingdom,electricity_exports,3407.05
+2018,United Kingdom,electricity_exports,2224.764
+2019,United Kingdom,electricity_exports,3385.117
+total,United Kingdom,electricity_exports,23347.111
+2011,Montenegro,electricity_exports,431.0
+2012,Montenegro,electricity_exports,228.0
+2013,Montenegro,electricity_exports,733.0
+2014,Montenegro,electricity_exports,642.0
+2015,Montenegro,electricity_exports,517.0
+2016,Montenegro,electricity_exports,906.0
+2017,Montenegro,electricity_exports,416.7
+2018,Montenegro,electricity_exports,976.0
+2019,Montenegro,electricity_exports,942.9
+2020,Montenegro,electricity_exports,5864.0
+total,Montenegro,electricity_exports,11656.6
+2011,North Macedonia,electricity_exports,73.0
+2012,North Macedonia,electricity_exports,72.0
+2013,North Macedonia,electricity_exports,62.0
+2014,North Macedonia,electricity_exports,113.0
+2015,North Macedonia,electricity_exports,143.0
+2016,North Macedonia,electricity_exports,159.853
+2017,North Macedonia,electricity_exports,311.026
+2018,North Macedonia,electricity_exports,377.423
+2019,North Macedonia,electricity_exports,583.019
+2020,North Macedonia,electricity_exports,638.598
+total,North Macedonia,electricity_exports,2532.919
+2011,Albania,electricity_exports,0.0
+2012,Albania,electricity_exports,0.0
+2013,Albania,electricity_exports,0.0
+2014,Albania,electricity_exports,183.0
+2015,Albania,electricity_exports,956.0
+2016,Albania,electricity_exports,42.0
+2017,Albania,electricity_exports,0.0
+2018,Albania,electricity_exports,1763.786
+2019,Albania,electricity_exports,770.48
+2020,Albania,electricity_exports,963.027
+total,Albania,electricity_exports,4678.293
+2011,Serbia,electricity_exports,6979.0
+2012,Serbia,electricity_exports,5392.0
+2013,Serbia,electricity_exports,6614.0
+2014,Serbia,electricity_exports,5445.0
+2015,Serbia,electricity_exports,7221.0
+2016,Serbia,electricity_exports,6990.0
+2017,Serbia,electricity_exports,5724.139
+2018,Serbia,electricity_exports,6283.513
+2019,Serbia,electricity_exports,5340.968
+2020,Serbia,electricity_exports,5674.743
+total,Serbia,electricity_exports,61664.363
+2011,Turkey,electricity_exports,3645.0
+2012,Turkey,electricity_exports,2954.0
+2013,Turkey,electricity_exports,1227.0
+2014,Turkey,electricity_exports,2696.0
+2015,Turkey,electricity_exports,3195.0
+2016,Turkey,electricity_exports,1452.0
+2017,Turkey,electricity_exports,3303.673
+2018,Turkey,electricity_exports,3111.877
+2019,Turkey,electricity_exports,2788.667
+2020,Turkey,electricity_exports,2483.643
+total,Turkey,electricity_exports,26856.86
+2014,Bosnia and Herzegovina,electricity_exports,5998.0
+2015,Bosnia and Herzegovina,electricity_exports,6007.0
+2016,Bosnia and Herzegovina,electricity_exports,6841.0
+2017,Bosnia and Herzegovina,electricity_exports,5187.0
+2018,Bosnia and Herzegovina,electricity_exports,7698.0
+2019,Bosnia and Herzegovina,electricity_exports,6565.0
+2020,Bosnia and Herzegovina,electricity_exports,7317.0
+total,Bosnia and Herzegovina,electricity_exports,45613.0
+2011,Kosovo (under United Nations Security Council Resolution 1244/99),electricity_exports,2717.0
+2012,Kosovo (under United Nations Security Council Resolution 1244/99),electricity_exports,2619.0
+2013,Kosovo (under United Nations Security Council Resolution 1244/99),electricity_exports,2893.0
+2014,Kosovo (under United Nations Security Council Resolution 1244/99),electricity_exports,475.0
+2015,Kosovo (under United Nations Security Council Resolution 1244/99),electricity_exports,553.0
+2016,Kosovo (under United Nations Security Council Resolution 1244/99),electricity_exports,1064.0
+2017,Kosovo (under United Nations Security Council Resolution 1244/99),electricity_exports,879.91
+2018,Kosovo (under United Nations Security Council Resolution 1244/99),electricity_exports,676.815
+2019,Kosovo (under United Nations Security Council Resolution 1244/99),electricity_exports,904.989
+2020,Kosovo (under United Nations Security Council Resolution 1244/99),electricity_exports,1283.206
+total,Kosovo (under United Nations Security Council Resolution 1244/99),electricity_exports,14065.92
+2011,Moldova,electricity_exports,0.0
+2012,Moldova,electricity_exports,0.0
+2013,Moldova,electricity_exports,0.0
+2014,Moldova,electricity_exports,0.0
+2015,Moldova,electricity_exports,0.0
+2016,Moldova,electricity_exports,0.0
+2017,Moldova,electricity_exports,0.0
+2018,Moldova,electricity_exports,0.0
+2019,Moldova,electricity_exports,0.0
+2020,Moldova,electricity_exports,0.0
+total,Moldova,electricity_exports,0.0
+2011,Ukraine,electricity_exports,6322.0
+2012,Ukraine,electricity_exports,11561.0
+2013,Ukraine,electricity_exports,9929.0
+2014,Ukraine,electricity_exports,8523.0
+2015,Ukraine,electricity_exports,3591.0
+2016,Ukraine,electricity_exports,3830.0
+2017,Ukraine,electricity_exports,5226.0
+2018,Ukraine,electricity_exports,6099.0
+2019,Ukraine,electricity_exports,6282.9
+2020,Ukraine,electricity_exports,5139.8
+total,Ukraine,electricity_exports,66503.7
+2013,Georgia,electricity_exports,450.0
+2014,Georgia,electricity_exports,604.0
+2015,Georgia,electricity_exports,660.0
+2016,Georgia,electricity_exports,1409.0
+2017,Georgia,electricity_exports,939.7
+2018,Georgia,electricity_exports,602.0
+2019,Georgia,electricity_exports,379.6
+2020,Georgia,electricity_exports,255.6
+total,Georgia,electricity_exports,5299.9

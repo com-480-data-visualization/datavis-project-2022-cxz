@@ -5,7 +5,7 @@ let racing_svg = d3.select(".racing-chart-div").append("svg")
 
 
 
-let tickDuration = 500;
+let tickDuration = 1500;
 
 let top_n = 12;
 let height = 600;
@@ -39,7 +39,7 @@ let caption = racing_svg.append('text')
 
 let year = 2004;
 
-d3.csv('./data/renewable_energy_all_abbreviation.csv').then(function(data) {
+d3.csv('./data/share_rank.csv').then(function(data) {
 //if (error) throw error;
 
 console.log(data);
@@ -246,7 +246,7 @@ valueLabels
 yearText.html(~~year);
 
 if(year == 2018) ticker.stop();
-year = d3.format('.1f')((+year) + 0.1);
+year = d3.format('')((+year) + 1);
 },tickDuration);
 
 });
