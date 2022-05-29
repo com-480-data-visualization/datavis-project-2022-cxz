@@ -1,7 +1,7 @@
-function plot_reel(sectors, countries, years) {
+function plot_reel(sectors, countries, years, reset) {
     var m = [20, 20, 30, 20],
-        w = 960 - m[1] - m[3],
-        h = 500 - m[0] - m[2];
+        w = 860 - m[1] - m[3],
+        h = 540 - m[0] - m[2];
 
     var x,
         y,
@@ -10,6 +10,19 @@ function plot_reel(sectors, countries, years) {
 
     var color = d3.scale.category10();
 
+    if(reset){
+        let fig = document.getElementById("show-reel");
+        fig.innerHTML = '';
+    }
+
+    d3.select(".show-reel")
+        .append("p")
+        .attr("x", m[3])
+        .attr("y", m[0])
+        .attr("dy", ".35em")
+        .style("text-align", "center")
+        .text(countries[0] + " - " + sectors.join(", ") + ". Year: " + Math.min(...years) + " - " + Math.max(...years));
+    
     var svg = d3.select(".show-reel").append("svg")
         .attr("width", w + m[1] + m[3])
         .attr("height", h + m[0] + m[2])
@@ -48,7 +61,7 @@ function plot_reel(sectors, countries, years) {
             //     console.log(d, sectors.includes(d.sector), years.includes(d.date), countries.includes(d.country))
             // }
             // console.log(d, sectors.includes(d.sector), years.includes(d.date), countries.includes(d.country))
-            return sectors.includes(d.sector) && years.includes(d.date) && countries.includes(d.country) 
+            return sectors.includes(d.sector) && years.includes(+d.date) && countries.includes(d.country) 
         })
         .map(d => {
             return {
@@ -591,9 +604,6 @@ let all_countries = [
     'Czechia',
     'Denmark',
     'Estonia',
-    'Euro area - 19 countries  (from 2015)',
-    'European Union - 27 countries (from 2020)',
-    'European Union - 28 countries (2013-2020)',
     'Finland',
     'France',
     'Georgia',
@@ -634,18 +644,49 @@ let all_sectors = [
     // "all"
 ]
 let all_years = [
-    "2009",
-    "2010",
-    "2011",
-    "2012",
-    "2013",
-    "2014",
-    "2015",
-    "2016",
-    "2017",
-    "2018",
-    "2019",
-    // "2020"
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
 ]
 console.log("Start loading data...")
-plot_reel(all_sectors, ['United Kingdom'], all_years)
+plot_reel(all_sectors, ['Albania'], all_years)
+function replot(){
+    let sectors = $("#sector-selector").val().map(x => x.toLowerCase())
+    let countries = $("#country-selector").val()
+    let min_y = $("#min-year > span").text();
+    let max_y = $("#max-year > span").text();
+    console.log("sectors: ", sectors)
+    console.log("countries: ", countries)
+    console.log("min year", min_y)
+    console.log("max year", max_y)
+    years = [...Array(max_y - min_y + 1).keys()].map(x => (+x) + (+min_y))
+    console.log(years)
+    if (sectors.length != 0 && countries.length != 0){
+        let reset = true;
+        for(let item in countries){
+            console.log("plotting for", countries[item], "sectors: ", sectors, "years: ", years)
+            plot_reel(sectors, [countries[item]], years, reset)
+            reset = false;
+        }
+    }
+}
+$(".selectpicker").on("change", function(){
+    replot();
+})
+$("input[type=range]").on("change", function(){
+    console.log("change")
+    replot();
+})
+$("#refresh").on("click", function(){
+    console.log("clicked")
+    window.location.reload()
+})
