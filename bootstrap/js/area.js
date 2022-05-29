@@ -60,7 +60,7 @@ function plot_area(countries) {
         },
         yAxis: {
           title: {
-            text: "Height Above Sea Level",
+            text: "Final energy consumption by sector",
             x: -40,
           },
           labels: {
@@ -135,4 +135,12 @@ function plot_area(countries) {
     });
   }
   plot_area('France');
+  function replot(){
+    
+    let countries = $("#country-selector1").val()
+    plot_area(countries);
+}
+$(".selectpicker1").on("change", function(){
+  replot();
+})
   
