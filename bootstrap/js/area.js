@@ -110,7 +110,7 @@ function plot_area(countries) {
           {
             name: x0.category,
             lineColor: "rgb(180,90,50)",
-            color: "rgb(200,110,50)",
+            color: "rgb(231,218,210,0.9)",
             fillColor: "rgb(231,218,210,0.9)",
             data: [
               ['2009', x0.data[0][0]],
@@ -130,7 +130,7 @@ function plot_area(countries) {
           {
             xAxis: 1,
             lineColor: "rgb(120,160,180)",
-            color: "rgb(140,180,200)",
+            color: "rgb(190,184,220,0.9)",
             fillColor: "rgb(190,184,220,0.9)",
             name: x1.category,
             // data:x1.data,
@@ -152,7 +152,7 @@ function plot_area(countries) {
           {
             xAxis: 2,
             lineColor: "rgb(200, 190, 140)",
-            color: "rgb(200, 190, 140)",
+            color: "rgb(130,176,210,0.9)",
             fillColor: "rgb(130,176,210,0.9)",
             name: x2.category,
             // data: x2.data,
@@ -174,7 +174,7 @@ function plot_area(countries) {
           {
             xAxis: 3,
             lineColor: "rgb(100,100,100)",
-            color: "rgb(100,100,100)",
+            color: "rgb(152,153,153,0.9)",
             fillColor: "rgb(152,153,153,0.9)",
             name: x3.category,
             // data: x3.data,
