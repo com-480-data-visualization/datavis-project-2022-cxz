@@ -61,13 +61,14 @@ function plot_area(countries) {
           },
         },
         yAxis: {
-          // title: {
-          //   text: "Unit:Thousands of Tonnes Oil Equivalent",
-          //   x: -40,
-          //   style: {
-          //     fontSize: 5
-          //  }
-          // },
+          title: {
+            text: "Unit:Thousands of Tonnes Oil Equivalent",
+            x: -40,
+            offset:150,
+            style: {
+              fontSize: 15
+           }
+          },
           labels: {
             format: "{value:,.0f} TTOE ",
             style: {
