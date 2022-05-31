@@ -28,7 +28,7 @@ function plot_area(countries) {
             }
         }
     }
-
+    console.log(x0);
       Highcharts.chart("container2", {
         chart: {
           type: "area",
@@ -198,12 +198,12 @@ function plot_area(countries) {
     });
   }
   plot_area('France');
-  function replot(){
+  function replot1(){
     
-    let countries = $("#country-selector1").val()
+    let countries = $("#country-selector-previous").val()
     plot_area(countries);
 }
-$("#country-selector1").on("change", function(){
-  replot();
+$("#country-selector-previous").on("change", function(){
+  replot1();
 })
   
