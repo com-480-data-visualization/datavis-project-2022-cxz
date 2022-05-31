@@ -659,7 +659,7 @@ let all_years = [
 ]
 console.log("Start loading data...")
 plot_reel(all_sectors, ['Albania'], all_years)
-function replot(){
+function replot_show_reel(){
     let sectors = $("#sector-selector").val().map(x => x.toLowerCase())
     let countries = $("#country-selector").val()
     let min_y = $("#min-year > span").text();
@@ -680,14 +680,16 @@ function replot(){
     }
 }
 $("#country-selector").on("change", function(){
-    replot();
+    console.log("contry change")
+    replot_show_reel();
 })
 $("#sector-selector").on("change", function(){
-    replot();
+    console.log("sector change")
+    replot_show_reel();
 })
 $("input[type=range]").on("change", function(){
     console.log("change")
-    replot();
+    replot_show_reel();
 })
 $("#refresh").on("click", function(){
     console.log("clicked")
