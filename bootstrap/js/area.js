@@ -10,19 +10,19 @@ function plot_area(countries) {
     {
         if(dataset[i].country == countries)
         {
-            if(dataset[i].category == 'Industry')
+            if(dataset[i].category == 'Commercial')
             {
                 x0 = dataset[i];
             }
-            if(dataset[i].category == 'Household')
+            if(dataset[i].category == 'Industry')
             {
                 x1 = dataset[i];
             }
-            if(dataset[i].category == 'Transportation')
+            if(dataset[i].category == 'Household')
             {
                 x2 = dataset[i];
             }
-            if(dataset[i].category == 'Commercial')
+            if(dataset[i].category == 'Transportation')
             {
                 x3 = dataset[i];
             }
@@ -77,6 +77,7 @@ function plot_area(countries) {
            }
           },
           gridLineDashStyle: "Dash",
+          gridLineColor: "black",
         },
         xAxis: [
           {
@@ -112,8 +113,8 @@ function plot_area(countries) {
           {
             name: x0.category,
             lineColor: "rgb(219, 160, 7)",
-            color: "rgb(255,218,122,0.9)",
-            fillColor: "rgb(255,190,122,0.9)",
+            color: "rgb(255,218,122,0.7)",
+            fillColor: "rgb(255,190,122,0.7)",
             data: [
               ['2009', x0.data[0][0]],
               ['2010', x0.data[1][0]],
@@ -132,8 +133,8 @@ function plot_area(countries) {
           {
             xAxis: 1,
             lineColor: "rgb(116, 96, 209)",
-            color: "rgb(190,184,220,0.9)",
-            fillColor: "rgb(190,184,220,0.9)",
+            color: "rgb(190,184,220,0.7)",
+            fillColor: "rgb(190,184,220,0.7)",
             name: x1.category,
             // data:x1.data,
             data:[
@@ -154,8 +155,8 @@ function plot_area(countries) {
           {
             xAxis: 2,
             lineColor: "rgb(33, 126, 194)",
-            color: "rgb(130,176,210,0.9)",
-            fillColor: "rgb(130,176,210,0.9)",
+            color: "rgb(130,176,210,0.7)",
+            fillColor: "rgb(130,176,210,0.7)",
             name: x2.category,
             // data: x2.data,
             data:[
@@ -176,8 +177,8 @@ function plot_area(countries) {
           {
             xAxis: 3,
             lineColor: "rgb(100,100,100)",
-            color: "rgb(152,153,153,0.9)",
-            fillColor: "rgb(152,153,153,0.9)",
+            color: "rgb(152,153,153,0.7)",
+            fillColor: "rgb(152,153,153,0.7)",
             name: x3.category,
             // data: x3.data,
             data:[
