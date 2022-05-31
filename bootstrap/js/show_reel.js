@@ -679,7 +679,10 @@ function replot(){
         }
     }
 }
-$(".selectpicker").on("change", function(){
+$("#country-selector").on("change", function(){
+    replot();
+})
+$("#sector-selector").on("change", function(){
     replot();
 })
 $("input[type=range]").on("change", function(){
