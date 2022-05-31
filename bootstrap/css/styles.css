@@ -71,6 +71,15 @@
   box-sizing: border-box;
 }
 
+.center {
+  /* display: inline-block; */
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
