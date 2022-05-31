@@ -4,7 +4,7 @@ function plot_sankey(year, countries, w){
     d3.csv("./assets/data/import_export.csv").then(function(data) {
         let cleaned_data = d3.filter(data, d => {
                 // console.log(d.source, d.target, countries.includes(d.source), countries.includes(d.target));
-                return (d.year === year) && (countries.includes(d.source) || countries.includes(d.target))
+                return (+d.year === year) && (countries.includes(d.source) || countries.includes(d.target))
             })
             .map(d => {
                 return {
@@ -17,13 +17,13 @@ function plot_sankey(year, countries, w){
         Highcharts.chart('container', {
 
             chart: {
-                height: 1000,
-                width: 1200,
+                height: 0.7*$(window).width(),
+                width: 0.9*$(window).width(),
                 backgroundColor: '#282828'
             },
 
             title: {
-              text: 'Sankey Diagram for Enegry Imports and Exports in ' + year,
+              text: 'Sankey Diagram for Enegry Imports and Exports in ' + year + ' for the selected countries',
               style: {
                   color: "#ffffff"
               }
@@ -93,4 +93,35 @@ let all_countries = [
     'United Kingdom', 
 ]
 
-plot_sankey("2012", all_countries, 4)
+let all_years = [
+  2011,
+  2012,
+  2013,
+  2014,
+  2015,
+  2016,
+  2017,
+  2018,
+  2019,
+  2020
+]
+
+plot_sankey(2011, all_countries, 4)
+
+function replot(){
+  let year = +$("#year-selector").val()
+  console.log("year", year)
+  let countries = $("#country-selector").val()
+  console.log("countries: ", countries)
+  if (year != null && year >= Math.min(...all_years) && year <= Math.max(...all_years) && countries.length != 0){
+    console.log("plotting for", countries, "year", year)
+    plot_sankey(year, countries, 4)
+  }
+}
+
+$("#country-selector").on("change", function(){
+  replot();
+})
+$("#year-selector").on("change", function(){
+  replot();
+})
