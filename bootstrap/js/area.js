@@ -43,6 +43,9 @@ function plot_area(countries) {
         },
         title: {
           text: "Final energy consumption by sector",
+          style: {
+            "font-family": "Kalam"
+          }
         },
         accessibility: {
           description:
@@ -61,19 +64,26 @@ function plot_area(countries) {
             },
           },
         },
+        legend: {
+          itemStyle:{
+            "font-family": "Kalam"
+          }
+        },
         yAxis: {
           title: {
             text: "Unit:Thousands of Tonnes Oil Equivalent",
             x: -40,
             offset:90,
             style: {
-              fontSize: 15
+              fontSize: 15,
+              "font-family": "Kalam"
            }
           },
           labels: {
             format: "{value:,.0f} ",
             style: {
-              fontSize: 15
+              fontSize: 15,
+              "font-family": "Kalam"
            }
           },
           gridLineDashStyle: "Dash",
@@ -108,6 +118,9 @@ function plot_area(countries) {
         },
         tooltip: {
           valueSuffix: " TTOE",
+          style: {
+            "font-family": "Kalam"
+          }
         },
         series: [
           {

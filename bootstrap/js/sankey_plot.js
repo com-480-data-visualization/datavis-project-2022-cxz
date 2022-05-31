@@ -26,8 +26,23 @@ function plot_sankey(year, countries, w){
             title: {
               text: 'Sankey Diagram for Enegry Imports and Exports in ' + year + ' for the selected countries',
               style: {
-                  color: "#ffffff"
+                  color: "#000000",
+                  "font-family": "Kalam"
               }
+            },
+            tooltip: {
+              style: {
+                "font-family": "Kalam"
+              }
+            },
+            plotOptions:{
+              sankey:{
+                dataLabels: {
+                  style: {
+                    "font-family": "Kalam"
+                  }
+                }
+              },
             },
             accessibility: {
               point: {

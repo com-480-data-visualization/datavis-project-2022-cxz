@@ -65,6 +65,7 @@ d3.csv("assets/data/renewable_energy_transpose.csv", convert).then(function(data
 
   svg.append("g")
     .attr("transform", "translate(0," + height + ")")
+    .style("font-family", "Kalam")
     .call(d3.axisBottom(x))
 
   // Show the Y scale
@@ -73,7 +74,7 @@ d3.csv("assets/data/renewable_energy_transpose.csv", convert).then(function(data
   var y = d3.scaleLinear()
     .domain([-30,100])
     .range([height, 0])
-  svg.append("g").call(d3.axisLeft(y))
+  svg.append("g").style("font-family", "Kalam").call(d3.axisLeft(y))
 
   // Show the main vertical line
   svg
