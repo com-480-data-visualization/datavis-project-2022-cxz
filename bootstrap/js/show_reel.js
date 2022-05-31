@@ -11,7 +11,7 @@ function plot_reel(sectors, countries, years, reset) {
     // var color = d3.scale.category10();
 
     let colors = {
-        "industry": "#E7DAD2",
+        "industry": "#FFBE7A",
         "household": "#BEB8DC",
         "transport": "#82B0D2",
         "commercial": "#999999"

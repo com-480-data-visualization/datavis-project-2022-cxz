@@ -39,6 +39,7 @@ function plot_area(countries) {
             depth: 300,
             viewDistance:30
           },
+          backgroundColor: 'transparent',
         },
         title: {
           text: "Final energy consumption by sector",
@@ -110,9 +111,9 @@ function plot_area(countries) {
         series: [
           {
             name: x0.category,
-            lineColor: "rgb(180,90,50)",
-            color: "rgb(231,218,210,0.9)",
-            fillColor: "rgb(231,218,210,0.9)",
+            lineColor: "rgb(219, 160, 7)",
+            color: "rgb(255,218,122,0.9)",
+            fillColor: "rgb(255,190,122,0.9)",
             data: [
               ['2009', x0.data[0][0]],
               ['2010', x0.data[1][0]],
@@ -130,7 +131,7 @@ function plot_area(countries) {
           },
           {
             xAxis: 1,
-            lineColor: "rgb(120,160,180)",
+            lineColor: "rgb(116, 96, 209)",
             color: "rgb(190,184,220,0.9)",
             fillColor: "rgb(190,184,220,0.9)",
             name: x1.category,
@@ -152,7 +153,7 @@ function plot_area(countries) {
           },
           {
             xAxis: 2,
-            lineColor: "rgb(200, 190, 140)",
+            lineColor: "rgb(33, 126, 194)",
             color: "rgb(130,176,210,0.9)",
             fillColor: "rgb(130,176,210,0.9)",
             name: x2.category,

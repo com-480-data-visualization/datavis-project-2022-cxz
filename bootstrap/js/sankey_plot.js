@@ -19,7 +19,8 @@ function plot_sankey(year, countries, w){
             chart: {
                 height: 0.7*$(window).width(),
                 width: 0.9*$(window).width(),
-                backgroundColor: '#282828'
+                // backgroundColor: '#282828'
+                backgroundColor: 'transparent',
             },
 
             title: {
