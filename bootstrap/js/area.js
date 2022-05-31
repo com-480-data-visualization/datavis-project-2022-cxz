@@ -140,7 +140,7 @@ function plot_area(countries) {
     let countries = $("#country-selector1").val()
     plot_area(countries);
 }
-$(".selectpicker1").on("change", function(){
+$(".selectpicker").on("change", function(){
   replot();
 })
   
