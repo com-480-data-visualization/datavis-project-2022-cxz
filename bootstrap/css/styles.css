@@ -7790,6 +7790,9 @@ textarea.form-control-lg {
   --bs-text-opacity: 1;
   color: rgba(0, 0, 0, 0.5) !important;
 }
+.text-space{
+  letter-spacing:2px;
+}
 
 .text-white-50 {
   --bs-text-opacity: 1;
