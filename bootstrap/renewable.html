@@ -1,70 +1,113 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="COM480 Data Visualization Project - Visualizing Energy in Europe" />
-        <meta name="keywords" content="com480, data visualization, project, energy, europe" />
-        <meta name="author" content="Boran Xu, Yixin Cheng, Ziqi Zhao" />
-        <title>Environmental-Friendly Energy - Visualization of European Energy Usage</title>
-        <!-- Favicon-->
-        <link rel="icon" type="image/png" href="assets/img/lighting.png">
-        <!-- Bootstrap Icons-->
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
-        <!-- Google fonts-->
-        <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet" />
-        <link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic" rel="stylesheet" type="text/css" />
-        <!-- SimpleLightbox plugin CSS-->
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/SimpleLightbox/2.1.0/simpleLightbox.min.css" rel="stylesheet" />
-        <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="css/styles.css" rel="stylesheet" />
-    </head>
-    <body id="page-top">
-        <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
-            <div class="container px-4 px-lg-5">
-                <a class="navbar-brand" href="index.html">
-                    <img src="assets/img/epfl.png" height="48">
-                  </a>
-                <a class="navbar-brand" href="index.html">COM480 Project</a>
-                <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
-                <div class="collapse navbar-collapse" id="navbarResponsive">
-                    <ul class="navbar-nav ms-auto my-2 my-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="index.html">Introduction</a></li>
-                        <li class="nav-item"><a class="nav-link" href="statistics.html">Energy Statistics</a></li>
-                        <li class="nav-item"><a class="nav-link" href="renewable.html">Environmental-Friendly Energy</a></li>
-                        <li class="nav-item"><a class="nav-link" href="security.html">Energy Security</a></li>
-                    </ul>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="COM480 Data Visualization Project - Visualizing Energy in Europe" />
+    <meta name="keywords" content="com480, data visualization, project, energy, europe" />
+    <meta name="author" content="Boran Xu, Yixin Cheng, Ziqi Zhao" />
+    <title>Environmental-Friendly Energy - Visualization of European Energy Usage</title>
+    <!-- Favicon-->
+    <link rel="icon" type="image/png" href="assets/img/lighting.png">
+    <!-- Bootstrap Icons-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic"
+        rel="stylesheet" type="text/css" />
+    <!-- SimpleLightbox plugin CSS-->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/SimpleLightbox/2.1.0/simpleLightbox.min.css" rel="stylesheet" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="css/styles.css" rel="stylesheet" />
+</head>
+
+<body id="page-top">
+    <!-- Navigation-->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
+        <div class="container px-4 px-lg-5">
+            <a class="navbar-brand" href="index.html">
+                <img src="assets/img/epfl.png" height="48">
+            </a>
+            <a class="navbar-brand" href="index.html">COM480 Project</a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+                aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ms-auto my-2 my-lg-0">
+                    <li class="nav-item"><a class="nav-link" href="index.html">Introduction</a></li>
+                    <li class="nav-item"><a class="nav-link" href="statistics.html">Energy Statistics</a></li>
+                    <li class="nav-item"><a class="nav-link" href="renewable.html">Environmental-Friendly Energy</a>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="security.html">Energy Security</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- Masthead-->
+    <header class="masthead">
+        <div class="container px-4 px-lg-5 h-100">
+            <div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
+                <div class="col-lg-8 align-self-end">
+                    <h1 class="text-white font-weight-bold">Energy Visualization in Europe</h1>
+                    <hr class="divider" />
+                </div>
+                <div class="col-lg-8 align-self-baseline">
+                    <p class="text-white-75 mb-5">EPFL COM480 Course Project 2022 - By Boran Xu, Yixin Cheng, Ziqi Zhao
+                    </p>
+                    <a class="btn btn-primary btn-xl" href="index.html">Go to Introduction</a>
+                </div>
+                <div class="col-lg-8 align-self-baseline">
+                    <a href="https://github.com/com-480-data-visualization/datavis-project-2022-cxz"><img
+                            src="assets/img/github.png" class="navbar-toggler-icon" alt="github-pic"></a>
+                    <a href="https://ec.europa.eu/eurostat/web/energy/overview"><img src="assets/img/dataset.png"
+                            class="navbar-toggler-icon" alt="dataset-pic"></a>
+                    <a
+                        href="https://github.com/com-480-data-visualization/datavis-project-2022-cxz/blob/main/Milestone%201.md"><img
+                            src="assets/img/milestone1.png" class="navbar-toggler-icon" alt="milestone1-logo"></a>
+                    <a
+                        href="https://github.com/com-480-data-visualization/datavis-project-2022-cxz/blob/main/Milestone%202.md"><img
+                            src="assets/img/milestone2.png" class="navbar-toggler-icon" alt="milestone2-logo"></a>
+                    <a href="#"><img src="assets/img/milestone3.png" class="navbar-toggler-icon"
+                            alt="milestone3-logo"></a>
+                    <a href="https://d3js.org"><img src="assets/img/d3-white.png" class="navbar-toggler-icon"
+                            alt="d3-logo"></a>
                 </div>
             </div>
-        </nav>
-        <!-- Masthead-->
-        <header class="masthead">
-            <div class="container px-4 px-lg-5 h-100">
-                <div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
-                    <div class="col-lg-8 align-self-end">
-                        <h1 class="text-white font-weight-bold">Energy Visualization in Europe</h1>
-                        <hr class="divider" />
-                    </div>
-                    <div class="col-lg-8 align-self-baseline">
-                        <p class="text-white-75 mb-5">EPFL COM480 Course Project 2022 - By Boran Xu, Yixin Cheng, Ziqi Zhao</p>
-                        <a class="btn btn-primary btn-xl" href="index.html">Go to Introduction</a>
-                    </div>
-                    <div class="col-lg-8 align-self-baseline">
-                        <a href="https://github.com/com-480-data-visualization/datavis-project-2022-cxz"><img src="assets/img/github.png" class="navbar-toggler-icon" alt="github-pic"></a>
-                        <a href="https://ec.europa.eu/eurostat/web/energy/overview"><img src="assets/img/dataset.png" class="navbar-toggler-icon" alt="dataset-pic"></a>
-                        <a href="https://github.com/com-480-data-visualization/datavis-project-2022-cxz/blob/main/Milestone%201.md"><img src="assets/img/milestone1.png" class="navbar-toggler-icon" alt="milestone1-logo"></a>
-                        <a href="https://github.com/com-480-data-visualization/datavis-project-2022-cxz/blob/main/Milestone%202.md"><img src="assets/img/milestone2.png" class="navbar-toggler-icon" alt="milestone2-logo"></a>
-                        <a href="#"><img src="assets/img/milestone3.png" class="navbar-toggler-icon" alt="milestone3-logo"></a>
-                        <a href="https://d3js.org"><img src="assets/img/d3-white.png" class="navbar-toggler-icon" alt="d3-logo"></a>
-                    </div>
-                </div> 
-            </div>
-        </header>
-        <div class="racing-chart-div" align = "center">
+        </div>
+    </header>
+    <div class="center col-lg-8 align-self-baseline">
+        <p class="text-black-75 mb-5 text-space" style="font-size:20px">Renewable energy</p>
+        <p>Renewable energy is energy that has been derived from earth’s natural resources that are not finite or
+            exhaustible, such as wind and sunlight. Renewable energy is an alternative to the traditional energy that
+            relies on fossil fuels, and it tends to be much less harmful to the environment.</p>
+    </div>
+
+    <div class="center col-lg-8 align-self-baseline">
+        <p class="text-black-75 mb-5 ">
+            Renewable energy is considered as a crucial resource for sustainable development. We visualize top 10 EU
+            countries with the highest share of clean energy use year by year.</p>
+
+    </div>
+    <div class="center">
+        <div class="racing-chart-div" align="center">
+        </div>
+        <div class="center col-lg-8 align-self-baseline">
+            <p class="text-black-75 mb-5 ">
+                It can be seen that overall Iceland (code: IC) and Norway (code: NO) replace approximately 60% of
+                their energy sources with renewable ones.Scandinavian countries are ahead of Europe in using clean
+                energy.
+            </p>
 
         </div>
         <div class="box-plot">
+            <div class="center col-lg-8 align-self-baseline">
+                <p class="text-black-75 mb-5 ">
+                    Boxplot is a method for graphically demonstrating the locality, spread and skewness groups of numerical data through their quartiles.In addition to the box on a box plot, there can be lines (which are called whiskers) extending from the box indicating variability outside the upper and lower quartiles.
+                    The below graph shows Year-by-year clean energy share of box plot.Try moving the mouse over the data point to see the country.
+                </p>
+    
+            </div>
 
         </div>
         <!-- Footer-->
@@ -92,5 +135,6 @@
         <!-- Custom written JS -->
         <script src="js/racing_bar.js"></script>
         <script src="js/boxplot.js"></script>
-    </body>
+</body>
+
 </html>
