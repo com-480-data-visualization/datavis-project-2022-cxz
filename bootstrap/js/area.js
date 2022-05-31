@@ -1,6 +1,6 @@
 
 function plot_area(countries) {
-    d3.json("./assets/data/all.json").then(function (data) {
+    d3.json("./assets/data/all.json",function (data) {
     //     dataset = data;
     //   var x0 = d3.filter(dataset,d => {
     //     return (d.country == countries)&&(d.category=='Commercial')});
@@ -64,7 +64,7 @@ function plot_area(countries) {
             x: -40,
           },
           labels: {
-            format: "{value:,.0f} MAMSL",
+            format: "{value:,.0f} Thousand tonnes  oil ",
           },
           gridLineDashStyle: "Dash",
         },
@@ -140,7 +140,7 @@ function plot_area(countries) {
     let countries = $("#country-selector1").val()
     plot_area(countries);
 }
-$(".selectpicker").on("change", function(){
+$("#country-selector1").on("change", function(){
   replot();
 })
   
