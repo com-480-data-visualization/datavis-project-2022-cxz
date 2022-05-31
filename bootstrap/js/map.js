@@ -106,7 +106,8 @@ Promise.all([energy,map]).then(function(values){
       .attr("dx", "0em")
       .attr("dy", "0em")
       .attr("text-anchor", "middle")
-      .style("font", "10px 'Source Sans Pro', 'Noto Sans', sans-serif")
+      .style("font-size", "0.8rem")
+	  .style("font-family", "Kalam")
       .text(d => d.properties.NAME);
 })
 
