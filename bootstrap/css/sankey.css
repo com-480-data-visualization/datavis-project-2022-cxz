@@ -17,6 +17,7 @@ svg {
 
 .arrow{
   position: relative;
+  width: fit-content;
   margin-top: 2em;
   left: 50%;
   /* transform: translate(-50%,-50%); */
