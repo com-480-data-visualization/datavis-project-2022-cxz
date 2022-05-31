@@ -23,19 +23,19 @@ let barPadding = (height-(margin.bottom+margin.top))/(top_n*5);
 let title = racing_svg.append('text')
 .attr('class', 'title')
 .attr('y', 24)
-.html('18 years of Interbrand’s Top Global Brands');
+.html('Top 10 Clean energy countries in EU by year');
 
 let subTitle = racing_svg.append("text")
 .attr("class", "subTitle")
 .attr("y", 55)
-.html("Brand value, $m");
+.html("Clean energy as a percentage of total energy consumption");
 
 let caption = racing_svg.append('text')
 .attr('class', 'caption')
 .attr('x', width)
 .attr('y', height-5)
 .style('text-anchor', 'end')
-.html('Source: Interbrand');
+.html('Source: Eurostat');
 
 let year = 2004;
 
