@@ -5,8 +5,8 @@ function plot_reel(sectors, countries, years, reset) {
 
     var x,
         y,
-        duration = 1500,
-        delay = 500;
+        duration = 2000,
+        delay = 1000;
 
     // var color = d3.scale.category10();
 
@@ -64,14 +64,7 @@ function plot_reel(sectors, countries, years, reset) {
     d3.csv("./assets/data/final_energy_consumption_by_sector.csv", function (data) {
         var parse = d3.time.format("%Y").parse;
 
-        console.log(data)
-
         let cleaned_data = data.filter(d => {
-            // console.log(d.source, d.target, countries.includes(d.source), countries.includes(d.target));
-            // if(d.country === "United Kindom"){
-            //     console.log(d, sectors.includes(d.sector), years.includes(d.date), countries.includes(d.country))
-            // }
-            // console.log(d, sectors.includes(d.sector), years.includes(d.date), countries.includes(d.country))
             return sectors.includes(d.sector) && years.includes(+d.date) && countries.includes(d.country) 
         })
         .map(d => {
@@ -81,8 +74,6 @@ function plot_reel(sectors, countries, years, reset) {
                 "price": Math.round((+d.value)),
             }
         })
-
-        console.log(cleaned_data)
 
         // Nest stock values by symbol.
         symbols = d3.nest()
@@ -668,19 +659,13 @@ let all_years = [
     2019,
     2020
 ]
-console.log("Start loading data...")
 plot_reel(all_sectors, ['Albania'], all_years)
 function replot_show_reel(){
     let sectors = $("#sector-selector").val().map(x => x.toLowerCase())
     let countries = $("#country-selector").val()
     let min_y = $("#min-year > span").text();
     let max_y = $("#max-year > span").text();
-    console.log("sectors: ", sectors)
-    console.log("countries: ", countries)
-    console.log("min year", min_y)
-    console.log("max year", max_y)
     years = [...Array(max_y - min_y + 1).keys()].map(x => (+x) + (+min_y))
-    console.log(years)
     if (sectors.length != 0 && countries.length != 0){
         let reset = true;
         for(let item in countries){
@@ -691,18 +676,14 @@ function replot_show_reel(){
     }
 }
 $("#country-selector").on("change", function(){
-    console.log("contry change")
     replot_show_reel();
 })
 $("#sector-selector").on("change", function(){
-    console.log("sector change")
     replot_show_reel();
 })
 $("input[type=range]").on("change", function(){
-    console.log("change")
     replot_show_reel();
 })
 $("#refresh").on("click", function(){
-    console.log("clicked")
     window.location.reload()
 })

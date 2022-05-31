@@ -1,9 +1,7 @@
 function plot_sankey(year, countries, w){
     // load the data
-    console.log(countries)
     d3.csv("./assets/data/import_export.csv").then(function(data) {
         let cleaned_data = d3.filter(data, d => {
-                // console.log(d.source, d.target, countries.includes(d.source), countries.includes(d.target));
                 return (+d.year === year) && (countries.includes(d.source) || countries.includes(d.target))
             })
             .map(d => {
@@ -13,7 +11,6 @@ function plot_sankey(year, countries, w){
                     "weight": Math.round((+d.value)),
                 }
             })
-        console.log(cleaned_data)
         Highcharts.chart('container', {
 
             chart: {
@@ -126,9 +123,7 @@ plot_sankey(2011, all_countries, 4)
 
 function replot(){
   let year = +$("#year-selector").val()
-  console.log("year", year)
   let countries = $("#country-selector").val()
-  console.log("countries: ", countries)
   if (year != null && year >= Math.min(...all_years) && year <= Math.max(...all_years) && countries.length != 0){
     console.log("plotting for", countries, "year", year)
     plot_sankey(year, countries, 4)
