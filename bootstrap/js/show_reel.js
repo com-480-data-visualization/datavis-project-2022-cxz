@@ -8,7 +8,18 @@ function plot_reel(sectors, countries, years, reset) {
         duration = 1500,
         delay = 500;
 
-    var color = d3.scale.category10();
+    // var color = d3.scale.category10();
+
+    let colors = {
+        "industry": "#E7DAD2",
+        "household": "#BEB8DC",
+        "transport": "#82B0D2",
+        "commercial": "#999999"
+    }
+
+    function color(key){
+        return colors[key];
+    }
 
     if(reset){
         let fig = document.getElementById("show-reel");
@@ -231,7 +242,7 @@ function plot_reel(sectors, countries, years, reset) {
                 .filter(function (d, i) { return i; })
                 .transition()
                 .duration(duration)
-                .style("fill-opacity", 1e-6)
+                .style("fill-opacity", 1e-5)
                 .attr("d", area(d.values))
                 .remove();
 
