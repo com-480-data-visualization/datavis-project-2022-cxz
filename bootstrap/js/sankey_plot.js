@@ -17,8 +17,8 @@ function plot_sankey(year, countries, w){
         Highcharts.chart('container', {
 
             chart: {
-                height: 0.7*$(window).width(),
-                width: 0.9*$(window).width(),
+                height: 0.6*$(window).width(),
+                width: 0.8*$(window).width(),
                 // backgroundColor: '#282828'
                 backgroundColor: 'transparent',
             },

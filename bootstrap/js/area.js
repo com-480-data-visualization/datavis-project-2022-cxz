@@ -65,13 +65,13 @@ function plot_area(countries) {
           title: {
             text: "Unit:Thousands of Tonnes Oil Equivalent",
             x: -40,
-            offset:90,
+            offset:150,
             style: {
               fontSize: 15
            }
           },
           labels: {
-            format: "{value:,.0f}",
+            format: "{value:,.0f} TTOE ",
             style: {
               fontSize: 15
            }
