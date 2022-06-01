@@ -26,7 +26,7 @@ function plot_reel(sectors, countries, years, reset, width, height) {
         fig.innerHTML = '';
     }
 
-    d3.select(".show-reel")
+    d3.select("#show-reel")
         .append("p")
         .attr("x", m[3])
         .attr("y", m[0])
@@ -34,7 +34,7 @@ function plot_reel(sectors, countries, years, reset, width, height) {
         .style("text-align", "center")
         .text(countries[0] + " - " + sectors.join(", ") + ". Year: " + Math.min(...years) + " - " + Math.max(...years));
     
-    var svg = d3.select(".show-reel").append("svg")
+    var svg = d3.select("#show-reel").append("svg")
         .attr("width", w + m[1] + m[3])
         .attr("height", h + m[0] + m[2])
         .append("g")
@@ -669,10 +669,6 @@ function replot_show_reel(){
     let w = 0.6*$(window).width();
     let h = 0.3*$(window).width();
     years = [...Array(max_y - min_y + 1).keys()].map(x => (+x) + (+min_y))
-    if (reel_initial){
-        plot_reel(all_sectors, ['Albania'], all_years, true, w, h)
-        return
-    }
     if (sectors.length != 0 && countries.length != 0){
         let reset = true;
         for(let item in countries){
@@ -681,6 +677,11 @@ function replot_show_reel(){
             reset = false;
         }
         reel_initial=false;
+        return
+    }
+    if (reel_initial && sectors.length == 0 && countries.length == 0){
+        plot_reel(all_sectors, ['Albania'], all_years, true, w, h)
+        return
     }
 }
 $("#country-selector").on("change", function(){
@@ -695,6 +696,6 @@ $("input[type=range]").on("change", function(){
 $( window ).resize(function() {
     replot_show_reel();
   });
-$("#refresh").on("click", function(){
+$("#refresh2").on("click", function(){
     window.location.reload()
 })

@@ -126,10 +126,6 @@ plot_sankey(2011, all_countries, 4, 0.8*$(window).width(), 0.6*$(window).width()
 function replot(){
   let year = +$("#year-selector").val()
   let countries = $("#country-selector").val()
-  if(initial){
-    plot_sankey(2011, all_countries, 4, 0.8*$(window).width(), 0.6*$(window).width());
-    return
-  }
   if (year != null && year >= Math.min(...all_years) && year <= Math.max(...all_years) && countries.length != 0){
     console.log("plotting for", countries, "year", year)
     let w = 0.8*$(window).width();
@@ -137,6 +133,11 @@ function replot(){
     console.log("plot")
     initial=false;
     plot_sankey(year, countries, 4, w, h)
+    return
+  }
+  if(initial && year == 0 && countries.length == 0){
+    plot_sankey(2011, all_countries, 4, 0.8*$(window).width(), 0.6*$(window).width());
+    return
   }
 }
 
