@@ -1,7 +1,7 @@
 function plot_reel(sectors, countries, years, reset, width, height) {
     var m = [20, 20, 30, 20],
-        w = Math.max(width, 300) - m[1] - m[3],
-        h = Math.max(height, 200) - m[0] - m[2];
+        w = Math.min(Math.max(width, 300), 1000) - m[1] - m[3],
+        h = Math.min(Math.max(height, 200), 500) - m[0] - m[2];
 
     var x,
         y,
