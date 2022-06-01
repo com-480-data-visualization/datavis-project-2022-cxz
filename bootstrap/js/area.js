@@ -39,8 +39,8 @@ function plot_area(countries, height, width) {
             depth: 300,
             viewDistance:30
           },
-          "height": Math.max(height, 50),
-          "width": Math.max(width, 300),
+          "height": Math.min(Math.max(height, 50), 300),
+          "width": Math.min(Math.max(width, 300), 800),
           backgroundColor: 'transparent',
         },
         title: {
