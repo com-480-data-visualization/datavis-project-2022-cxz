@@ -6647,6 +6647,11 @@ textarea.form-control-lg {
   background-color: currentColor;
   opacity: 0.25;
 }
+.force_center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .align-baseline {
   vertical-align: baseline !important;
