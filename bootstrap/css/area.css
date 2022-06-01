@@ -1,7 +1,7 @@
 @charset "UTF-8";
 #container2 {
     height: 80%;
-    width: 80%;
+    width: fit-content;
     min-width: 800px;
     /* max-width: 1500px; */
     margin: 0 auto;
