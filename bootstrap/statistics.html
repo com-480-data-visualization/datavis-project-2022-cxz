@@ -81,11 +81,13 @@
         <p class="text-black h4 mb-4">
           Energy statistics shows the data of each EU country's final energy consumption.</p>
           
-          <p>The Final energy consumption is the total energy consumed by end users, such as households, industry and agriculture. It is the energy which reaches the final consumer's door and excludes that which is used by the energy sector itself.
+          <p>Final energy consumption is the total energy consumed by end users, such as households, industry and agriculture. It is the energy which reaches the final consumer's door and excludes that which is used by the energy sector itself.
 
           Final energy consumption excludes energy used by the energy sector, including for deliveries, and transformation. It also excludes fuel transformed in the electrical power stations of industrial auto-producers and coke transformed into blast-furnace gas where this is not part of overall industrial consumption but of the transformation sector.
+
+          It is measured in TTOE which means thousands of tons oil equivalent.
         </p>
-        <p>The unit of final energy consumption is TTOE which means thousands of tons oil equivalent.
+        <p>Use the dropdown menu below to select a country, and see its final energy consumption in different sectors (commercial, industry, household, transportation).</p>    
     </div>
     <div class="center">
         <select
@@ -136,10 +138,15 @@
         <option data-content="<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/1200px-Flag_of_Kosovo.svg.png' height='20' width='40' > Ukraine</img>">Ukraine </option>
         <option data-content="<img src='https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/2560px-Flag_of_the_United_Kingdom.svg.png' height='20' width='40' > United Kingdom</img>">United Kingdom </option>
         </select>
+        <button type="button" class="btn btn-secondary" id="refresh">Refresh Page</button>
       </div>
+      <div class="center">
+        <p class="text-black mb-3 h6">Press "Refresh Page" if you cannot see the 3d visualization.</p>
+        <hr class="solid">
+    </div>
     <div id="container2"></div>
     <div class="center col-lg-8 align-self-baseline">
-        <p class="text-black mb-5 " >The reel graph below shows the multi-dimension view of the final energy statistics data. You can select multi countries and multi sectors to see the difference</p>
+        <p class="text-black mb-5 " >The following animated graph provides a multi-dimension view of the final energy consumptions for each country. Use the dropdown menus below to select multiple sectors and countries. Use the range slider to select the range of year. We will have one plot for each selected country.</p>
 
     </div>
     <div class="center">

@@ -1,4 +1,4 @@
-function plot_sankey(year, countries, w){
+function plot_sankey(year, countries, w, width, height){
     // load the data
     d3.csv("./assets/data/import_export.csv").then(function(data) {
         let cleaned_data = d3.filter(data, d => {
@@ -14,8 +14,8 @@ function plot_sankey(year, countries, w){
         Highcharts.chart('container', {
 
             chart: {
-                height: 0.6*$(window).width(),
-                width: 0.8*$(window).width(),
+                "height": Math.max(height, 800),
+                "width": width,
                 // backgroundColor: '#282828'
                 backgroundColor: 'transparent',
             },
@@ -119,14 +119,24 @@ let all_years = [
   2020
 ]
 
-plot_sankey(2011, all_countries, 4)
+let initial = true;
+
+plot_sankey(2011, all_countries, 4, 0.8*$(window).width(), 0.6*$(window).width())
 
 function replot(){
   let year = +$("#year-selector").val()
   let countries = $("#country-selector").val()
+  if(initial){
+    plot_sankey(2011, all_countries, 4, 0.8*$(window).width(), 0.6*$(window).width());
+    return
+  }
   if (year != null && year >= Math.min(...all_years) && year <= Math.max(...all_years) && countries.length != 0){
     console.log("plotting for", countries, "year", year)
-    plot_sankey(year, countries, 4)
+    let w = 0.8*$(window).width();
+    let h = 0.6*$(window).width();
+    console.log("plot")
+    initial=false;
+    plot_sankey(year, countries, 4, w, h)
   }
 }
 
@@ -136,3 +146,6 @@ $("#country-selector").on("change", function(){
 $("#year-selector").on("change", function(){
   replot();
 })
+$( window ).resize(function() {
+  replot();
+});

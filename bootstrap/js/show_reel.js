@@ -1,7 +1,7 @@
-function plot_reel(sectors, countries, years, reset) {
+function plot_reel(sectors, countries, years, reset, width, height) {
     var m = [20, 20, 30, 20],
-        w = 0.6*$(window).width() - m[1] - m[3],
-        h = 0.3*$(window).width() - m[0] - m[2];
+        w = Math.max(width, 300) - m[1] - m[3],
+        h = Math.max(height, 200) - m[0] - m[2];
 
     var x,
         y,
@@ -659,20 +659,28 @@ let all_years = [
     2019,
     2020
 ]
-plot_reel(all_sectors, ['Albania'], all_years)
+plot_reel(all_sectors, ['Albania'], all_years, false, 0.6*$(window).width(), 0.3*$(window).width())
+reel_initial=true;
 function replot_show_reel(){
     let sectors = $("#sector-selector").val().map(x => x.toLowerCase())
     let countries = $("#country-selector").val()
     let min_y = $("#min-year > span").text();
     let max_y = $("#max-year > span").text();
+    let w = 0.6*$(window).width();
+    let h = 0.3*$(window).width();
     years = [...Array(max_y - min_y + 1).keys()].map(x => (+x) + (+min_y))
+    if (reel_initial){
+        plot_reel(all_sectors, ['Albania'], all_years, true, w, h)
+        return
+    }
     if (sectors.length != 0 && countries.length != 0){
         let reset = true;
         for(let item in countries){
             console.log("plotting for", countries[item], "sectors: ", sectors, "years: ", years)
-            plot_reel(sectors, [countries[item]], years, reset)
+            plot_reel(sectors, [countries[item]], years, reset, w, h)
             reset = false;
         }
+        reel_initial=false;
     }
 }
 $("#country-selector").on("change", function(){
@@ -684,6 +692,9 @@ $("#sector-selector").on("change", function(){
 $("input[type=range]").on("change", function(){
     replot_show_reel();
 })
+$( window ).resize(function() {
+    replot_show_reel();
+  });
 $("#refresh").on("click", function(){
     window.location.reload()
 })

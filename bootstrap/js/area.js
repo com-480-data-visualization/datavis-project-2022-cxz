@@ -1,5 +1,5 @@
 
-function plot_area(countries) {
+function plot_area(countries, height, width) {
     d3.json("./assets/data/all.json",function (data) {
     //     dataset = data;
     //   var x0 = d3.filter(dataset,d => {
@@ -39,6 +39,8 @@ function plot_area(countries) {
             depth: 300,
             viewDistance:30
           },
+          "height": Math.max(height, 50),
+          "width": Math.max(width, 300),
           backgroundColor: 'transparent',
         },
         title: {
@@ -213,13 +215,20 @@ function plot_area(countries) {
       });
     });
   }
-  plot_area('France');
+  plot_area('France', 0.8*$(window).height(), 0.8*$(window).width());
   function replot1(){
     
     let countries = $("#country-selector-previous").val()
-    plot_area(countries);
+    if (countries){
+      plot_area(countries, 0.8*$(window).height(), 0.8*$(window).width());
+    }
+    else{
+      plot_area('France', 0.8*$(window).height(), 0.8*$(window).width());
+    }
 }
 $("#country-selector-previous").on("change", function(){
   replot1();
 })
-  
+$( window ).resize(function() {
+  replot1();
+});
