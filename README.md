@@ -10,6 +10,14 @@ Members:
 | Boran Xu    | 349290 |
 | Ziqi Zhao   | 305484 |
 
+### Project Setup
+
+There is no setup needed for our project, because we use the JS and CSS files directly from the website.
+
+### Indended Usage
+
+Users can learn about the energy information of European countries through intuitive and multi-dimensional visualizations. Specifically, users can learn about final energy consumption, renewable energy share and energy import/export status of each country in Europe.
+
 ### Project Structure
 
 Our project files are structured as below:
