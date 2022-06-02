@@ -13,7 +13,8 @@ Members:
 ### Project Structure
 
 Our project files are structured as below:
-"""Scripts
+
+```bash
 .
 └── bootstrap/
     ├── assets/         #contains all processed data and 
@@ -28,12 +29,4 @@ Our project files are structured as below:
     ├── renewable.html  #subpage about renewable energy
     ├── security.html   #subpage about energy security
     └── statistics.html #subpage about overall energy statistics
-    
-.
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
-    └── README.md
+```
