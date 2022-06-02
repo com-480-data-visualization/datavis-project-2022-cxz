@@ -17,14 +17,11 @@ Our project files are structured as below:
 ```bash
 .
 └── bootstrap/
-    ├── assets/         #contains all processed data and 
-    │   │                images resources/
+    ├── assets/         #contains all processed data and images resources/
     │   ├── data/
     │   └── img/
-    ├── css/            #cascading style sheet (CSS) file used 
-    │                    to format the contents of a webpage
-    ├── js/             #javascript files to draw charts and do     
-    │                    interactions
+    ├── css/            #cascading style sheet (CSS) file used to format the contents of a webpage
+    ├── js/             #javascript files to draw charts and do interactions
     ├── index.html      #Home Page
     ├── renewable.html  #subpage about renewable energy
     ├── security.html   #subpage about energy security
