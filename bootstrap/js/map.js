@@ -3,6 +3,14 @@ function plot_map() {
 	let energy = d3.csv("assets/data/Final_energy_consumption_all_abbreviation.csv")
 	let map = d3.json("assets/data/europe.geojson")
 
+	var slider = document.getElementById("myRange");
+	var output = document.getElementById("sign");
+	output.innerHTML = "Year selected: " + slider.value; // Display the default slider value
+	// Update the current slider value (each time you drag the slider handle)
+	slider.oninput = function() {
+	output.innerHTML = "Year selected: " + this.value;
+}
+
 	Promise.all([energy, map]).then(function (values) {
 		let energy = values[0]
 		let countrys = values[1]
@@ -46,22 +54,19 @@ function plot_map() {
 			.style("opacity", 0.9)
 			.style('background', 'white')
 			.style('display', 'none')
+			.style('pointer-events','none')
 			.style("position", "absolute");
 
 		function get_text(name) {
 			if (consumption.hasOwnProperty(name)) {
-				return name + ": final energy consumption in 2019 is " + consumption[name]['2019']
+				return name + ": final energy consumption in "+slider.value+" is " + consumption[name][slider.value]
 			} else {
-				return "data not found for country: " + name
+				return ""
 			}
 
 		}
 
 		projection = d3.geoMercator().fitExtent([[margin, margin], [width - margin, height - margin]], countrys)
-		lonLatPoint = [6.5582, 46.5101]
-		projectedPoint = projection(lonLatPoint)
-
-
 		pathGenerator = d3.geoPath().projection(projection)
 
 		svg.selectAll('path')
@@ -76,8 +81,7 @@ function plot_map() {
 			.attr('stroke', '#999999')
 			.attr('stroke-width', '1')
 			.on('mouseover', function (event, d) {
-				d3.select(this).transition()
-					.duration('50')
+				d3.select(this)
 					.attr('fill', 'white')
 				div.style('display', 'block')
 					.html(get_text(d.properties.NAME));
@@ -91,18 +95,9 @@ function plot_map() {
 			})
 			.on('mouseout', function () {
 				div.style('display', 'none')
-				d3.select(this).transition()
-					.duration('50')
+				d3.select(this)
 					.attr('fill', 'grey')
 			});
-
-
-
-		svg.append('circle')
-			.attr('cy', projectedPoint[1])
-			.attr('cx', projectedPoint[0])
-			.attr('r', 10)
-			.attr('stroke', 'black')
 
 
 		svg.selectAll("g.countryLabels text")
@@ -123,5 +118,6 @@ plot_map()
 $(window).resize(function () {
 	plot_map();
 });
+
 
 

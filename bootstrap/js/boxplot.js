@@ -1,17 +1,10 @@
-function whenDocumentLoaded(action) {
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", action);
-  } else {
-    // `DOMContentLoaded` already fired
-    action();
-  }
-}
+
 function plot_box(){ 
   const parseTime1  = d3.timeParse("%Y")
   function convert(d) {
     var str = d.Year.slice(0,-1)
     delete d.Year
-    d.points = Object.values(d)
+    d.points = Object.values(d).filter(x => !x=="")
     d.date = parseTime1(str)
     d.q1 = d3.quantile(d.points.sort(d3.ascending),.25)
     d.median = d3.quantile(d.points.sort(d3.ascending),.5)
@@ -26,7 +19,8 @@ function plot_box(){
     return Object.keys(object).find(key => object[key] === value);}
   
   // Read the data and compute summary statistics for each specie
-  d3.csv("assets/data/renewable_energy_transpose.csv", convert).then(function(data) {
+  d3.csv("assets/data/renewable_energy_full_name_transpose.csv", convert).then(function(data) {
+    console.log(data)
   
   
     // set the dimensions and margins of the graph
@@ -52,6 +46,7 @@ function plot_box(){
     .style("opacity", 0.9)
     .style('background','#69b3a2')
     .style('display','none')
+    .style('pointer-events','none')
     .style("position", "absolute");
   
   
