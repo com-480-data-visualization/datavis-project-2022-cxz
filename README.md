@@ -2,7 +2,7 @@ datavis-project-2022-cxz
 
 Project link (Please use Chrome for better experience): https://com-480-data-visualization.github.io/datavis-project-2022-cxz/bootstrap/index.html
 
-Project video link: https://drive.google.com/file/d/1J66N1fSlf6jNDjWuW7S8TmJQhjJ4uSus/view?usp=sharing
+Project video link: https://youtu.be/9agGDalIddg
 
 Members:
 
